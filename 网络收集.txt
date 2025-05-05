@@ -12,49 +12,6 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 
 B1,#genre#
-1905国内电影,http://live.nctv.top/TsLHAksKL/1905.php?id=1905a
-1905国外电影,http://live.nctv.top/TsLHAksKL/1905.php?id=1905b
-北京新闻,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjxw
-博山新闻,http://live.nctv.top/TsLHAksKL/qilu.php?id=zbbsxw
-常州新闻,http://live.nctv.top/TsLHAksKL/jstv5.php?id=cz1
-承德旅游文化,http://live.nctv.top/TsLHAksKL/hbtv1.php?id=cd2
-成都新闻,http://live.nctv.top/TsLHAksKL/cdtv.php?id=cdtv1
-重温经典,http://live.nctv.top/TsLHAksKL/bfgd.php?id=635
-斗鱼影视2,http://live.nctv.top/TsLHAksKL/douyu.php?id=12459039
-斗鱼影视3,http://live.nctv.top/TsLHAksKL/douyu.php?id=434971
-福建旅游,http://live.nctv.top/TsLHAksKL/bestv.php?id=fjly
-福建旅游,http://live.nctv.top/TsLHAksKL/fjtv.php?id=8
-福建新闻,http://live.nctv.top/TsLHAksKL/bestv.php?id=fjxw
-福建新闻,http://live.nctv.top/TsLHAksKL/fjtv.php?id=13
-港剧台1,http://live.nctv.top/TsLHAksKL/douyu.php?id=5061550
-港剧台2,http://live.nctv.top/TsLHAksKL/douyu.php?id=5261342
-港剧台3,http://live.nctv.top/TsLHAksKL/douyu.php?id=4290711
-港剧台4,http://live.nctv.top/TsLHAksKL/douyu.php?id=5522351
-港剧台5,http://live.nctv.top/TsLHAksKL/douyu.php?id=9548850
-港剧台6,http://live.nctv.top/TsLHAksKL/douyu.php?id=7119207
-港剧台7,http://live.nctv.top/TsLHAksKL/douyu.php?id=7356023
-寒亭新闻,http://live.nctv.top/TsLHAksKL/qilu.php?id=wfhtxw
-河南新闻,http://live.nctv.top/TsLHAksKL/hntv.php?id=hnxw
-虎牙-TVB西游记,http://live.nctv.top/TsLHAksKL/huya.php?id=23735126
-江苏新闻,http://live.nctv.top/TsLHAksKL/jstv5.php?id=jsxw
-江苏综艺,http://live.nctv.top/TsLHAksKL/jstv5.php?id=jszy
-靖江新闻,http://live.nctv.top/TsLHAksKL/jstv5.php?id=tzjj
-巨野新闻,http://live.nctv.top/TsLHAksKL/qilu.php?id=hzjyxw
-内江东兴新闻,http://live.nctv.top/TsLHAksKL/scds.php?id=nj_dx1
-七彩戏剧,http://live.nctv.top/TsLHAksKL/bestv.php?id=qcxj
-清苑新闻,http://live.nctv.top/TsLHAksKL/hbtv1.php?id=qy1
-热门综艺,http://live.nctv.top/TsLHAksKL/bestv.php?id=rmzy
-陕西新闻资讯,http://live.nctv.top/TsLHAksKL/sxtv.php?id=1127
-上海新闻,http://live.nctv.top/TsLHAksKL/migu.php?id=shxwzh
-双滦新闻,http://live.nctv.top/TsLHAksKL/hbtv1.php?id=sl1
-四川文化旅游,http://live.nctv.top/TsLHAksKL/sctv.php?id=scwhly
-四川新闻,http://live.nctv.top/TsLHAksKL/sctv.php?id=scxw
-泰州新闻,http://live.nctv.top/TsLHAksKL/jstv5.php?id=tz1
-鱼台新闻,http://live.nctv.top/TsLHAksKL/qilu.php?id=jiytxw
-郓城新闻,http://live.nctv.top/TsLHAksKL/qilu.php?id=hzycxw
-综艺节目,http://live.nctv.top/TsLHAksKL/douyu.php?id=9067836
-
-C1,#genre#
 1905国外电影,http://nctv.top/IDOEPpiryt/1905.php?id=1905b
 重温经典,http://nctv.top/IDOEPpiryt/bfgd.php?id=635
 福建旅游,http://nctv.top/IDOEPpiryt/bestv.php?id=fjly
@@ -67,7 +24,7 @@ C1,#genre#
 双滦新闻,http://nctv.top/IDOEPpiryt/hbtv1.php?id=sl1
 四川文化旅游,http://nctv.top/IDOEPpiryt/sctv.php?id=scwhly
 
-D1,#genre#
+C1,#genre#
 Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 八大第一,http://live4play.uk/livehttpplay?channel_id=20073
 八大精彩,http://live4play.uk/livehttpplay?channel_id=20052
@@ -104,6 +61,8 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 三立戏剧,http://live4play.uk/livehttpplay?channel_id=10125
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
+天映电影,http://live4play.uk/livehttpplay?channel_id=10130
+天映经典,http://live4play.uk/livehttpplay?channel_id=20063
 纬来电影,http://live4play.uk/livehttpplay?channel_id=20199
 纬来日本,http://live4play.uk/livehttpplay?channel_id=20303
 纬来体育,http://live4play.uk/livehttpplay?channel_id=20120
@@ -115,17 +74,7 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 中天娱乐,http://live4play.uk/livehttpplay?channel_id=20079
 中天综合,http://live4play.uk/livehttpplay?channel_id=20064
 
-E1,#genre#
-TVB千禧经典,http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-TVB星河台,http://aktv_stream1.m16tv.cfd/stream/aktv2/tvb/AKTV.m3u8
-TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-TVBS新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
-Tvbs新闻,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-寰宇新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-
-F1,#genre#
+D1,#genre#
 TVBJ1美,http://cdn3.132.us.kg/live/j1/stream.m3u8
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
@@ -139,7 +88,7 @@ TVBJ1美,http://cdn3.132.us.kg/live/j1/stream.m3u8
 无线翡翠,http://cdn3.132.us.kg/live/fct/stream.m3u8
 无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 
-G1,#genre#
+E1,#genre#
 安徽综艺体育,http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
 蚌埠新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
