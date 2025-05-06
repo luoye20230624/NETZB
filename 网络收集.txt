@@ -3,7 +3,6 @@ A1,#genre#
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVBJ1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -14,7 +13,6 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 B1,#genre#
 1905国内电影,http://live.nctv.top/DYjsklis/1905.php?id=1905a
 1905国外电影,http://live.nctv.top/DYjsklis/1905.php?id=1905b
-北京新闻,http://live.nctv.top/DYjsklis/bjtv.php?id=bjxw
 博山新闻,http://live.nctv.top/DYjsklis/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/DYjsklis/hbtv1.php?id=cd2
@@ -24,7 +22,6 @@ B1,#genre#
 斗鱼影视3,http://live.nctv.top/DYjsklis/douyu.php?id=434971
 福建旅游,http://live.nctv.top/DYjsklis/bestv.php?id=fjly
 福建旅游,http://live.nctv.top/DYjsklis/fjtv.php?id=8
-福建新闻,http://live.nctv.top/DYjsklis/bestv.php?id=fjxw
 福建新闻,http://live.nctv.top/DYjsklis/fjtv.php?id=13
 港剧台1,http://live.nctv.top/DYjsklis/douyu.php?id=5061550
 港剧台2,http://live.nctv.top/DYjsklis/douyu.php?id=5261342
@@ -36,7 +33,6 @@ B1,#genre#
 寒亭新闻,http://live.nctv.top/DYjsklis/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/DYjsklis/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/DYjsklis/huya.php?id=23735126
-江苏新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/DYjsklis/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzjyxw
@@ -48,7 +44,6 @@ B1,#genre#
 陕西新闻资讯,http://live.nctv.top/DYjsklis/sxtv.php?id=1127
 上海新闻,http://live.nctv.top/DYjsklis/migu.php?id=shxwzh
 双滦新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=sl1
-四川文化旅游,http://live.nctv.top/DYjsklis/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/DYjsklis/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=tz1
 兖州新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jiyzxw
@@ -61,7 +56,6 @@ C1,#genre#
 1905国外电影,http://nctv.top/IDOEPpiryt/1905.php?id=1905b
 重温经典,http://nctv.top/IDOEPpiryt/bfgd.php?id=635
 福建旅游,http://nctv.top/IDOEPpiryt/bestv.php?id=fjly
-福建新闻,http://nctv.top/IDOEPpiryt/fjtv.php?id=13
 港剧台3,http://nctv.top/IDOEPpiryt/douyu.php?id=4290711
 港剧台6,http://nctv.top/IDOEPpiryt/douyu.php?id=7119207
 江苏新闻,http://nctv.top/IDOEPpiryt/jstv5.php?id=jsxw
@@ -90,7 +84,6 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 公视闽南,http://live4play.uk/livehttpplay?channel_id=20087
 华视闽南,http://live4play.uk/livehttpplay?channel_id=20086
-今日新闻,http://live4play.uk/livehttpplay?channel_id=20043
 靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
 龙华电影,http://live4play.uk/livehttpplay?channel_id=10129
 龙华偶像,http://live4play.uk/livehttpplay?channel_id=20023
