@@ -12,6 +12,7 @@ B1,#genre#
 1905国内电影,http://live.nctv.top/DYjsklis/1905.php?id=1905a
 1905国外电影,http://live.nctv.top/DYjsklis/1905.php?id=1905b
 北京新闻,http://live.nctv.top/DYjsklis/bjtv.php?id=bjxw
+博山新闻,http://live.nctv.top/DYjsklis/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/DYjsklis/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/DYjsklis/cdtv.php?id=cdtv1
@@ -25,6 +26,7 @@ B1,#genre#
 福建新闻,http://live.nctv.top/DYjsklis/fjtv.php?id=13
 港剧台1,http://live.nctv.top/DYjsklis/douyu.php?id=5061550
 港剧台2,http://live.nctv.top/DYjsklis/douyu.php?id=5261342
+港剧台3,http://live.nctv.top/DYjsklis/douyu.php?id=4290711
 港剧台4,http://live.nctv.top/DYjsklis/douyu.php?id=5522351
 港剧台5,http://live.nctv.top/DYjsklis/douyu.php?id=9548850
 港剧台6,http://live.nctv.top/DYjsklis/douyu.php?id=7119207
@@ -36,6 +38,7 @@ B1,#genre#
 江苏综艺,http://live.nctv.top/DYjsklis/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzjyxw
+内江东兴新闻,http://live.nctv.top/DYjsklis/scds.php?id=nj_dx1
 七彩戏剧,http://live.nctv.top/DYjsklis/bestv.php?id=qcxj
 清苑新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=qy1
 热门综艺,http://live.nctv.top/DYjsklis/bestv.php?id=rmzy
@@ -45,7 +48,9 @@ B1,#genre#
 四川文化旅游,http://live.nctv.top/DYjsklis/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/DYjsklis/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=tz1
+兖州新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jiytxw
+郓城新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jncqxw
 综艺节目,http://live.nctv.top/DYjsklis/douyu.php?id=9067836
 
@@ -125,9 +130,7 @@ TVBJ1美,http://cdn3.132.us.kg/live/j1/stream.m3u8
 F1,#genre#
 安徽综艺体育,http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
 蚌埠新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
-凤凰香港,http://203.205.191.53/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文,http://203.205.191.53/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.191.53/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
