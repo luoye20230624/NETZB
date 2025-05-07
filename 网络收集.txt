@@ -43,6 +43,7 @@ B1,#genre#
 清苑新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=qy1
 热门综艺,http://live.nctv.top/DYjsklis/bestv.php?id=rmzy
 陕西新闻资讯,http://live.nctv.top/DYjsklis/qly.php?id=5500
+陕西新闻资讯,http://live.nctv.top/DYjsklis/sxtv.php?id=1127
 双滦新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=sl1
 四川文化旅游,http://live.nctv.top/DYjsklis/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/DYjsklis/sctv.php?id=scxw
@@ -118,6 +119,7 @@ TVBJ1美,http://cdn3.132.us.kg/live/j1/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
+龙华经典,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
 龙华卡通标,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 龙华偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
 龙华日韩,https://cdn3.132.us.kg/live/lhrh/stream.m3u8
@@ -135,5 +137,4 @@ F1,#genre#
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 江西新闻,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
-江西影视旅游,http://203.205.191.53/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
 
