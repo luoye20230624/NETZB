@@ -30,13 +30,11 @@ B1,#genre#
 港剧台5,http://live.nctv.top/DYjsklis/douyu.php?id=9548850
 港剧台6,http://live.nctv.top/DYjsklis/douyu.php?id=7119207
 港剧台7,http://live.nctv.top/DYjsklis/douyu.php?id=7356023
-寒亭新闻,http://live.nctv.top/DYjsklis/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/DYjsklis/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/DYjsklis/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/DYjsklis/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=tzjj
-巨野新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzjyxw
 内江东兴新闻,http://live.nctv.top/DYjsklis/scds.php?id=nj_dx1
 七彩戏剧,http://live.nctv.top/DYjsklis/bestv.php?id=qcxj
 清苑新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=qy1
@@ -51,7 +49,6 @@ B1,#genre#
 兖州新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jiytxw
 郓城新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzycxw
-长清新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jncqxw
 综艺节目,http://live.nctv.top/DYjsklis/douyu.php?id=9067836
 
 C1,#genre#
@@ -83,7 +80,6 @@ E1,#genre#
 安徽综艺体育,http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
 蚌埠新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文,http://203.205.191.53/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.191.53/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
