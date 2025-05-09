@@ -17,6 +17,7 @@ B1,#genre#
 承德旅游文化,http://live.nctv.top/DYjsklis/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/DYjsklis/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/DYjsklis/bfgd.php?id=635
+定陶新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/DYjsklis/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/DYjsklis/douyu.php?id=434971
 福建旅游,http://live.nctv.top/DYjsklis/bestv.php?id=fjly
@@ -41,7 +42,6 @@ B1,#genre#
 七彩戏剧,http://live.nctv.top/DYjsklis/bestv.php?id=qcxj
 清苑新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=qy1
 热门综艺,http://live.nctv.top/DYjsklis/bestv.php?id=rmzy
-陕西新闻资讯,http://live.nctv.top/DYjsklis/qly.php?id=5500
 陕西新闻资讯,http://live.nctv.top/DYjsklis/sxtv.php?id=1127
 上海新闻,http://live.nctv.top/DYjsklis/migu.php?id=shxwzh
 双滦新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=sl1
