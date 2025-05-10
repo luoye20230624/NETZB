@@ -15,9 +15,7 @@ CHC影迷电影,http://live.nctv.top/dl/zh/itv.php?id=chcym
 博山新闻,http://live.nctv.top/DYjsklis/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/DYjsklis/hbtv1.php?id=cd2
-成都新闻,http://live.nctv.top/DYjsklis/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/DYjsklis/bfgd.php?id=635
-定陶新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/DYjsklis/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/DYjsklis/douyu.php?id=434971
 福建旅游,http://live.nctv.top/DYjsklis/bestv.php?id=fjly
@@ -83,7 +81,6 @@ TVBJ1美,http://cdn3.132.us.kg/live/j1/stream.m3u8
 E1,#genre#
 安徽综艺体育,http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
 蚌埠新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
-凤凰香港,http://203.205.191.53/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
