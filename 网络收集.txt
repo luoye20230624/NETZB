@@ -29,6 +29,7 @@ CHC影迷电影,http://live.nctv.top/dl/zh/itv.php?id=chcym
 江苏综艺,http://live.nctv.top/DYjsklis/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzjyxw
+内江东兴新闻,http://live.nctv.top/DYjsklis/scds.php?id=nj_dx1
 七彩戏剧,http://live.nctv.top/DYjsklis/bestv.php?id=qcxj
 清苑新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=qy1
 热门综艺,http://live.nctv.top/DYjsklis/bestv.php?id=rmzy
