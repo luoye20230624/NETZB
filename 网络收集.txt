@@ -22,7 +22,6 @@ CHC影迷电影,http://live.nctv.top/dl/zh/itv.php?id=chcym
 港剧台5,http://live.nctv.top/DYjsklis/douyu.php?id=9548850
 港剧台6,http://live.nctv.top/DYjsklis/douyu.php?id=7119207
 港剧台7,http://live.nctv.top/DYjsklis/douyu.php?id=7356023
-寒亭新闻,http://live.nctv.top/DYjsklis/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/DYjsklis/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/DYjsklis/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=jsxw
