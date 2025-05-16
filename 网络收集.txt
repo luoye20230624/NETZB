@@ -1,7 +1,6 @@
 A1,#genre#
 1905国内电影,http://live.nctv.top/DYjsklis/1905.php?id=1905a
 1905国外电影,http://live.nctv.top/DYjsklis/1905.php?id=1905b
-CHC影迷电影,http://live.nctv.top/dl/zh/itv.php?id=chcym
 北京新闻,http://live.nctv.top/DYjsklis/bjtv.php?id=bjxw
 博山新闻,http://live.nctv.top/DYjsklis/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=cz1
@@ -112,6 +111,7 @@ D1,#genre#
 台湾|民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 台湾|民视新闻台FTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 台湾|年代新闻,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
+台湾|三立都会台,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
 台湾|三立台湾SanliTaiwan,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 台湾|三立戏剧台,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 台湾|三立综合SanliMetro,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
