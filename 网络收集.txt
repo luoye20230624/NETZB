@@ -8,7 +8,6 @@ A1,#genre#
 重温经典,http://live.nctv.top/DYjsklis/bfgd.php?id=635
 定陶新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/DYjsklis/douyu.php?id=12459039
-斗鱼影视3,http://live.nctv.top/DYjsklis/douyu.php?id=434971
 福建旅游,http://live.nctv.top/DYjsklis/bestv.php?id=fjly
 福建旅游,http://live.nctv.top/DYjsklis/fjtv.php?id=8
 福建新闻,http://live.nctv.top/DYjsklis/bestv.php?id=fjxw
@@ -19,7 +18,6 @@ A1,#genre#
 港剧台4,http://live.nctv.top/DYjsklis/douyu.php?id=5522351
 港剧台5,http://live.nctv.top/DYjsklis/douyu.php?id=9548850
 港剧台6,http://live.nctv.top/DYjsklis/douyu.php?id=7119207
-港剧台7,http://live.nctv.top/DYjsklis/douyu.php?id=7356023
 寒亭新闻,http://live.nctv.top/DYjsklis/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/DYjsklis/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/DYjsklis/huya.php?id=23735126
@@ -37,7 +35,6 @@ A1,#genre#
 四川文化旅游,http://live.nctv.top/DYjsklis/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/DYjsklis/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/DYjsklis/jstv5.php?id=tz1
-兖州新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jiytxw
 郓城新闻,http://live.nctv.top/DYjsklis/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/DYjsklis/qilu.php?id=jncqxw
