@@ -26,7 +26,6 @@ B1,#genre#
 台湾|爱尔达影剧台,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
 台湾|八大第一GTVFirst,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 台湾|八大戏剧GTVDrama,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-台湾|八大娱乐GTVEntertainment,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
 台湾|八大综合GTVMetro,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
 台湾|大爱1台,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
 台湾|大爱2台,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
