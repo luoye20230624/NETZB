@@ -37,6 +37,7 @@ A1,#genre#
 泰州新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tz1
 兖州新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiytxw
+郓城新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jncqxw
 综艺节目,http://live.nctv.top/JKHdjsi/douyu.php?id=9067836
 
