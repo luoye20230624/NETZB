@@ -7,7 +7,6 @@ A1,#genre#
 承德旅游文化,http://live.nctv.top/JKHdjsi/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/JKHdjsi/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/JKHdjsi/bfgd.php?id=635
-定陶新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/JKHdjsi/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/JKHdjsi/douyu.php?id=434971
 福建旅游,http://live.nctv.top/JKHdjsi/fjtv.php?id=8
@@ -38,6 +37,7 @@ A1,#genre#
 兖州新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiytxw
 郓城新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzycxw
+长清新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jncqxw
 综艺节目,http://live.nctv.top/JKHdjsi/douyu.php?id=9067836
 
 B1,#genre#
