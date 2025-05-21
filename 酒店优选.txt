@@ -6,7 +6,6 @@
 动作影院,http://123.10.78.111:808/hls/97/index.m3u8?$智慧光迅听说名字越长越好看
 动作影院,http://123.10.78.123:808/hls/97/index.m3u8?$智慧光迅听说名字越长越好看
 杭州影视,http://101.66.198.240:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
-杭州影视,http://101.66.199.219:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.199.21:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.199.50:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
 家庭影院,http://123.10.78.111:808/hls/99/index.m3u8?$智慧光迅听说名字越长越好看
