@@ -7,6 +7,7 @@ A1,#genre#
 承德旅游文化,http://live.nctv.top/JKHdjsi/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/JKHdjsi/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/JKHdjsi/bfgd.php?id=635
+定陶新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/JKHdjsi/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/JKHdjsi/douyu.php?id=434971
 福建旅游,http://live.nctv.top/JKHdjsi/fjtv.php?id=8
@@ -25,6 +26,7 @@ A1,#genre#
 江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzjyxw
+内江东兴新闻,http://live.nctv.top/JKHdjsi/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/JKHdjsi/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/qly.php?id=5500
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/sxtv.php?id=1127
@@ -59,7 +61,9 @@ C1,#genre#
 马来西亚|华丽台（WahLaiToi）,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
 马来西亚|AstroMTV,https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
 马来西亚|CelestialMovies,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
+马来西亚|TVB星河台XingHe,https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
 马来西亚|TVBAsia,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
+马来西亚|TVBClassic,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 马来西亚|TVBEntertainment,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
 马来西亚|TVBJade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 台湾|爱尔达影剧台,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
@@ -70,6 +74,7 @@ C1,#genre#
 台湾|大爱1台,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
 台湾|大爱2台,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
 台湾|东森财经新闻ETTVBusiness,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+台湾|东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 台湾|东森电影ETTVMovie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 台湾|东森戏剧ETTVDrama,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
 台湾|东森新闻ETTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
@@ -86,6 +91,7 @@ C1,#genre#
 台湾|龙华经典台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 台湾|龙华偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
 台湾|龙华戏剧LunghuaDrama,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
+台湾|龙华洋片LunghuaWestern,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
 台湾|美亚电影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
 台湾|民视,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 台湾|民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
@@ -120,6 +126,7 @@ C1,#genre#
 台湾|TVBS欢乐台（备份）,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 台湾|TVBS,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 台湾|TVBSNews新闻台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+香港|翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 香港|翡翠台backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
 香港|凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 香港|凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
