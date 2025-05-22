@@ -5,7 +5,6 @@ A1,#genre#
 博山新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/JKHdjsi/hbtv1.php?id=cd2
-成都新闻,http://live.nctv.top/JKHdjsi/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/JKHdjsi/bfgd.php?id=635
 定陶新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/JKHdjsi/douyu.php?id=12459039
