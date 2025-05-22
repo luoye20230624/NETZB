@@ -26,7 +26,6 @@ A1,#genre#
 江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzjyxw
-内江东兴新闻,http://live.nctv.top/JKHdjsi/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/JKHdjsi/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/qly.php?id=5500
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/sxtv.php?id=1127
@@ -108,7 +107,6 @@ C1,#genre#
 台湾|纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 台湾|纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 台湾|纬来综合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-台湾|卫视电影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
 台湾|卫视中文台StarMoviesChinese,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
 台湾|亚洲旅游TLCAsia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 台湾|中视,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
@@ -139,7 +137,6 @@ C1,#genre#
 新闻|BloombergNews,https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
 新闻|CBS,https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
 新闻|CBSN,https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
-新闻|CNA,https://smart.pendy.dpdns.org/Smart.php?id=cna
 新闻|CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 新闻|CNNInternational,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
 新闻|CNNbackup,https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
