@@ -5,7 +5,6 @@ A1,#genre#
 博山新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/JKHdjsi/hbtv1.php?id=cd2
-成都新闻,http://live.nctv.top/JKHdjsi/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/JKHdjsi/bfgd.php?id=635
 定陶新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/JKHdjsi/douyu.php?id=12459039
@@ -29,7 +28,6 @@ A1,#genre#
 内江东兴新闻,http://live.nctv.top/JKHdjsi/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/JKHdjsi/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/qly.php?id=5500
-陕西新闻资讯,http://live.nctv.top/JKHdjsi/sxtv.php?id=1127
 双滦新闻,http://live.nctv.top/JKHdjsi/hbtv1.php?id=sl1
 四川文化旅游,http://live.nctv.top/JKHdjsi/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/JKHdjsi/sctv.php?id=scxw
@@ -73,7 +71,6 @@ C1,#genre#
 台湾|大爱1台,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
 台湾|大爱2台,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
 台湾|东森财经新闻ETTVBusiness,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-台湾|东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 台湾|东森电影ETTVMovie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 台湾|东森戏剧ETTVDrama,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
 台湾|东森新闻ETTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
@@ -90,23 +87,19 @@ C1,#genre#
 台湾|龙华经典台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 台湾|龙华偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
 台湾|龙华戏剧LunghuaDrama,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-台湾|龙华洋片LunghuaWestern,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
 台湾|美亚电影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
 台湾|民视,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 台湾|民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 台湾|民视新闻台FTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 台湾|年代新闻,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-台湾|三立都会台,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-台湾|三立台湾SanliTaiwan,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 台湾|三立戏剧台,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 台湾|三立综合SanliMetro,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 台湾|台视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 台湾|纬来电影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-台湾|纬来精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
 台湾|纬来日本台,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
 台湾|纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-台湾|纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 台湾|纬来综合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+台湾|卫视电影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
 台湾|卫视中文台StarMoviesChinese,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
 台湾|亚洲旅游TLCAsia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 台湾|中视,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
@@ -144,6 +137,7 @@ C1,#genre#
 新闻|DWDeutsch,https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
 新闻|FoxNews,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
 新闻|France24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
+新闻|NHKWorld,https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
 新闻|Skynews,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 印度|StarmaaMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
 
