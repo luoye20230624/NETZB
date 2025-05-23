@@ -24,7 +24,6 @@ A1,#genre#
 虎牙-TVB西游记,http://live.nctv.top/JKHdjsi/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
-江西新闻,http://live.nctv.top/JKHdjsi/jxtv1.php?id=jxxw
 靖江新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzjyxw
 内江东兴新闻,http://live.nctv.top/JKHdjsi/scds.php?id=nj_dx1
@@ -108,7 +107,6 @@ C1,#genre#
 台湾|纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 台湾|纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 台湾|纬来综合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-台湾|卫视电影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
 台湾|卫视中文台StarMoviesChinese,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
 台湾|亚洲旅游TLCAsia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 台湾|中视,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
@@ -146,7 +144,6 @@ C1,#genre#
 新闻|DWDeutsch,https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
 新闻|FoxNews,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
 新闻|France24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
-新闻|NHKWorld,https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
 新闻|Skynews,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 印度|StarmaaMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
 
