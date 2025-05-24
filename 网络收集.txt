@@ -30,7 +30,6 @@ A1,#genre#
 四川文化旅游,http://live.nctv.top/JKHdjsi/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/JKHdjsi/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tz1
-鱼台新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiytxw
 郓城新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jncqxw
 综艺节目,http://live.nctv.top/JKHdjsi/douyu.php?id=9067836
@@ -97,7 +96,6 @@ C1,#genre#
 台湾|三立综合SanliMetro,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 台湾|台视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 台湾|纬来电影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-台湾|纬来精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
 台湾|纬来日本台,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
 台湾|纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 台湾|纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
