@@ -73,7 +73,6 @@ C1,#genre#
 台湾|大爱1台,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
 台湾|大爱2台,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
 台湾|东森财经新闻ETTVBusiness,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-台湾|东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 台湾|东森电影ETTVMovie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 台湾|东森戏剧ETTVDrama,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
 台湾|东森新闻ETTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
@@ -145,7 +144,6 @@ C1,#genre#
 新闻|DWDeutsch,https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
 新闻|FoxNews,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
 新闻|France24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
-新闻|NHKWorld,https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
 新闻|Skynews,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 印度|StarmaaMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
 
