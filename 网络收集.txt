@@ -24,7 +24,6 @@ A1,#genre#
 虎牙-TVB西游记,http://live.nctv.top/JKHdjsi/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
-江西影视旅游,http://live.nctv.top/JKHdjsi/jxtv1.php?id=jxys
 靖江新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tzjj
 内江东兴新闻,http://live.nctv.top/JKHdjsi/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/JKHdjsi/hbtv1.php?id=qy1
