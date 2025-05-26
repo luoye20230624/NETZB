@@ -54,9 +54,7 @@ B1,#genre#
 
 C1,#genre#
 电影|CelestialMovies,https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
-电影|HitsMovie,https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
 电影|MoviesNow,https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
-电影|StarMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 电影|tvNMovie,https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
 马来西亚|华丽台（WahLaiToi）,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
 马来西亚|AstroMTV,https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
