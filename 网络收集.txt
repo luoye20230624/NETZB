@@ -2,12 +2,10 @@ A1,#genre#
 1905国内电影,http://live.nctv.top/JKHdjsi/1905.php?id=1905a
 1905国外电影,http://live.nctv.top/JKHdjsi/1905.php?id=1905b
 北京新闻,http://live.nctv.top/JKHdjsi/bjtv.php?id=bjxw
-博山新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/JKHdjsi/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/JKHdjsi/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/JKHdjsi/bfgd.php?id=635
-定陶新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/JKHdjsi/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/JKHdjsi/douyu.php?id=434971
 福建旅游,http://live.nctv.top/JKHdjsi/fjtv.php?id=8
@@ -20,13 +18,11 @@ A1,#genre#
 港剧台6,http://live.nctv.top/JKHdjsi/douyu.php?id=7119207
 港剧台7,http://live.nctv.top/JKHdjsi/douyu.php?id=7356023
 寒亭新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=wfhtxw
-河南新闻,http://live.nctv.top/JKHdjsi/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/JKHdjsi/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzjyxw
-内江东兴新闻,http://live.nctv.top/JKHdjsi/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/JKHdjsi/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/qly.php?id=5500
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/sxtv.php?id=1127
@@ -54,7 +50,9 @@ B1,#genre#
 
 C1,#genre#
 电影|CelestialMovies,https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
+电影|HitsMovie,https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
 电影|MoviesNow,https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
+电影|StarMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 电影|tvNMovie,https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
 马来西亚|华丽台（WahLaiToi）,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
 马来西亚|AstroMTV,https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
@@ -147,4 +145,12 @@ C1,#genre#
 新闻|NHKWorld,https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
 新闻|Skynews,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 印度|StarmaaMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
+
+D1,#genre#
+凤凰卫视中文台,http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+凤凰卫视资讯台,http://jxiptv.dpdns.org/stream/4gtv/null-4/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+黄金翡翠台,http://jxiptv.dpdns.org/stream/4gtv/null-7/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+美亚电影台,http://jxiptv.dpdns.org/stream/4gtv/null-10/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+无线新闻台,http://jxiptv.dpdns.org/stream/4gtv/null-2/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+娱乐新闻台,http://jxiptv.dpdns.org/stream/4gtv/null-6/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 
