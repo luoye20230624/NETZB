@@ -25,7 +25,6 @@ A1,#genre#
 江苏新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tzjj
-巨野新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzjyxw
 内江东兴新闻,http://live.nctv.top/JKHdjsi/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/JKHdjsi/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/qly.php?id=5500
@@ -149,11 +148,4 @@ C1,#genre#
 新闻|NHKWorld,https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
 新闻|Skynews,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 印度|StarmaaMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
-
-D1,#genre#
-凤凰卫视香港台,http://jxiptv.dpdns.org/stream/4gtv/null-5/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-凤凰卫视中文台,http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-凤凰卫视资讯台,http://jxiptv.dpdns.org/stream/4gtv/null-4/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-黄金翡翠台,http://jxiptv.dpdns.org/stream/4gtv/null-7/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-娱乐新闻台,http://jxiptv.dpdns.org/stream/4gtv/null-6/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 
