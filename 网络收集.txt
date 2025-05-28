@@ -7,6 +7,7 @@ A1,#genre#
 承德旅游文化,http://live.nctv.top/JKHdjsi/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/JKHdjsi/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/JKHdjsi/bfgd.php?id=635
+定陶新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/JKHdjsi/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/JKHdjsi/douyu.php?id=434971
 福建旅游,http://live.nctv.top/JKHdjsi/fjtv.php?id=8
@@ -36,7 +37,6 @@ A1,#genre#
 泰州新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tz1
 兖州新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiytxw
-郓城新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jncqxw
 综艺节目,http://live.nctv.top/JKHdjsi/douyu.php?id=9067836
 
@@ -148,4 +148,10 @@ C1,#genre#
 新闻|NHKWorld,https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
 新闻|Skynews,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 印度|StarmaaMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
+
+D1,#genre#
+凤凰卫视香港台,http://jxiptv.dpdns.org/stream/4gtv/null-5/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+凤凰卫视中文台,http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+无线新闻台,http://jxiptv.dpdns.org/stream/4gtv/null-2/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+娱乐新闻台,http://jxiptv.dpdns.org/stream/4gtv/null-6/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 
