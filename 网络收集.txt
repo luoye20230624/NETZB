@@ -2,7 +2,6 @@ A1,#genre#
 1905国内电影,http://live.nctv.top/JKHdjsi/1905.php?id=1905a
 1905国外电影,http://live.nctv.top/JKHdjsi/1905.php?id=1905b
 北京新闻,http://live.nctv.top/JKHdjsi/bjtv.php?id=bjxw
-博山新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/JKHdjsi/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/JKHdjsi/cdtv.php?id=cdtv1
@@ -34,6 +33,8 @@ A1,#genre#
 四川文化旅游,http://live.nctv.top/JKHdjsi/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/JKHdjsi/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tz1
+兖州新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiyzxw
+郓城新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jncqxw
 综艺节目,http://live.nctv.top/JKHdjsi/douyu.php?id=9067836
 
@@ -42,6 +43,7 @@ TVBPlus,http://jxiptv.dpdns.org/stream/4gtv/tvbplus/master.m3u8?u=test&p=9f86d08
 凤凰卫视香港台,http://jxiptv.dpdns.org/stream/4gtv/null-5/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 凤凰卫视中文台,http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 凤凰卫视资讯台,http://jxiptv.dpdns.org/stream/4gtv/null-4/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+黄金翡翠台,http://jxiptv.dpdns.org/stream/4gtv/null-7/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 美亚电影台,http://jxiptv.dpdns.org/stream/4gtv/null-10/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 无线新闻台,http://jxiptv.dpdns.org/stream/4gtv/null-2/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 
