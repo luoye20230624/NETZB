@@ -20,11 +20,13 @@ A1,#genre#
 港剧台6,http://live.nctv.top/JKHdjsi/douyu.php?id=7119207
 港剧台7,http://live.nctv.top/JKHdjsi/douyu.php?id=7356023
 寒亭新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=wfhtxw
+河南新闻,http://live.nctv.top/JKHdjsi/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/JKHdjsi/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzjyxw
+内江东兴新闻,http://live.nctv.top/JKHdjsi/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/JKHdjsi/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/qly.php?id=5500
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/sxtv.php?id=1127
