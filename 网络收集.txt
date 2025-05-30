@@ -20,7 +20,6 @@ A1,#genre#
 港剧台6,http://live.nctv.top/JKHdjsi/douyu.php?id=7119207
 港剧台7,http://live.nctv.top/JKHdjsi/douyu.php?id=7356023
 寒亭新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=wfhtxw
-河南新闻,http://live.nctv.top/JKHdjsi/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/JKHdjsi/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
@@ -90,7 +89,6 @@ C1,#genre#
 台湾|台视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 台湾|纬来电影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 台湾|纬来日本台,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-台湾|纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 台湾|纬来综合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
 台湾|卫视中文台StarMoviesChinese,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
 台湾|亚洲旅游TLCAsia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
