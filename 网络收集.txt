@@ -26,6 +26,7 @@ A1,#genre#
 江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzjyxw
+内江东兴新闻,http://live.nctv.top/JKHdjsi/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/JKHdjsi/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/qly.php?id=5500
 陕西新闻资讯,http://live.nctv.top/JKHdjsi/sxtv.php?id=1127
@@ -34,6 +35,7 @@ A1,#genre#
 四川文化旅游,http://live.nctv.top/JKHdjsi/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/JKHdjsi/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=tz1
+兖州新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jiytxw
 郓城新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/JKHdjsi/qilu.php?id=jncqxw
