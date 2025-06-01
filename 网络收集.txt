@@ -163,8 +163,6 @@ C1,#genre#
 
 D1,#genre#
 电影|HitsMovie,https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
-马来西亚|AstroMTV,https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
-马来西亚|TVBJade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 台湾|八大第一GTVFirst,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 台湾|八大戏剧GTVDrama,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
 台湾|八大综合GTVMetro,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
