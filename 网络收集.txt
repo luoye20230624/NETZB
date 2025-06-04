@@ -19,7 +19,6 @@ A1,#genre#
 港剧台5,http://live.nctv.top/DJlio/douyu.php?id=9548850
 港剧台6,http://live.nctv.top/DJlio/douyu.php?id=7119207
 港剧台7,http://live.nctv.top/DJlio/douyu.php?id=7356023
-寒亭新闻,http://live.nctv.top/DJlio/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/DJlio/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/DJlio/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/DJlio/jstv5.php?id=jsxw
