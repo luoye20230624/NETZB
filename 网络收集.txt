@@ -1,21 +1,16 @@
 A1,#genre#
 1905国内电影,http://live.nctv.top/DJlio/1905.php?id=1905a
 1905国外电影,http://live.nctv.top/DJlio/1905.php?id=1905b
-北京新闻,http://live.nctv.top/DJlio/bjtv.php?id=bjxw
 博山新闻,http://live.nctv.top/DJlio/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/DJlio/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/DJlio/hbtv1.php?id=cd2
-成都新闻,http://live.nctv.top/DJlio/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/DJlio/bfgd.php?id=635
 定陶新闻,http://live.nctv.top/DJlio/qilu.php?id=hzdt1
-斗鱼影视2,http://live.nctv.top/DJlio/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/DJlio/douyu.php?id=434971
 福建旅游,http://live.nctv.top/DJlio/fjtv.php?id=8
 福建新闻,http://live.nctv.top/DJlio/fjtv.php?id=13
 港剧台1,http://live.nctv.top/DJlio/douyu.php?id=5061550
-港剧台2,http://live.nctv.top/DJlio/douyu.php?id=5261342
 港剧台3,http://live.nctv.top/DJlio/douyu.php?id=4290711
-港剧台4,http://live.nctv.top/DJlio/douyu.php?id=5522351
 港剧台5,http://live.nctv.top/DJlio/douyu.php?id=9548850
 港剧台6,http://live.nctv.top/DJlio/douyu.php?id=7119207
 港剧台7,http://live.nctv.top/DJlio/douyu.php?id=7356023
@@ -24,13 +19,10 @@ A1,#genre#
 虎牙-TVB西游记,http://live.nctv.top/DJlio/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/DJlio/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/DJlio/jstv5.php?id=jszy
-靖江新闻,http://live.nctv.top/DJlio/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/DJlio/qilu.php?id=hzjyxw
-内江东兴新闻,http://live.nctv.top/DJlio/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/DJlio/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/DJlio/qly.php?id=5500
 陕西新闻资讯,http://live.nctv.top/DJlio/sxtv.php?id=1127
-上海新闻,http://live.nctv.top/DJlio/migu.php?id=shxwzh
 双滦新闻,http://live.nctv.top/DJlio/hbtv1.php?id=sl1
 四川文化旅游,http://live.nctv.top/DJlio/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/DJlio/sctv.php?id=scxw
@@ -38,7 +30,6 @@ A1,#genre#
 兖州新闻,http://live.nctv.top/DJlio/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/DJlio/qilu.php?id=jiytxw
 郓城新闻,http://live.nctv.top/DJlio/qilu.php?id=hzycxw
-长清新闻,http://live.nctv.top/DJlio/qilu.php?id=jncqxw
 浙江公共新闻,http://live.nctv.top/DJlio/zjtv.php?id=zjxw
 综艺节目,http://live.nctv.top/DJlio/douyu.php?id=9067836
 
