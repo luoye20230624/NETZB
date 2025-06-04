@@ -30,6 +30,7 @@ A1,#genre#
 清苑新闻,http://live.nctv.top/DJlio/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/DJlio/qly.php?id=5500
 陕西新闻资讯,http://live.nctv.top/DJlio/sxtv.php?id=1127
+上海新闻,http://live.nctv.top/DJlio/migu.php?id=shxwzh
 双滦新闻,http://live.nctv.top/DJlio/hbtv1.php?id=sl1
 四川文化旅游,http://live.nctv.top/DJlio/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/DJlio/sctv.php?id=scxw
