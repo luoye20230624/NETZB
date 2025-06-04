@@ -2,6 +2,7 @@ A1,#genre#
 1905国内电影,http://live.nctv.top/DJlio/1905.php?id=1905a
 1905国外电影,http://live.nctv.top/DJlio/1905.php?id=1905b
 北京新闻,http://live.nctv.top/DJlio/bjtv.php?id=bjxw
+博山新闻,http://live.nctv.top/DJlio/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/DJlio/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/DJlio/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/DJlio/cdtv.php?id=cdtv1
@@ -18,6 +19,7 @@ A1,#genre#
 港剧台5,http://live.nctv.top/DJlio/douyu.php?id=9548850
 港剧台6,http://live.nctv.top/DJlio/douyu.php?id=7119207
 港剧台7,http://live.nctv.top/DJlio/douyu.php?id=7356023
+寒亭新闻,http://live.nctv.top/DJlio/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/DJlio/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/DJlio/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/DJlio/jstv5.php?id=jsxw
