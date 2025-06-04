@@ -2,7 +2,6 @@ A1,#genre#
 1905国内电影,http://live.nctv.top/DJlio/1905.php?id=1905a
 1905国外电影,http://live.nctv.top/DJlio/1905.php?id=1905b
 北京新闻,http://live.nctv.top/DJlio/bjtv.php?id=bjxw
-博山新闻,http://live.nctv.top/DJlio/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/DJlio/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/DJlio/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/DJlio/cdtv.php?id=cdtv1
