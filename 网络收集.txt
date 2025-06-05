@@ -5,9 +5,7 @@ A1,#genre#
 博山新闻,http://live.nctv.top/DJlio/qilu.php?id=zbbsxw
 常州新闻,http://live.nctv.top/DJlio/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/DJlio/hbtv1.php?id=cd2
-成都新闻,http://live.nctv.top/DJlio/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/DJlio/bfgd.php?id=635
-定陶新闻,http://live.nctv.top/DJlio/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/DJlio/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/DJlio/douyu.php?id=434971
 福建旅游,http://live.nctv.top/DJlio/fjtv.php?id=8
@@ -26,7 +24,6 @@ A1,#genre#
 江苏综艺,http://live.nctv.top/DJlio/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/DJlio/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/DJlio/qilu.php?id=hzjyxw
-内江东兴新闻,http://live.nctv.top/DJlio/scds.php?id=nj_dx1
 清苑新闻,http://live.nctv.top/DJlio/hbtv1.php?id=qy1
 陕西新闻资讯,http://live.nctv.top/DJlio/qly.php?id=5500
 陕西新闻资讯,http://live.nctv.top/DJlio/sxtv.php?id=1127
@@ -34,7 +31,6 @@ A1,#genre#
 四川文化旅游,http://live.nctv.top/DJlio/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/DJlio/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/DJlio/jstv5.php?id=tz1
-兖州新闻,http://live.nctv.top/DJlio/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/DJlio/qilu.php?id=jiytxw
 郓城新闻,http://live.nctv.top/DJlio/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/DJlio/qilu.php?id=jncqxw
