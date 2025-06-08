@@ -12,7 +12,6 @@ A1,#genre#
 福建旅游,http://live.nctv.top/DJlio/fjtv.php?id=8
 福建新闻,http://live.nctv.top/DJlio/fjtv.php?id=13
 港剧台1,http://live.nctv.top/DJlio/douyu.php?id=5061550
-港剧台2,http://live.nctv.top/DJlio/douyu.php?id=5261342
 港剧台3,http://live.nctv.top/DJlio/douyu.php?id=4290711
 港剧台4,http://live.nctv.top/DJlio/douyu.php?id=5522351
 港剧台5,http://live.nctv.top/DJlio/douyu.php?id=9548850
@@ -34,7 +33,6 @@ A1,#genre#
 四川文化旅游,http://live.nctv.top/DJlio/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/DJlio/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/DJlio/jstv5.php?id=tz1
-兖州新闻,http://live.nctv.top/DJlio/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/DJlio/qilu.php?id=jiytxw
 郓城新闻,http://live.nctv.top/DJlio/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/DJlio/qilu.php?id=jncqxw
