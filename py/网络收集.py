@@ -24,7 +24,7 @@ from urllib.parse import urlparse
 from translate import Translator  # 导入Translator类,用于文本翻译
 ## 定义txt文件的URL列表
 urls = [
-       'http://8.138.7.223/live.txt',  #假m3u
+       'https://raw.bgithub.xyz/250992941/iptv/refs/heads/main/st1.txt',  #假m3u
        'http://live.nctv.top/x.txt',   #暂时保留
        'http://117.72.68.25:9230/latest.txt',
        'http://rihou.cc:55/lib/kx2024.txt',
