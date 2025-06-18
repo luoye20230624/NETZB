@@ -1,6 +1,0 @@
-影视频道,#genre#
-杭州影视,http://101.66.198.167:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
-杭州影视,http://101.66.198.71:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
-杭州影视,http://101.66.199.198:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
-杭州影视,http://101.66.199.24:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
-经典电影,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
