@@ -1,3 +1,4 @@
 影视频道,#genre#
 杭州影视,http://101.66.199.120:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.199.219:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
+影视,http://115.58.217.101:60001/hls/20/index.m3u8?$智慧光迅听说名字越长越好看
