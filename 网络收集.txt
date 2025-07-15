@@ -32,6 +32,7 @@ A1,#genre#
 频道,#genre#
 频道,#genre#
 频道,#genre#
+频道,#genre#
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 新闻News,#genre#
