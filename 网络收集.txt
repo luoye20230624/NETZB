@@ -57,6 +57,7 @@ A1,#genre#
 台湾|中视新闻台,https://live.catvod.com/smart.php?id=zhongshinews_twn
 台湾|中天新闻,https://live.catvod.com/smart.php?id=ctinews
 台湾|中天亚洲台,https://live.catvod.com/smart.php?id=ctiasia_twn
+台湾|中天娱乐CTIEntertaiment,https://live.catvod.com/smart.php?id=ctient
 台湾|中天综合CTIMetro,https://live.catvod.com/smart.php?id=ctizhonghe
 台湾|AFC亚洲旅游台,https://live.catvod.com/smart.php?id=asiatravel_twn
 台湾|AXNTaiwan,https://live.catvod.com/smart.php?id=axn_twn
