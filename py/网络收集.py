@@ -31,7 +31,7 @@ urls = [
        'http://rihou.cc:555/gggg.nzk/',
        'https://raw.bgithub.xyz/Fairy8o/IPTV/main/PDX-V4.txt',
        'http://47.120.41.246:8899/zb.txt',
-       'https://raw.bgithub.xyz/ddhola/file/d7afb504b1ba4fef31813e1166cb892215a9c063/0609test',
+       'https://live.catvod.com/smart.php',
        'https://raw.bgithub.xyz/vbskycn/iptv/2738b3bec8c298f57e0e2052b155846ab6ea3787/dsyy/hd.txt',
        'https://raw.bgithub.xyz/frxz751113/AAAAA/main/IPTV/TW.txt',
        'https://raw.bgithub.xyz/ljlfct01/ljlfct01.github.io/main/list.%E8%87%AA%E7%94%A8',
