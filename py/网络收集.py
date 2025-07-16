@@ -27,10 +27,10 @@ urls = [
        'https://raw.bgithub.xyz/250992941/iptv/refs/heads/main/st1.txt',  #假m3u
        'https://raw.bgithub.xyz/cxr9912/cxr2025/refs/heads/main/2583941.txt',   #暂时保留
        'http://117.72.68.25:9230/latest.txt',
-       'http://rihou.cc:55/lib/kx2024.txt',
-       'https://zya.anbox118.workers.dev',
+       'http://kkk.888.3116598.xyz/user/HKTV.txt',
+       'http://rihou.cc:555/gggg.nzk/',
        'https://raw.bgithub.xyz/Fairy8o/IPTV/main/PDX-V4.txt',
-       'http://gg.gg/cctvgg',
+       'http://47.120.41.246:8899/zb.txt',
        'https://raw.bgithub.xyz/ddhola/file/d7afb504b1ba4fef31813e1166cb892215a9c063/0609test',
        'https://raw.bgithub.xyz/vbskycn/iptv/2738b3bec8c298f57e0e2052b155846ab6ea3787/dsyy/hd.txt',
        'https://raw.bgithub.xyz/frxz751113/AAAAA/main/IPTV/TW.txt',
