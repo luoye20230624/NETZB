@@ -14,6 +14,7 @@ MTVLive,https://live.catvod.com/smart.php?id=mtvhd_twn
 MoviesNow,https://live.catvod.com/smart.php?id=moviesnow_raj
 StarMovies,https://live.catvod.com/smart.php?id=starmovies_raj
 StarmaaMovies,https://live.catvod.com/smart.php?id=starmaamovies_raj
+TVB星河台XingHe,https://live.catvod.com/smart.php?id=Xinhe
 TVBAsia,https://live.catvod.com/smart.php?id=Tvbasia
 TVBClassic,https://live.catvod.com/smart.php?id=Tvbclassic
 TVBEntertainment,https://live.catvod.com/smart.php?id=Tvbentertainment
@@ -82,6 +83,81 @@ tvNMovie,https://live.catvod.com/smart.php?id=Tvnmovie
 中天综合CTIMetro,https://live.catvod.com/smart.php?id=ctizhonghe
 
 B1,#genre#
+1905电影网,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mKhnyy&tk=M5X9j7UeBRf5
+FOX新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=A4wqpM&tk=M5X9j7UeBRf5
+NOW新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=83E8XO&tk=M5X9j7UeBRf5
+TVB翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LBrydX&tk=M5X9j7UeBRf5
+TVB明珠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7B3XJV&tk=M5X9j7UeBRf5
+TVB娱乐新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vKXlY5&tk=M5X9j7UeBRf5
+TVBPlus,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8A8pk6&tk=M5X9j7UeBRf5
+TVBS欢乐台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MDEJvr&tk=M5X9j7UeBRf5
+TVBS欢乐台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kwE2Py&tk=M5X9j7UeBRf5
+TVBS精彩台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4XtQow&tk=M5X9j7UeBRf5
+TVBS精采台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DUHjAM&tk=M5X9j7UeBRf5
+TVBS新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=L2CQ7i&tk=M5X9j7UeBRf5
+八大第一台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kN4WS6&tk=M5X9j7UeBRf5
+北京新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oARJLq&tk=M5X9j7UeBRf5
+采昌影剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0zjHEA&tk=M5X9j7UeBRf5
+东森财经新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DTyIOx&tk=M5X9j7UeBRf5
+东森财经新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Hn6uaG&tk=M5X9j7UeBRf5
+东森超视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F6yq68&tk=M5X9j7UeBRf5
+东森电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sx6V0w&tk=M5X9j7UeBRf5
+东森新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rqLG90&tk=M5X9j7UeBRf5
+东森新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JoF8I6&tk=M5X9j7UeBRf5
+东森新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UQ5NI2&tk=M5X9j7UeBRf5
+东森综合台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zFLECf&tk=M5X9j7UeBRf5
+凤凰卫视中文台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ghbwy7&tk=M5X9j7UeBRf5
+公视戏剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=64dSva&tk=M5X9j7UeBRf5
+广东新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YAZnBf&tk=M5X9j7UeBRf5
+河南新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HnSx5o&tk=M5X9j7UeBRf5
+河南新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SKbsmC&tk=M5X9j7UeBRf5
+河南新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=l2PvTB&tk=M5X9j7UeBRf5
+华丽翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jgIRVM&tk=M5X9j7UeBRf5
+华视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SqfGJQ&tk=M5X9j7UeBRf5
+华视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qjk5w9&tk=M5X9j7UeBRf5
+华视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NiIFeL&tk=M5X9j7UeBRf5
+寰宇新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1Lq6QV&tk=M5X9j7UeBRf5
+寰宇新闻台湾台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cpFcrf&tk=M5X9j7UeBRf5
+江苏新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GSN08F&tk=M5X9j7UeBRf5
+江苏新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HyAMWf&tk=M5X9j7UeBRf5
+江苏综艺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ozV5dd&tk=M5X9j7UeBRf5
+江苏综艺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uz1kNP&tk=M5X9j7UeBRf5
+镜电视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DvA9CQ&tk=M5X9j7UeBRf5
+靖天电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JNHsg1&tk=M5X9j7UeBRf5
+靖天欢乐台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9dSfYt&tk=M5X9j7UeBRf5
+靖天卡通台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MLnsJi&tk=M5X9j7UeBRf5
+靖天日本台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wOWjV8&tk=M5X9j7UeBRf5
+靖天台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SBlPet&tk=M5X9j7UeBRf5
+靖天戏剧台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RT9CTk&tk=M5X9j7UeBRf5
+靖天育乐台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wXlhjY&tk=M5X9j7UeBRf5
+镜新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UcvRrp&tk=M5X9j7UeBRf5
+靖洋卡通台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=46Iy8Y&tk=M5X9j7UeBRf5
+靖洋戏剧台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TYabt1&tk=M5X9j7UeBRf5
+龙华偶像,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=B2MBoo&tk=M5X9j7UeBRf5
+龙华戏剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=L2x5Xo&tk=M5X9j7UeBRf5
+民视第一台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UmuKJS&tk=M5X9j7UeBRf5
+民视第一台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zy3MWQ&tk=M5X9j7UeBRf5
+民视旅游台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SYSdNp&tk=M5X9j7UeBRf5
+民视台湾台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SLVSZt&tk=M5X9j7UeBRf5
+民视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=86BIN3&tk=M5X9j7UeBRf5
+民视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BFbLcA&tk=M5X9j7UeBRf5
+民视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=a4EEyp&tk=M5X9j7UeBRf5
+民视影剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hRS4RU&tk=M5X9j7UeBRf5
+南宁新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T8I1v2&tk=M5X9j7UeBRf5
+年代新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fqnSim&tk=M5X9j7UeBRf5
+三立台湾台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bkpio0&tk=M5X9j7UeBRf5
+三立综合台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yTx42o&tk=M5X9j7UeBRf5
+台视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AN4QLY&tk=M5X9j7UeBRf5
+台视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CRwnf8&tk=M5X9j7UeBRf5
+台视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=a9kLMz&tk=M5X9j7UeBRf5
+影迷数位电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RNW3Rp&tk=M5X9j7UeBRf5
+中视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8NMKaE&tk=M5X9j7UeBRf5
+中视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KxGXD7&tk=M5X9j7UeBRf5
+中视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MAPn9d&tk=M5X9j7UeBRf5
+中天新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=g69a78&tk=M5X9j7UeBRf5
+中天亚洲台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YOYuI2&tk=M5X9j7UeBRf5
+
+C1,#genre#
 AXN电影AKtv,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 CNA新闻AKtv,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
 东森新闻AKtv,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
@@ -108,7 +184,7 @@ tvbs新闻AKtv,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 中天新闻AKtv,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天亚洲AKtv,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 
-C1,#genre#
+D1,#genre#
 AXN电影频特,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 AstroMTV,https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
 CelestialMovies,https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
@@ -189,7 +265,7 @@ tvbs新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 中天娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 中天综合频特,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
 
-D1,#genre#
+E1,#genre#
 AXN洋片频临,http://t.061899.xyz/tl/js/tw.php?id=axnhdyp
 TLC-旅游频临,http://t.061899.xyz/tl/js/tw.php?id=tlchdlypd
 八大第一频临,http://t.061899.xyz/tl/js/tw.php?id=hdbddy
@@ -236,7 +312,7 @@ TLC-旅游频临,http://t.061899.xyz/tl/js/tw.php?id=tlchdlypd
 中天娱乐频临,http://t.061899.xyz/tl/js/tw.php?id=hdztyl
 中天综合频临,http://t.061899.xyz/tl/js/tw.php?id=hdztzh
 
-E1,#genre#
+F1,#genre#
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
 TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
@@ -259,7 +335,7 @@ tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
 娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 
-F1,#genre#
+G1,#genre#
 AstroMTV,http://223.18.103.169:8277/AstroMTV/playlist.m3u8
 EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
 TVBAsia,http://223.18.103.169:8277/Tvbasia/playlist.m3u8
@@ -286,7 +362,7 @@ TVBAsia,http://223.18.103.169:8277/Tvbasia/playlist.m3u8
 中天新闻频特,http://223.18.103.169:8277/ctinews/playlist.m3u8
 中天亚洲频特,http://223.18.103.169:8277/ctiasia_twn/playlist.m3u8
 
-G1,#genre#
+H1,#genre#
 ELta旅游4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live120
 MTVLive4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live025
 八大精彩4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv034
@@ -356,7 +432,7 @@ tvbs综艺4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live087
 中天新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
 猪哥亮厅4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv006
 
-H1,#genre#
+I1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -383,6 +459,8 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线华丽频标,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠英标,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+无线明珠粤高,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线千禧频标,http://php.jdshipin.com/smt.php?id=Tvbclassic
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
