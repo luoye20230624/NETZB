@@ -159,6 +159,7 @@ ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
 TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
 TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
@@ -174,6 +175,7 @@ tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
 无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
+娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 
 E1,#genre#
@@ -216,7 +218,6 @@ MTVLive4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live025
 东森购贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv103
 东森购贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live046
 东森购叁4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live048
-东森购五4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live049
 东森购壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv102
 东森购壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live047
 东森新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv152
