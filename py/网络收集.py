@@ -29,7 +29,7 @@ urls = [
        'http://117.72.68.25:9230/latest.txt',
        'http://kkk.888.3116598.xyz/user/HKTV.txt',
        'http://rihou.cc:555/gggg.nzk/',
-       'https://raw.bgithub.xyz/Fairy8o/IPTV/main/PDX-V4.txt',
+       'https://raw.bgithub.xyz/fafa002/yf2025/refs/heads/main/yiyifafa.txt',
        'http://47.120.41.246:8899/zb.txt',
        'https://live.catvod.com/smart.php',
        'https://raw.bgithub.xyz/vbskycn/iptv/2738b3bec8c298f57e0e2052b155846ab6ea3787/dsyy/hd.txt',
