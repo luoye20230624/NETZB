@@ -1,0 +1,12 @@
+港澳频道,#genre#
+珠江台,http://117.141.162.238:8181/tsfile/live/1000_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+
+影视频道,#genre#
+S影院B6,http://117.141.162.238:8181/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+第一剧场,http://117.141.162.238:8181/tsfile/live/1071_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+动作电影K1,http://117.141.162.238:8181/tsfile/live/1121_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+风云剧场,http://117.141.162.238:8181/tsfile/live/1027_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+怀旧剧场,http://117.141.162.238:8181/tsfile/live/1014_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+家庭影院K1,http://117.141.162.238:8181/tsfile/live/1110_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+精彩影视x,http://117.141.162.238:8181/tsfile/live/1026_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+深圳影视,http://117.141.162.238:8181/tsfile/live/1013_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
