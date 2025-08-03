@@ -1,4 +1,5 @@
 A1,#genre#
+CCTV3综艺,https://live.catvod.com/smart.php?id=cctv3
 CCTV4新闻台,https://live.catvod.com/smart.php?id=Cctv4
 AFC亚洲旅游台,https://live.catvod.com/smart.php?id=asiatravel_twn
 AXNTaiwan,https://live.catvod.com/smart.php?id=axn_twn
@@ -18,14 +19,17 @@ TVBAsia,https://live.catvod.com/smart.php?id=Tvbasia
 TVBClassic,https://live.catvod.com/smart.php?id=Tvbclassic
 TVBEntertainment,https://live.catvod.com/smart.php?id=Tvbentertainment
 TVBJade,https://live.catvod.com/smart.php?id=Tvbjade
+TVBS欢乐台（备份）,https://live.catvod.com/smart.php?id=tvbshuanle_twn
 TVBS,https://live.catvod.com/smart.php?id=tvbs
 TVBSNews新闻台,https://live.catvod.com/smart.php?id=tvbs_n
 爱尔达影剧台,https://live.catvod.com/smart.php?id=eltayingju_twn
+八大第一GTVFirst,https://live.catvod.com/smart.php?id=badafirst
 八大戏剧GTVDrama,https://live.catvod.com/smart.php?id=badadrama
 八大综合GTVMetro,https://live.catvod.com/smart.php?id=badazhonghe
 大爱1台,https://live.catvod.com/smart.php?id=daai_twn
 大爱2台,https://live.catvod.com/smart.php?id=daai2_twn
 东森财经新闻ETTVBusiness,https://live.catvod.com/smart.php?id=ettvcaijing_twn
+东森超视,https://live.catvod.com/smart.php?id=ettvsuper
 东森电影ETTVMovie,https://live.catvod.com/smart.php?id=ettvmovie
 东森戏剧ETTVDrama,https://live.catvod.com/smart.php?id=ettvdrama
 东森新闻ETTVNews,https://live.catvod.com/smart.php?id=ettvnews
@@ -80,25 +84,14 @@ tvNMovie,https://live.catvod.com/smart.php?id=Tvnmovie
 
 B1,#genre#
 AMC电影频推,http://api.mytv666.top/api/hk.php?id=6533613534396538393766353437626463616663386263386337376463366664267469643d74762669643d313234
-BBC新闻频推,http://api.mytv666.top/api/hk.php?id=3439633964653730363063316234363066326666323662626530393932643061267469643d74762669643d3934
-东森新闻频推,http://api.mytv666.top/api/hk.php?id=3534346532363736323231376661333239383839363464666132363138313131267469643d74762669643d313037
 凤凰中文频推,http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230
 公视戏剧频推,http://api.mytv666.top/api/hk.php?id=6166663738326236646135356364343066353033643135666631306136313965267469643d74762669643d313335
 华视新闻频推,http://api.mytv666.top/api/hk.php?id=3537326339386632386464663735336532316461313764643035633834323661267469643d74762669643d313032
-华视新闻频推,http://api.mytv666.top/api/hk.php?id=6336363138633563363661326531343237616265653233303539356532363065267469643d74762669643d3537
-靖洋戏剧频推,http://api.mytv666.top/api/hk.php?id=3339666661346639386533613638363831376163336238643537356233633165267469643d74762669643d313333
-龙华日韩频推,http://api.mytv666.top/api/hk.php?id=3736613333383334346630626430353238656638393462343032653335616630267469643d74762669643d313639
 闽镜新闻频推,http://api.mytv666.top/api/hk.php?id=6132656663616366343664633865396464656462633736396337666532383663267469643d74762669643d3538
 民视旅游频推,http://api.mytv666.top/api/hk.php?id=6661393234373339313163383837613836623134613563323132623331623164267469643d74762669643d313733
-民视闽语频推,http://api.mytv666.top/api/hk.php?id=6261653964303931643764396634653232316134666337633531336261373363267469643d74762669643d313131
 民视综艺频推,http://api.mytv666.top/api/hk.php?id=3336323233613362366336356466306163343537313533386461366539313539267469643d74762669643d313731
 台视新闻频推,http://api.mytv666.top/api/hk.php?id=3663373532323635333633666462356635623632313130333233393162303838267469643d74762669643d313031
-纬来日本频推,http://api.mytv666.top/api/hk.php?id=3133363034363738393961346338323433306638356263633139386238313034267469643d74762669643d3738
-无线明珠频推,http://api.mytv666.top/api/hk.php?id=3234333631636531363838373231366566333832376434366264306332626165267469643d74762669643d3237
 亚洲旅游频推,http://api.mytv666.top/api/hk.php?id=3131346439653863323835646337366632363336333039316661353337366164267469643d74762669643d313734
-有线新闻频推,http://api.mytv666.top/api/hk.php?id=3036613663316638306536306134313638356161316134316465636662356435267469643d74762669643d3432
-中视菁采频推,http://api.mytv666.top/api/hk.php?id=3265643234663932333564313563356430663036346636303535616139663434267469643d74762669643d313534
-中视新闻频推,http://api.mytv666.top/api/hk.php?id=3639313461653631653063653039636165353132386535623331623263316631267469643d74762669643d3532
 
 C1,#genre#
 AXN电影AKtv,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
@@ -147,7 +140,6 @@ TVBAsia,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
 东森戏剧频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
 东森新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 东森洋片频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-东森幼幼频特,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
 东森综合频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 非凡新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 凤凰香港频特,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
