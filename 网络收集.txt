@@ -84,11 +84,8 @@ tvNMovie,https://live.catvod.com/smart.php?id=Tvnmovie
 
 B1,#genre#
 AMC电影频推,http://api.mytv666.top/api/hk.php?id=6533613534396538393766353437626463616663386263386337376463366664267469643d74762669643d313234
-凤凰中文频推,http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230
-公视戏剧频推,http://api.mytv666.top/api/hk.php?id=6166663738326236646135356364343066353033643135666631306136313965267469643d74762669643d313335
 华视新闻频推,http://api.mytv666.top/api/hk.php?id=3537326339386632386464663735336532316461313764643035633834323661267469643d74762669643d313032
 闽镜新闻频推,http://api.mytv666.top/api/hk.php?id=6132656663616366343664633865396464656462633736396337666532383663267469643d74762669643d3538
-民视旅游频推,http://api.mytv666.top/api/hk.php?id=6661393234373339313163383837613836623134613563323132623331623164267469643d74762669643d313733
 民视综艺频推,http://api.mytv666.top/api/hk.php?id=3336323233613362366336356466306163343537313533386461366539313539267469643d74762669643d313731
 台视新闻频推,http://api.mytv666.top/api/hk.php?id=3663373532323635333633666462356635623632313130333233393162303838267469643d74762669643d313031
 亚洲旅游频推,http://api.mytv666.top/api/hk.php?id=3131346439653863323835646337366632363336333039316661353337366164267469643d74762669643d313734
@@ -208,7 +205,6 @@ tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 G1,#genre#
 AstroMTV,http://223.18.103.169:8277/AstroMTV/playlist.m3u8
 EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
-TVBAsia,http://223.18.103.169:8277/Tvbasia/playlist.m3u8
 大爱贰台频特,http://223.18.103.169:8277/daai2_twn/playlist.m3u8
 大爱壹台频特,http://223.18.103.169:8277/daai_twn/playlist.m3u8
 东森财经频特,http://223.18.103.169:8277/ettvcaijing_twn/playlist.m3u8
@@ -235,7 +231,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 天映经典频标,http://php.jdshipin.com/smt.php?id=Celestial2
-天映频标,http://php.jdshipin.com/smt.php?id=Celestial
 无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线翡翠频标,http://php.jdshipin.com/TVOD/iptv.php?id=fct
