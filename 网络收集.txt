@@ -83,14 +83,6 @@ tvNMovie,https://live.catvod.com/smart.php?id=Tvnmovie
 中天综合CTIMetro,https://live.catvod.com/smart.php?id=ctizhonghe
 
 B1,#genre#
-AMC电影频推,http://api.mytv666.top/api/hk.php?id=6533613534396538393766353437626463616663386263386337376463366664267469643d74762669643d313234
-华视新闻频推,http://api.mytv666.top/api/hk.php?id=3537326339386632386464663735336532316461313764643035633834323661267469643d74762669643d313032
-闽镜新闻频推,http://api.mytv666.top/api/hk.php?id=6132656663616366343664633865396464656462633736396337666532383663267469643d74762669643d3538
-民视综艺频推,http://api.mytv666.top/api/hk.php?id=3336323233613362366336356466306163343537313533386461366539313539267469643d74762669643d313731
-台视新闻频推,http://api.mytv666.top/api/hk.php?id=3663373532323635333633666462356635623632313130333233393162303838267469643d74762669643d313031
-亚洲旅游频推,http://api.mytv666.top/api/hk.php?id=3131346439653863323835646337366632363336333039316661353337366164267469643d74762669643d313734
-
-C1,#genre#
 AXN电影AKtv,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 CNA新闻AKtv,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
 东森新闻AKtv,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
@@ -117,13 +109,11 @@ tvbs新闻AKtv,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 中天新闻AKtv,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天亚洲AKtv,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 
-D1,#genre#
+C1,#genre#
 AXN电影频特,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 CelestialMovies,https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
 EYE-旅游频特,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-EYE-戏剧频特,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 HitsMovie,https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
-MoviesNow,https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
 StarMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 StarmaaMovies,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
 TVB星河台XingHe,https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
@@ -175,7 +165,7 @@ tvbs新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 中天亚洲频特,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 中天娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 
-E1,#genre#
+D1,#genre#
 AXN洋片频临,http://t.061899.xyz/tl/js/tw.php?id=axnhdyp
 非凡新闻频临,http://t.061899.xyz/tl/js/tw.php?id=hdffxw
 华视教育频临,http://t.061899.xyz/tl/js/tw.php?id=hdhsjywh
@@ -184,7 +174,7 @@ AXN洋片频临,http://t.061899.xyz/tl/js/tw.php?id=axnhdyp
 天映频临,http://t.061899.xyz/tl/168.php?id=typd
 中天娱乐频临,http://t.061899.xyz/tl/js/tw.php?id=hdztyl
 
-F1,#genre#
+E1,#genre#
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
 TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
@@ -202,7 +192,7 @@ tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 
-G1,#genre#
+F1,#genre#
 AstroMTV,http://223.18.103.169:8277/AstroMTV/playlist.m3u8
 EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
 大爱贰台频特,http://223.18.103.169:8277/daai2_twn/playlist.m3u8
@@ -220,7 +210,7 @@ EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
 有线新闻频特,http://223.18.103.169:8277/hoycaijing_twn/playlist.m3u8
 中视新闻频特,http://223.18.103.169:8277/zhongshinews_twn/playlist.m3u8
 
-H1,#genre#
+G1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
