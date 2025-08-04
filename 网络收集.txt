@@ -1,5 +1,4 @@
 A1,#genre#
-CCTV3综艺,https://live.catvod.com/smart.php?id=cctv3
 CCTV4新闻台,https://live.catvod.com/smart.php?id=Cctv4
 AFC亚洲旅游台,https://live.catvod.com/smart.php?id=asiatravel_twn
 AXNTaiwan,https://live.catvod.com/smart.php?id=axn_twn
@@ -10,7 +9,6 @@ EYETV旅游,https://live.catvod.com/smart.php?id=eyetvtravel_twn
 EYETV戏剧,https://live.catvod.com/smart.php?id=eyetvxiju_twn
 HitsMovie,https://live.catvod.com/smart.php?id=Hitsmovie
 HollywoodMovies,https://live.catvod.com/smart.php?id=hollywoodmovies_twn
-MTVLive,https://live.catvod.com/smart.php?id=mtvhd_twn
 MoviesNow,https://live.catvod.com/smart.php?id=moviesnow_raj
 StarMovies,https://live.catvod.com/smart.php?id=starmovies_raj
 StarmaaMovies,https://live.catvod.com/smart.php?id=starmaamovies_raj
@@ -66,6 +64,7 @@ iNews新闻台,https://live.catvod.com/smart.php?id=inews_twn
 三立综合SanliMetro,https://live.catvod.com/smart.php?id=sanlizhonghe
 台视新闻台,https://live.catvod.com/smart.php?id=ttvnews_twn
 tvNMovie,https://live.catvod.com/smart.php?id=Tvnmovie
+纬来电影台,https://live.catvod.com/smart.php?id=videolandmovie
 纬来精彩,https://live.catvod.com/smart.php?id=videolandspecial_twn
 纬来日本台,https://live.catvod.com/smart.php?id=videolandjapan
 纬来体育台,https://live.catvod.com/smart.php?id=videolandsport
@@ -73,6 +72,7 @@ tvNMovie,https://live.catvod.com/smart.php?id=Tvnmovie
 纬来综合台,https://live.catvod.com/smart.php?id=videolandzonghe
 卫视电影台,https://live.catvod.com/smart.php?id=weishimovie_twn
 卫视中文台StarMoviesChinese,https://live.catvod.com/smart.php?id=weishichinese_twn
+亚洲旅游TLCAsia,https://live.catvod.com/smart.php?id=tlc_twn
 中视,https://live.catvod.com/smart.php?id=zhongshihd_twn
 中视新闻台,https://live.catvod.com/smart.php?id=zhongshinews_twn
 中天新闻,https://live.catvod.com/smart.php?id=ctinews
@@ -158,15 +158,6 @@ tvbs新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 中天娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 
 D1,#genre#
-AXN洋片频临,http://t.061899.xyz/tl/js/tw.php?id=axnhdyp
-非凡新闻频临,http://t.061899.xyz/tl/js/tw.php?id=hdffxw
-华视教育频临,http://t.061899.xyz/tl/js/tw.php?id=hdhsjywh
-民视闽语频临,http://t.061899.xyz/tl/js/tw.php?id=hdmstw
-闽壹新闻频临,http://t.061899.xyz/tl/js/tw.php?id=hdyxw
-天映频临,http://t.061899.xyz/tl/168.php?id=typd
-中天娱乐频临,http://t.061899.xyz/tl/js/tw.php?id=hdztyl
-
-E1,#genre#
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
 TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
@@ -191,12 +182,11 @@ tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 
-F1,#genre#
+E1,#genre#
 AstroMTV,http://223.18.103.169:8277/AstroMTV/playlist.m3u8
 EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
 大爱贰台频特,http://223.18.103.169:8277/daai2_twn/playlist.m3u8
 大爱壹台频特,http://223.18.103.169:8277/daai_twn/playlist.m3u8
-东森财经频特,http://223.18.103.169:8277/ettvcaijing_twn/playlist.m3u8
 凤凰卫视频特,http://223.18.103.169:8277/phoenixtv_hd/playlist.m3u8
 凤凰香港频特,http://223.18.103.169:8277/hkphoenix_twn/playlist.m3u8
 民视闽南频特,http://223.18.103.169:8277/ftvhd_taiwan/playlist.m3u8
@@ -209,7 +199,7 @@ EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
 有线新闻频特,http://223.18.103.169:8277/hoycaijing_twn/playlist.m3u8
 中视新闻频特,http://223.18.103.169:8277/zhongshinews_twn/playlist.m3u8
 
-G1,#genre#
+F1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
