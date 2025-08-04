@@ -1,4 +1,5 @@
 A1,#genre#
+CCTV3综艺,https://live.catvod.com/smart.php?id=cctv3
 CCTV4新闻台,https://live.catvod.com/smart.php?id=Cctv4
 AFC亚洲旅游台,https://live.catvod.com/smart.php?id=asiatravel_twn
 AXNTaiwan,https://live.catvod.com/smart.php?id=axn_twn
@@ -9,6 +10,7 @@ EYETV旅游,https://live.catvod.com/smart.php?id=eyetvtravel_twn
 EYETV戏剧,https://live.catvod.com/smart.php?id=eyetvxiju_twn
 HitsMovie,https://live.catvod.com/smart.php?id=Hitsmovie
 HollywoodMovies,https://live.catvod.com/smart.php?id=hollywoodmovies_twn
+MTVLive,https://live.catvod.com/smart.php?id=mtvhd_twn
 MoviesNow,https://live.catvod.com/smart.php?id=moviesnow_raj
 StarMovies,https://live.catvod.com/smart.php?id=starmovies_raj
 StarmaaMovies,https://live.catvod.com/smart.php?id=starmaamovies_raj
@@ -163,7 +165,6 @@ ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
 TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
 TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
-翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
