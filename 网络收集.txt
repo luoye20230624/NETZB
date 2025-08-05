@@ -12,15 +12,12 @@ HitsMovie,https://live.catvod.com/smart.php?id=Hitsmovie
 HollywoodMovies,https://live.catvod.com/smart.php?id=hollywoodmovies_twn
 MTVLive,https://live.catvod.com/smart.php?id=mtvhd_twn
 MoviesNow,https://live.catvod.com/smart.php?id=moviesnow_raj
-StarMovies,https://live.catvod.com/smart.php?id=starmovies_raj
 StarmaaMovies,https://live.catvod.com/smart.php?id=starmaamovies_raj
 TVB星河台XingHe,https://live.catvod.com/smart.php?id=Xinhe
 TVBAsia,https://live.catvod.com/smart.php?id=Tvbasia
-TVBClassic,https://live.catvod.com/smart.php?id=Tvbclassic
 TVBEntertainment,https://live.catvod.com/smart.php?id=Tvbentertainment
 TVBJade,https://live.catvod.com/smart.php?id=Tvbjade
 TVBS欢乐台（备份）,https://live.catvod.com/smart.php?id=tvbshuanle_twn
-TVBS,https://live.catvod.com/smart.php?id=tvbs
 TVBSNews新闻台,https://live.catvod.com/smart.php?id=tvbs_n
 爱尔达影剧台,https://live.catvod.com/smart.php?id=eltayingju_twn
 八大第一GTVFirst,https://live.catvod.com/smart.php?id=badafirst
@@ -33,7 +30,6 @@ TVBSNews新闻台,https://live.catvod.com/smart.php?id=tvbs_n
 东森电影ETTVMovie,https://live.catvod.com/smart.php?id=ettvmovie
 东森戏剧ETTVDrama,https://live.catvod.com/smart.php?id=ettvdrama
 东森新闻ETTVNews,https://live.catvod.com/smart.php?id=ettvnews
-东森洋片ETTVWestern,https://live.catvod.com/smart.php?id=ettvwestern
 东森幼幼YoyoTV,https://live.catvod.com/smart.php?id=yoyo_twn
 东森综合ETTVMetro,https://live.catvod.com/smart.php?id=ettvzhonghe
 翡翠台,https://live.catvod.com/smart.php?id=jade_twn
@@ -152,7 +148,6 @@ tvbs新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 无线新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
 无线娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
 有线新闻频高,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
-中视经典频特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshi_twn
 中视闽南频特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 中视新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
@@ -160,30 +155,6 @@ tvbs新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 中天娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 
 D1,#genre#
-AXN,https://live.tvfix.org/live/axn/index.m3u8
-ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
-TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
-TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
-翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
-凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
-凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
-凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
-凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
-美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
-tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
-无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
-无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
-无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
-娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
-娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
-
-E1,#genre#
 AstroMTV,http://223.18.103.169:8277/AstroMTV/playlist.m3u8
 EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
 大爱贰台频特,http://223.18.103.169:8277/daai2_twn/playlist.m3u8
@@ -200,7 +171,7 @@ EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
 有线新闻频特,http://223.18.103.169:8277/hoycaijing_twn/playlist.m3u8
 中视新闻频特,http://223.18.103.169:8277/zhongshinews_twn/playlist.m3u8
 
-F1,#genre#
+E1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -231,4 +202,24 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河粤标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 无线娱乐频标,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+
+F1,#genre#
+TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
+TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
+无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
+无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
+娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 
