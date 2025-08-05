@@ -10,7 +10,6 @@ EYETV旅游,https://live.catvod.com/smart.php?id=eyetvtravel_twn
 EYETV戏剧,https://live.catvod.com/smart.php?id=eyetvxiju_twn
 HitsMovie,https://live.catvod.com/smart.php?id=Hitsmovie
 HollywoodMovies,https://live.catvod.com/smart.php?id=hollywoodmovies_twn
-MTVLive,https://live.catvod.com/smart.php?id=mtvhd_twn
 MoviesNow,https://live.catvod.com/smart.php?id=moviesnow_raj
 StarMovies,https://live.catvod.com/smart.php?id=starmovies_raj
 StarmaaMovies,https://live.catvod.com/smart.php?id=starmaamovies_raj
@@ -25,9 +24,9 @@ TVBSNews新闻台,https://live.catvod.com/smart.php?id=tvbs_n
 爱尔达影剧台,https://live.catvod.com/smart.php?id=eltayingju_twn
 八大第一GTVFirst,https://live.catvod.com/smart.php?id=badafirst
 八大戏剧GTVDrama,https://live.catvod.com/smart.php?id=badadrama
-八大综合GTVMetro,https://live.catvod.com/smart.php?id=badazhonghe
 大爱1台,https://live.catvod.com/smart.php?id=daai_twn
 大爱2台,https://live.catvod.com/smart.php?id=daai2_twn
+东森财经新闻ETTVBusiness,https://live.catvod.com/smart.php?id=ettvcaijing_twn
 东森超视,https://live.catvod.com/smart.php?id=ettvsuper
 东森电影ETTVMovie,https://live.catvod.com/smart.php?id=ettvmovie
 东森戏剧ETTVDrama,https://live.catvod.com/smart.php?id=ettvdrama
@@ -39,16 +38,14 @@ TVBSNews新闻台,https://live.catvod.com/smart.php?id=tvbs_n
 翡翠台backup,https://live.catvod.com/smart.php?id=Jade_xue
 非凡新闻台,https://live.catvod.com/smart.php?id=feifannews_twn
 凤凰卫视,https://live.catvod.com/smart.php?id=phoenixtv_hd
-凤凰香港,https://live.catvod.com/smart.php?id=hkphoenix_twn
 凤凰资讯,https://live.catvod.com/smart.php?id=phoenixinfo_hd
 公视2,https://live.catvod.com/smart.php?id=ctv2_twn
-公视CTV,https://live.catvod.com/smart.php?id=ctv18_twn
 华丽台（WahLaiToi）,https://live.catvod.com/smart.php?id=Wlt
-华视CTS,https://live.catvod.com/smart.php?id=ctshd_twn
 寰宇财经,https://live.catvod.com/smart.php?id=huanyutaiwan_twn
 寰宇新闻台,https://live.catvod.com/smart.php?id=huanyuxinwen_twn
 iNews新闻台,https://live.catvod.com/smart.php?id=inews_twn
 靖天卡通台,https://live.catvod.com/smart.php?id=jingtiancartoon_twn
+靖天台,https://live.catvod.com/smart.php?id=jingtianintl_twn
 龙华经典台,https://live.catvod.com/smart.php?id=lunghuajingdian_twn
 龙华偶像,https://live.catvod.com/smart.php?id=lunghuaidol_twn
 龙华戏剧LunghuaDrama,https://live.catvod.com/smart.php?id=lunghuaxiju_twn
@@ -61,20 +58,24 @@ iNews新闻台,https://live.catvod.com/smart.php?id=inews_twn
 三立都会台,https://live.catvod.com/smart.php?id=sanlidouhui
 三立台湾SanliTaiwan,https://live.catvod.com/smart.php?id=sanlitaiwan
 三立戏剧台,https://live.catvod.com/smart.php?id=sanlixiju_twn
+三立综合SanliMetro,https://live.catvod.com/smart.php?id=sanlizhonghe
 台视新闻台,https://live.catvod.com/smart.php?id=ttvnews_twn
 tvNMovie,https://live.catvod.com/smart.php?id=Tvnmovie
 纬来电影台,https://live.catvod.com/smart.php?id=videolandmovie
+纬来精彩,https://live.catvod.com/smart.php?id=videolandspecial_twn
 纬来日本台,https://live.catvod.com/smart.php?id=videolandjapan
 纬来体育台,https://live.catvod.com/smart.php?id=videolandsport
 纬来育乐,https://live.catvod.com/smart.php?id=videolandyule
 纬来综合台,https://live.catvod.com/smart.php?id=videolandzonghe
 卫视电影台,https://live.catvod.com/smart.php?id=weishimovie_twn
+卫视中文台StarMoviesChinese,https://live.catvod.com/smart.php?id=weishichinese_twn
 亚洲旅游TLCAsia,https://live.catvod.com/smart.php?id=tlc_twn
 中视,https://live.catvod.com/smart.php?id=zhongshihd_twn
 中视新闻台,https://live.catvod.com/smart.php?id=zhongshinews_twn
 中天新闻,https://live.catvod.com/smart.php?id=ctinews
 中天亚洲台,https://live.catvod.com/smart.php?id=ctiasia_twn
 中天娱乐CTIEntertaiment,https://live.catvod.com/smart.php?id=ctient
+中天综合CTIMetro,https://live.catvod.com/smart.php?id=ctizhonghe
 
 B1,#genre#
 AXN电影AKtv,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
@@ -173,7 +174,6 @@ tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
 无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
-娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 
 E1,#genre#
