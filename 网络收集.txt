@@ -15,10 +15,13 @@ MoviesNow,https://live.catvod.com/smart.php?id=moviesnow_raj
 StarMovies,https://live.catvod.com/smart.php?id=starmovies_raj
 StarmaaMovies,https://live.catvod.com/smart.php?id=starmaamovies_raj
 TVB星河台XingHe,https://live.catvod.com/smart.php?id=Xinhe
+TVBAsia,https://live.catvod.com/smart.php?id=Tvbasia
 TVBClassic,https://live.catvod.com/smart.php?id=Tvbclassic
+TVBEntertainment,https://live.catvod.com/smart.php?id=Tvbentertainment
 TVBJade,https://live.catvod.com/smart.php?id=Tvbjade
 TVBS欢乐台（备份）,https://live.catvod.com/smart.php?id=tvbshuanle_twn
 TVBS,https://live.catvod.com/smart.php?id=tvbs
+TVBSNews新闻台,https://live.catvod.com/smart.php?id=tvbs_n
 爱尔达影剧台,https://live.catvod.com/smart.php?id=eltayingju_twn
 八大第一GTVFirst,https://live.catvod.com/smart.php?id=badafirst
 八大戏剧GTVDrama,https://live.catvod.com/smart.php?id=badadrama
@@ -26,10 +29,12 @@ TVBS,https://live.catvod.com/smart.php?id=tvbs
 大爱1台,https://live.catvod.com/smart.php?id=daai_twn
 大爱2台,https://live.catvod.com/smart.php?id=daai2_twn
 东森超视,https://live.catvod.com/smart.php?id=ettvsuper
+东森电影ETTVMovie,https://live.catvod.com/smart.php?id=ettvmovie
 东森戏剧ETTVDrama,https://live.catvod.com/smart.php?id=ettvdrama
 东森新闻ETTVNews,https://live.catvod.com/smart.php?id=ettvnews
 东森洋片ETTVWestern,https://live.catvod.com/smart.php?id=ettvwestern
 东森幼幼YoyoTV,https://live.catvod.com/smart.php?id=yoyo_twn
+东森综合ETTVMetro,https://live.catvod.com/smart.php?id=ettvzhonghe
 翡翠台,https://live.catvod.com/smart.php?id=jade_twn
 翡翠台backup,https://live.catvod.com/smart.php?id=Jade_xue
 非凡新闻台,https://live.catvod.com/smart.php?id=feifannews_twn
@@ -47,6 +52,7 @@ iNews新闻台,https://live.catvod.com/smart.php?id=inews_twn
 龙华经典台,https://live.catvod.com/smart.php?id=lunghuajingdian_twn
 龙华偶像,https://live.catvod.com/smart.php?id=lunghuaidol_twn
 龙华戏剧LunghuaDrama,https://live.catvod.com/smart.php?id=lunghuaxiju_twn
+龙华洋片LunghuaWestern,https://live.catvod.com/smart.php?id=lunghuawestern_twn
 美亚电影,https://live.catvod.com/smart.php?id=meiyamovie_twn
 民视,https://live.catvod.com/smart.php?id=ftvhd_taiwan
 民视台湾台,https://live.catvod.com/smart.php?id=ftvtaiwan_twn
@@ -143,7 +149,6 @@ tvbs新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 无线明珠频特,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
 无线新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
 无线娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
-有线新闻频高,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 中视闽南频特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 中视新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
@@ -151,10 +156,8 @@ tvbs新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 中天娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 
 D1,#genre#
-AstroMTV,http://223.18.103.169:8277/AstroMTV/playlist.m3u8
 EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
 大爱贰台频特,http://223.18.103.169:8277/daai2_twn/playlist.m3u8
-大爱壹台频特,http://223.18.103.169:8277/daai_twn/playlist.m3u8
 凤凰卫视频特,http://223.18.103.169:8277/phoenixtv_hd/playlist.m3u8
 凤凰香港频特,http://223.18.103.169:8277/hkphoenix_twn/playlist.m3u8
 民视闽南频特,http://223.18.103.169:8277/ftvhd_taiwan/playlist.m3u8
@@ -164,8 +167,6 @@ EYE-旅游频特,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
 无线华丽频特,http://223.18.103.169:8277/Tvbjade/playlist.m3u8
 无线华丽频特,http://223.18.103.169:8277/Wlt/playlist.m3u8
 无线新闻频特,http://223.18.103.169:8277/inews_twn/playlist.m3u8
-有线新闻频特,http://223.18.103.169:8277/hoycaijing_twn/playlist.m3u8
-中视新闻频特,http://223.18.103.169:8277/zhongshinews_twn/playlist.m3u8
 
 E1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
