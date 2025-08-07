@@ -14,13 +14,7 @@ MTVLive,https://live.catvod.com/smart.php?id=mtvhd_twn
 MoviesNow,https://live.catvod.com/smart.php?id=moviesnow_raj
 StarMovies,https://live.catvod.com/smart.php?id=starmovies_raj
 StarmaaMovies,https://live.catvod.com/smart.php?id=starmaamovies_raj
-TVB星河台XingHe,https://live.catvod.com/smart.php?id=Xinhe
 TVBAsia,https://live.catvod.com/smart.php?id=Tvbasia
-TVBClassic,https://live.catvod.com/smart.php?id=Tvbclassic
-TVBEntertainment,https://live.catvod.com/smart.php?id=Tvbentertainment
-TVBJade,https://live.catvod.com/smart.php?id=Tvbjade
-TVBS欢乐台（备份）,https://live.catvod.com/smart.php?id=tvbshuanle_twn
-TVBS,https://live.catvod.com/smart.php?id=tvbs
 TVBSNews新闻台,https://live.catvod.com/smart.php?id=tvbs_n
 爱尔达影剧台,https://live.catvod.com/smart.php?id=eltayingju_twn
 八大第一GTVFirst,https://live.catvod.com/smart.php?id=badafirst
@@ -29,12 +23,10 @@ TVBSNews新闻台,https://live.catvod.com/smart.php?id=tvbs_n
 大爱1台,https://live.catvod.com/smart.php?id=daai_twn
 大爱2台,https://live.catvod.com/smart.php?id=daai2_twn
 东森财经新闻ETTVBusiness,https://live.catvod.com/smart.php?id=ettvcaijing_twn
-东森超视,https://live.catvod.com/smart.php?id=ettvsuper
 东森电影ETTVMovie,https://live.catvod.com/smart.php?id=ettvmovie
 东森戏剧ETTVDrama,https://live.catvod.com/smart.php?id=ettvdrama
 东森新闻ETTVNews,https://live.catvod.com/smart.php?id=ettvnews
 东森幼幼YoyoTV,https://live.catvod.com/smart.php?id=yoyo_twn
-东森综合ETTVMetro,https://live.catvod.com/smart.php?id=ettvzhonghe
 翡翠台,https://live.catvod.com/smart.php?id=jade_twn
 翡翠台backup,https://live.catvod.com/smart.php?id=Jade_xue
 非凡新闻台,https://live.catvod.com/smart.php?id=feifannews_twn
@@ -104,7 +96,6 @@ tvbs新闻AKtv,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 C1,#genre#
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
-TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
 TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
