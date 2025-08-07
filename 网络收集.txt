@@ -1,5 +1,4 @@
 A1,#genre#
-CCTV3综艺,https://live.catvod.com/smart.php?id=cctv3
 CCTV4新闻台,https://live.catvod.com/smart.php?id=Cctv4
 AFC亚洲旅游台,https://live.catvod.com/smart.php?id=asiatravel_twn
 AXNTaiwan,https://live.catvod.com/smart.php?id=axn_twn
@@ -101,7 +100,6 @@ TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
 美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
 天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
@@ -156,5 +154,4 @@ F1,#genre#
 年代新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
 纬来电影频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来体育频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-纬来综合频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
 
