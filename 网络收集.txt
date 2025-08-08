@@ -95,7 +95,6 @@ tvbs新闻AKtv,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 C1,#genre#
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
-凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
 天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
@@ -113,7 +112,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
-无线翡翠频标,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠频高,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
