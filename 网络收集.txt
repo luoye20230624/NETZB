@@ -97,7 +97,6 @@ AXN,https://live.tvfix.org/live/axn/index.m3u8
 ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
 TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
 TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
-翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
 翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
