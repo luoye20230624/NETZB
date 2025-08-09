@@ -105,7 +105,6 @@ TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
-美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
 天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
 天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
@@ -135,7 +134,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河粤标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-无线娱乐频标,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
 E1,#genre#
 大爱贰台频特,http://223.18.103.169:8277/daai2_twn/playlist.m3u8
