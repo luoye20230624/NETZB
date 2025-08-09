@@ -1,0 +1,3 @@
+影视频道,#genre#
+湖南影视,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+潇湘电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
