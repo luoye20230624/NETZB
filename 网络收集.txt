@@ -102,7 +102,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线功夫粤标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠英标,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河粤标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
