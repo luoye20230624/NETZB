@@ -48,7 +48,6 @@ C1,#genre#
 大爱贰台频特,http://223.18.103.169:8277/daai2_twn/playlist.m3u8
 凤凰卫视频特,http://223.18.103.169:8277/phoenixtv_hd/playlist.m3u8
 凤凰香港频特,http://223.18.103.169:8277/hkphoenix_twn/playlist.m3u8
-民视闽南频特,http://223.18.103.169:8277/ftvhd_taiwan/playlist.m3u8
 民视台湾频特,http://223.18.103.169:8277/ftvtaiwan_twn/playlist.m3u8
 台视新闻频特,http://223.18.103.169:8277/ttvnews_twn/playlist.m3u8
 天映闽特,http://223.18.103.169:8277/ctv18_twn/playlist.m3u8
