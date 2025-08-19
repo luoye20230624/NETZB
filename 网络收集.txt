@@ -26,6 +26,30 @@ tvbs新闻AKtv,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 中天亚洲AKtv,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 
 B1,#genre#
+AXN,https://live.tvfix.org/live/axn/index.m3u8
+ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
+TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
+TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
+美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
+tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
+无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
+无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
+娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
+
+C1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -44,7 +68,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河粤标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
-C1,#genre#
+D1,#genre#
 大爱贰台频特,http://223.18.103.169:8277/daai2_twn/playlist.m3u8
 凤凰卫视频特,http://223.18.103.169:8277/phoenixtv_hd/playlist.m3u8
 凤凰香港频特,http://223.18.103.169:8277/hkphoenix_twn/playlist.m3u8
