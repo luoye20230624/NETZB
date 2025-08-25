@@ -34,14 +34,18 @@ TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
+美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
 天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
 天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
 tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
 无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
 娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 
