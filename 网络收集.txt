@@ -52,8 +52,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰中文频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-美亚电影频高,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 天映经典频标,http://php.jdshipin.com/smt.php?id=Celestial2
 天映频标,http://php.jdshipin.com/smt.php?id=Celestial
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
@@ -95,9 +93,7 @@ D1,#genre#
 
 E1,#genre#
 无线_E美频限,http://iptv.4666888.xyz/iptv.php?id=20097
-无线翡翠马来,http://iptv.4666888.xyz/iptv.php?id=20068
 无线翡翠频限,http://iptv.4666888.xyz/iptv.php?id=20066
-无线翡翠新坡,http://iptv.4666888.xyz/iptv.php?id=20067
 无线翡剧频限,http://iptv.4666888.xyz/iptv.php?id=20099
 无线功夫国标,http://iptv.4666888.xyz/iptv.php?id=20104
 无线经典频限,http://iptv.4666888.xyz/iptv.php?id=20107
