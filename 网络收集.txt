@@ -75,6 +75,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+无线星河频标,http://php.jdshipin.com/smt.php?id=Xinhe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 无线娱乐频标,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
@@ -92,23 +93,16 @@ D1,#genre#
 中国新闻网播,http://jackgao.top:35455/douyin/734352268449
 
 E1,#genre#
-凤凰中文频限,http://iptv.4666888.xyz/iptv.php?id=20063
-凤凰资讯频限,http://iptv.4666888.xyz/iptv.php?id=20064
-无线-EYT频限,http://iptv.4666888.xyz/iptv.php?id=20133
-无线_1美频限,http://iptv.4666888.xyz/iptv.php?id=20095
 无线_E美频限,http://iptv.4666888.xyz/iptv.php?id=20097
 无线翡翠马来,http://iptv.4666888.xyz/iptv.php?id=20068
 无线翡翠频限,http://iptv.4666888.xyz/iptv.php?id=20066
 无线翡翠新坡,http://iptv.4666888.xyz/iptv.php?id=20067
 无线翡剧频限,http://iptv.4666888.xyz/iptv.php?id=20099
 无线功夫国标,http://iptv.4666888.xyz/iptv.php?id=20104
-无线奖门人限,http://iptv.4666888.xyz/iptv.php?id=20138
 无线经典频限,http://iptv.4666888.xyz/iptv.php?id=20107
 无线明珠频限,http://iptv.4666888.xyz/iptv.php?id=20071
 无线千禧频限,http://iptv.4666888.xyz/iptv.php?id=20105
 无线生活,http://iptv.4666888.xyz/iptv.php?id=20074
-无线识食频限,http://iptv.4666888.xyz/iptv.php?id=20141
-无线识叹频限,http://iptv.4666888.xyz/iptv.php?id=20140
 无线星河国标,http://iptv.4666888.xyz/iptv.php?id=20102
 无线星河粤标,http://iptv.4666888.xyz/iptv.php?id=20101
 无线亚剧频限,http://iptv.4666888.xyz/iptv.php?id=20109
