@@ -1,4 +1,28 @@
 A1,#genre#
+AXN,https://live.tvfix.org/live/axn/index.m3u8
+ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
+TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
+TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
+美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
+tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
+无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
+无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
+娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
+
+B1,#genre#
 ELta旅游4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live120
 MTVLive4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live025
 大爱贰高4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live106
@@ -13,7 +37,7 @@ MTVLive4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live025
 tvbs综艺4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live087
 戏剧壹台4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live010
 
-B1,#genre#
+C1,#genre#
 Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 八大第一频流,http://bxtv.3a.ink/api.php?id=bddy
 八大综合频流,http://bxtv.3a.ink/api.php?id=bdzh
@@ -42,7 +66,7 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天新闻频流,http://bxtv.3a.ink/api.php?id=ztxw
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
-C1,#genre#
+D1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -62,7 +86,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
-D1,#genre#
+E1,#genre#
 北京新闻直播,http://jackgao.top:35455/douyin/497532580914
 凤凰新闻网播,http://jackgao.top:35455/douyin/40184312758
 佛山新闻网播,http://jackgao.top:35455/douyin/587225334216
@@ -75,7 +99,7 @@ D1,#genre#
 中国新闻社播,http://jackgao.top:35455/douyin/15236241349
 中国新闻网播,http://jackgao.top:35455/douyin/734352268449
 
-E1,#genre#
+F1,#genre#
 无线_E美频限,http://iptv.4666888.xyz/iptv.php?id=20097
 无线翡翠频限,http://iptv.4666888.xyz/iptv.php?id=20066
 无线翡剧频限,http://iptv.4666888.xyz/iptv.php?id=20099
