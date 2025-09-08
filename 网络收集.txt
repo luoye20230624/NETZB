@@ -103,15 +103,12 @@ F1,#genre#
 无线_E美频限,http://iptv.4666888.xyz/iptv.php?id=20097
 无线翡翠频限,http://iptv.4666888.xyz/iptv.php?id=20066
 无线翡剧频限,http://iptv.4666888.xyz/iptv.php?id=20099
-无线功夫国标,http://iptv.4666888.xyz/iptv.php?id=20104
 无线经典频限,http://iptv.4666888.xyz/iptv.php?id=20107
 无线明珠频限,http://iptv.4666888.xyz/iptv.php?id=20071
 无线千禧频限,http://iptv.4666888.xyz/iptv.php?id=20105
-无线星河国标,http://iptv.4666888.xyz/iptv.php?id=20102
 无线星河粤标,http://iptv.4666888.xyz/iptv.php?id=20101
 无线亚剧频限,http://iptv.4666888.xyz/iptv.php?id=20109
 无线娱乐频限,http://iptv.4666888.xyz/iptv.php?id=20073
-无线综合频限,http://iptv.4666888.xyz/iptv.php?id=20111
 中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
 中天新闻加道,http://iptv.4666888.xyz/iptv.php?id=20181
 
