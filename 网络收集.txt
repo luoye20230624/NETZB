@@ -11,16 +11,11 @@ TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
-美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
 tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
 无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
 娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
-娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 
 B1,#genre#
 ELta旅游4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live120
@@ -105,7 +100,6 @@ F1,#genre#
 无线翡剧频限,http://iptv.4666888.xyz/iptv.php?id=20099
 无线经典频限,http://iptv.4666888.xyz/iptv.php?id=20107
 无线明珠频限,http://iptv.4666888.xyz/iptv.php?id=20071
-无线千禧频限,http://iptv.4666888.xyz/iptv.php?id=20105
 无线亚剧频限,http://iptv.4666888.xyz/iptv.php?id=20109
 无线娱乐频限,http://iptv.4666888.xyz/iptv.php?id=20073
 中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
