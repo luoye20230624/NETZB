@@ -1,14 +1,9 @@
 A1,#genre#
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
-TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
-TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
-翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
 tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
@@ -88,7 +83,6 @@ E1,#genre#
 国🔊荔枝新闻,http://jackgao.top:35455/douyin/964922706943
 湖南新闻直播,http://jackgao.top:35455/douyin/27594494041
 看看新闻直播,http://jackgao.top:35455/douyin/808207714751
-深圳新闻网播,http://jackgao.top:35455/douyin/983530344911
 新闻联播直播,http://jackgao.top:35455/douyin/330698468897
 央视新闻直播,http://jackgao.top:35455/douyin/282773369501
 中国新闻社播,http://jackgao.top:35455/douyin/15236241349
