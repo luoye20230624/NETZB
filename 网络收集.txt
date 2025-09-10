@@ -77,18 +77,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 E1,#genre#
-北京新闻直播,http://jackgao.top:35455/douyin/497532580914
-凤凰新闻网播,http://jackgao.top:35455/douyin/40184312758
-佛山新闻网播,http://jackgao.top:35455/douyin/587225334216
-国🔊荔枝新闻,http://jackgao.top:35455/douyin/964922706943
-湖南新闻直播,http://jackgao.top:35455/douyin/27594494041
-看看新闻直播,http://jackgao.top:35455/douyin/808207714751
-新闻联播直播,http://jackgao.top:35455/douyin/330698468897
-央视新闻直播,http://jackgao.top:35455/douyin/282773369501
-中国新闻社播,http://jackgao.top:35455/douyin/15236241349
-中国新闻网播,http://jackgao.top:35455/douyin/734352268449
-
-F1,#genre#
 无线_E美频限,http://iptv.4666888.xyz/iptv.php?id=20097
 无线翡翠频限,http://iptv.4666888.xyz/iptv.php?id=20066
 无线翡剧频限,http://iptv.4666888.xyz/iptv.php?id=20099
