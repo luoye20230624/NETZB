@@ -86,14 +86,3 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
-E1,#genre#
-无线_E美频限,http://iptv.4666888.xyz/iptv.php?id=20097
-无线翡翠频限,http://iptv.4666888.xyz/iptv.php?id=20066
-无线翡剧频限,http://iptv.4666888.xyz/iptv.php?id=20099
-无线经典频限,http://iptv.4666888.xyz/iptv.php?id=20107
-无线明珠频限,http://iptv.4666888.xyz/iptv.php?id=20071
-无线亚剧频限,http://iptv.4666888.xyz/iptv.php?id=20109
-无线娱乐频限,http://iptv.4666888.xyz/iptv.php?id=20073
-中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
-中天新闻加道,http://iptv.4666888.xyz/iptv.php?id=20181
-
