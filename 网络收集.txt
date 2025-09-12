@@ -20,6 +20,7 @@ tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
 无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
 娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 
 B1,#genre#
 ELta旅游4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live120
