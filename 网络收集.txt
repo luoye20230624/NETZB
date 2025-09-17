@@ -106,7 +106,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 E1,#genre#
 凤凰香港频玛,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
 凤凰中文频玛,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
-凤凰资讯频玛,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
 美亚电影频玛,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 天映经典闽玛,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 天映闽玛,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
