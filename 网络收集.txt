@@ -81,16 +81,31 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 
 D1,#genre#
 凤凰香港频玛,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
+凤凰香港频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 凤凰中文频玛,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
+凤凰中文频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰资讯频玛,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
+凤凰资讯频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 美亚电影频玛,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
+美亚电影频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映经典闽玛,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+天映经典闽玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 天映闽玛,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+天映闽玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 无线翡翠频玛,https://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+无线翡翠频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
 无线华丽国玛,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+无线华丽国玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
 无线华丽粤玛,https://cdn9.163189.xyz/smt1.1.php?id=Wlt
+无线华丽粤玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Wlt
 无线明珠频玛,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+无线明珠频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
 无线千禧频玛,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+无线千禧频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 无线新闻频玛,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线星河频玛,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+无线星河频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线娱乐频玛,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
+无线娱乐频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
 
