@@ -52,6 +52,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰中文频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 天映经典频标,http://php.jdshipin.com/smt.php?id=Celestial2
 天映频标,http://php.jdshipin.com/smt.php?id=Celestial
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
@@ -84,6 +85,8 @@ D1,#genre#
 凤凰中文频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰资讯频玛,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
 凤凰资讯频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+美亚电影频玛,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
+美亚电影频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映经典闽玛,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 天映经典闽玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 天映闽玛,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
@@ -92,8 +95,6 @@ D1,#genre#
 无线翡翠频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
 无线华丽国玛,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 无线华丽国玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
-无线华丽粤玛,https://cdn9.163189.xyz/smt1.1.php?id=Wlt
-无线华丽粤玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Wlt
 无线明珠频玛,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 无线明珠频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
 无线千禧频玛,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
