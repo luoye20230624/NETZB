@@ -2,7 +2,6 @@ A1,#genre#
 AXN电影频特,http://00ds.mc.hi.cn/ddzbsmt.php?id=axn_twn
 AstroMTV,http://00ds.mc.hi.cn/ddzbsmt.php?id=AstroMTV
 CelestialMovies,http://00ds.mc.hi.cn/ddzbsmt.php?id=Celestialindo
-EYE-旅游频特,http://00ds.mc.hi.cn/ddzbsmt.php?id=eyetvtravel_twn
 EYE-戏剧频特,http://00ds.mc.hi.cn/ddzbsmt.php?id=eyetvxiju_twn
 HitsMovie,http://00ds.mc.hi.cn/ddzbsmt.php?id=Hitsmovie
 StarMovies,http://00ds.mc.hi.cn/ddzbsmt.php?id=starmovies_raj
