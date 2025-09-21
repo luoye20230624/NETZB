@@ -122,7 +122,6 @@ tvbs新闻频斯,http://free.cnlive.club/channel/n69ccce92.m3u8
 卫视电影台,http://free.cnlive.club/channel/74380c33/index.m3u8?q=1758348728277
 无线翡翠频斯,http://free.cnlive.club/channel/n7549189d.m3u8
 无线翡翠频斯,http://free.cnlive.club/channel/n7549189d/index.m3u8?q=1758348728277
-无线华丽频斯,http://free.cnlive.club/channel/n177a7044.m3u8
 无线华丽频斯,http://free.cnlive.club/channel/n177a7044/index.m3u8?q=1758348728277
 无线明珠频斯,http://free.cnlive.club/channel/n75ab7db0.m3u8
 无线明珠频斯,http://free.cnlive.club/channel/n75ab7db0/index.m3u8?q=1758348728277
