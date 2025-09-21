@@ -167,7 +167,6 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
 D1,#genre#
-TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
