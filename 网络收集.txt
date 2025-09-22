@@ -108,7 +108,6 @@ tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
 中视闽南频斯,http://free.cnlive.club/channel/dc53f4d/index.m3u8?q=1758348728277
 中天新闻频斯,http://free.cnlive.club/channel/41d8a09d.m3u8
 中天新闻频斯,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1758348728277
-中天亚洲频斯,http://free.cnlive.club/channel/41d5ac2a.m3u8
 中天亚洲频斯,http://free.cnlive.club/channel/41d5ac2a/index.m3u8?q=1758348728277
 中天娱乐频斯,http://free.cnlive.club/channel/41d6f491.m3u8
 中天娱乐频斯,http://free.cnlive.club/channel/41d6f491/index.m3u8?q=1758348728277
