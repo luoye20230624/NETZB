@@ -6,7 +6,6 @@ ELta影剧频斯,http://free.cnlive.club/channel/n2109392b/index.m3u8?q=17583487
 EYE-旅游频斯,http://free.cnlive.club/channel/28efa38.m3u8
 EYE-旅游频斯,http://free.cnlive.club/channel/28efa38/index.m3u8?q=1758348728277
 EYE-戏剧频斯,http://free.cnlive.club/channel/27dadb3.m3u8
-HitsMovie,http://free.cnlive.club/channel/2df87356/index.m3u8?q=1758348728277
 HitsMovie,http://free.cnlive.club/channel/5cc16e3/index.m3u8?q=1758348728277
 MTVLive,http://free.cnlive.club/channel/52a078d5/index.m3u8?q=1758348728277
 MTVLive,http://free.cnlive.club/channel/n7a0c7aec/index.m3u8?q=1758348728277
@@ -15,13 +14,11 @@ StarMovies,http://free.cnlive.club/channel/1c63b283/index.m3u8?q=1758348728277
 StarMovies,http://free.cnlive.club/channel/n6773674f/index.m3u8?q=1758348728277
 StarmaaMovies,http://free.cnlive.club/channel/n348057ba/index.m3u8?q=1758348728277
 TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348728277
-TVBAsia,http://free.cnlive.club/channel/30a8c4da/index.m3u8?q=1758348728277
 八大第一频斯,http://free.cnlive.club/channel/2733018a.m3u8
 八大第一频斯,http://free.cnlive.club/channel/2733018a/index.m3u8?q=1758348728277
 八大戏剧频斯,http://free.cnlive.club/channel/26d54426.m3u8
 八大戏剧频斯,http://free.cnlive.club/channel/26d54426/index.m3u8?q=1758348728277
 八大娱乐频斯,http://free.cnlive.club/channel/26b73cff.m3u8
-八大娱乐频斯,http://free.cnlive.club/channel/26b73cff/index.m3u8?q=1758348728277
 八大综合频斯,http://free.cnlive.club/channel/27420c52/index.m3u8?q=1758348728277
 大爱贰台频斯,http://free.cnlive.club/channel/46f0bf6e.m3u8
 大爱贰台频斯,http://free.cnlive.club/channel/46f0bf6e/index.m3u8?q=1758348728277
@@ -29,10 +26,8 @@ TVBAsia,http://free.cnlive.club/channel/30a8c4da/index.m3u8?q=1758348728277
 东森财经频斯,http://free.cnlive.club/channel/209f9e70.m3u8
 东森财经频斯,http://free.cnlive.club/channel/209f9e70/index.m3u8?q=1758348728277
 东森财经新闻,http://free.cnlive.club/channel/n5392563f/index.m3u8?q=1758348728277
-东森超视频斯,http://free.cnlive.club/channel/4210df69/index.m3u8?q=1758348728277
 东森电影,http://free.cnlive.club/channel/7cb9a434/index.m3u8?q=1758348728277
 东森电影频斯,http://free.cnlive.club/channel/n5502f4.m3u8
-东森电影频斯,http://free.cnlive.club/channel/n5502f4/index.m3u8?q=1758348728277
 东森新闻频斯,http://free.cnlive.club/channel/n88aa83.m3u8
 东森新闻频斯,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1758348728277
 东森洋片,http://free.cnlive.club/channel/7cb8b9f4/index.m3u8?q=1758348728277
@@ -49,7 +44,6 @@ TVBAsia,http://free.cnlive.club/channel/30a8c4da/index.m3u8?q=1758348728277
 公视闽南频斯,http://free.cnlive.club/channel/3b838b0c.m3u8
 公视闽南频斯,http://free.cnlive.club/channel/3b838b0c/index.m3u8?q=1758348728277
 公视台语频斯,http://free.cnlive.club/channel/3ccf6783.m3u8
-公视台语频斯,http://free.cnlive.club/channel/3ccf6783/index.m3u8?q=1758348728277
 好莱坞电影台,http://free.cnlive.club/channel/117d8eeb/index.m3u8?q=1758348728277
 华视闽南频斯,http://free.cnlive.club/channel/560bcbee.m3u8
 寰宇财经频斯,http://free.cnlive.club/channel/n4332074a.m3u8
@@ -57,7 +51,6 @@ TVBAsia,http://free.cnlive.club/channel/30a8c4da/index.m3u8?q=1758348728277
 寰宇新闻频斯,http://free.cnlive.club/channel/n43c34be8/index.m3u8?q=1758348728277
 靖天卡通,http://free.cnlive.club/channel/n6567f5b8/index.m3u8?q=1758348728277
 靖天卡通频斯,http://free.cnlive.club/channel/63181d62.m3u8
-靖天频斯,http://free.cnlive.club/channel/63189371.m3u8
 龙华电影,http://free.cnlive.club/channel/n5e8ca809/index.m3u8?q=1758348728277
 龙华电影频斯,http://free.cnlive.club/channel/66c77727/index.m3u8?q=1758348728277
 龙华经典频斯,http://free.cnlive.club/channel/66c892d4.m3u8
@@ -71,7 +64,6 @@ TVBAsia,http://free.cnlive.club/channel/30a8c4da/index.m3u8?q=1758348728277
 龙祥电影频斯,http://free.cnlive.club/channel/67548a4f.m3u8
 龙祥时代,http://free.cnlive.club/channel/n5dff94e1/index.m3u8?q=1758348728277
 美亚电影频斯,http://free.cnlive.club/channel/5824ef5e.m3u8
-美亚电影频斯,http://free.cnlive.club/channel/5824ef5e/index.m3u8?q=1758348728277
 民视闽南频斯,http://free.cnlive.club/channel/n4d0434cf/index.m3u8?q=1758348728277
 民视台湾频斯,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
 年代新闻频斯,http://free.cnlive.club/channel/49184630.m3u8
@@ -79,7 +71,6 @@ TVBAsia,http://free.cnlive.club/channel/30a8c4da/index.m3u8?q=1758348728277
 三立都会频斯,http://free.cnlive.club/channel/72452bb.m3u8
 三立闽南频斯,http://free.cnlive.club/channel/642f20a/index.m3u8?q=1758348728277
 三立戏剧频斯,http://free.cnlive.club/channel/6748da0.m3u8
-三立戏剧频斯,http://free.cnlive.club/channel/6748da0/index.m3u8?q=1758348728277
 三立综合频斯,http://free.cnlive.club/channel/6e155cc.m3u8
 三立综合频斯,http://free.cnlive.club/channel/6e155cc/index.m3u8?q=1758348728277
 台视新闻频斯,http://free.cnlive.club/channel/452d9d57.m3u8
@@ -98,7 +89,6 @@ tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
 无线华丽频斯,http://free.cnlive.club/channel/n177a7044/index.m3u8?q=1758348728277
 无线明珠频斯,http://free.cnlive.club/channel/n75ab7db0.m3u8
 无线明珠频斯,http://free.cnlive.club/channel/n75ab7db0/index.m3u8?q=1758348728277
-无线新闻频斯,http://free.cnlive.club/channel/n3fad9608.m3u8
 无线新闻频斯,http://free.cnlive.club/channel/n3fad9608/index.m3u8?q=1758348728277
 亚洲旅游,http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1758348728277
 亚洲旅游频斯,http://free.cnlive.club/channel/852ca6f.m3u8
