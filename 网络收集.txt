@@ -44,7 +44,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 公视闽南频斯,http://free.cnlive.club/channel/3b838b0c/index.m3u8?q=1758348728277
 公视台语频斯,http://free.cnlive.club/channel/3ccf6783.m3u8
 好莱坞电影台,http://free.cnlive.club/channel/117d8eeb/index.m3u8?q=1758348728277
-华视闽南频斯,http://free.cnlive.club/channel/560bcbee.m3u8
 寰宇财经频斯,http://free.cnlive.club/channel/n4332074a.m3u8
 寰宇新闻频斯,http://free.cnlive.club/channel/n43c34be8.m3u8
 寰宇新闻频斯,http://free.cnlive.club/channel/n43c34be8/index.m3u8?q=1758348728277
