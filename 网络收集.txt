@@ -40,7 +40,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 凤凰香港频斯,http://free.cnlive.club/channel/n49654430.m3u8
 凤凰资讯频斯,http://free.cnlive.club/channel/n4966a4fb.m3u8
 公视闽南频斯,http://free.cnlive.club/channel/3b838b0c.m3u8
-公视闽南频斯,http://free.cnlive.club/channel/3b838b0c/index.m3u8?q=1758348728277
 公视台语频斯,http://free.cnlive.club/channel/3ccf6783.m3u8
 好莱坞电影台,http://free.cnlive.club/channel/117d8eeb/index.m3u8?q=1758348728277
 寰宇财经频斯,http://free.cnlive.club/channel/n4332074a.m3u8
@@ -53,19 +52,14 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 龙华经典频斯,http://free.cnlive.club/channel/66c892d4.m3u8
 龙华偶像频斯,http://free.cnlive.club/channel/66c2f564.m3u8
 龙华偶像频斯,http://free.cnlive.club/channel/66c2f564/index.m3u8?q=1758348728277
-龙华戏剧频斯,http://free.cnlive.club/channel/66c51883.m3u8
 龙华戏剧频斯,http://free.cnlive.club/channel/66c51883/index.m3u8?q=1758348728277
-龙华洋片,http://free.cnlive.club/channel/n5e8d9249/index.m3u8?q=1758348728277
 龙华洋片频斯,http://free.cnlive.club/channel/66c68ce7.m3u8
-龙华洋片频斯,http://free.cnlive.club/channel/66c68ce7/index.m3u8?q=1758348728277
 龙祥电影频斯,http://free.cnlive.club/channel/67548a4f.m3u8
 美亚电影频斯,http://free.cnlive.club/channel/5824ef5e.m3u8
-民视闽南频斯,http://free.cnlive.club/channel/n4d0434cf/index.m3u8?q=1758348728277
 民视台湾频斯,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
 年代新闻频斯,http://free.cnlive.club/channel/49184630.m3u8
 年代新闻频斯,http://free.cnlive.club/channel/49184630/index.m3u8?q=1758348728277
 三立都会频斯,http://free.cnlive.club/channel/72452bb.m3u8
-三立闽南频斯,http://free.cnlive.club/channel/642f20a/index.m3u8?q=1758348728277
 三立戏剧频斯,http://free.cnlive.club/channel/6748da0.m3u8
 三立综合频斯,http://free.cnlive.club/channel/6e155cc.m3u8
 三立综合频斯,http://free.cnlive.club/channel/6e155cc/index.m3u8?q=1758348728277
