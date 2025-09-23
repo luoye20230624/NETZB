@@ -25,7 +25,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 东森财经频斯,http://free.cnlive.club/channel/209f9e70.m3u8
 东森财经频斯,http://free.cnlive.club/channel/209f9e70/index.m3u8?q=1758348728277
 东森财经新闻,http://free.cnlive.club/channel/n5392563f/index.m3u8?q=1758348728277
-东森电影,http://free.cnlive.club/channel/7cb9a434/index.m3u8?q=1758348728277
 东森电影频斯,http://free.cnlive.club/channel/n5502f4.m3u8
 东森新闻频斯,http://free.cnlive.club/channel/n88aa83.m3u8
 东森新闻频斯,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1758348728277
@@ -60,7 +59,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 龙华洋片频斯,http://free.cnlive.club/channel/66c68ce7.m3u8
 龙华洋片频斯,http://free.cnlive.club/channel/66c68ce7/index.m3u8?q=1758348728277
 龙祥电影频斯,http://free.cnlive.club/channel/67548a4f.m3u8
-龙祥时代,http://free.cnlive.club/channel/n5dff94e1/index.m3u8?q=1758348728277
 美亚电影频斯,http://free.cnlive.club/channel/5824ef5e.m3u8
 民视闽南频斯,http://free.cnlive.club/channel/n4d0434cf/index.m3u8?q=1758348728277
 民视台湾频斯,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
@@ -85,7 +83,6 @@ tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
 卫视电影台,http://free.cnlive.club/channel/74380c33/index.m3u8?q=1758348728277
 无线翡翠频斯,http://free.cnlive.club/channel/n7549189d/index.m3u8?q=1758348728277
 无线华丽频斯,http://free.cnlive.club/channel/n177a7044/index.m3u8?q=1758348728277
-无线明珠频斯,http://free.cnlive.club/channel/n75ab7db0.m3u8
 无线明珠频斯,http://free.cnlive.club/channel/n75ab7db0/index.m3u8?q=1758348728277
 无线新闻频斯,http://free.cnlive.club/channel/n3fad9608/index.m3u8?q=1758348728277
 亚洲旅游,http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1758348728277
@@ -99,7 +96,6 @@ tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
 中天亚洲频斯,http://free.cnlive.club/channel/41d5ac2a/index.m3u8?q=1758348728277
 中天娱乐频斯,http://free.cnlive.club/channel/41d6f491.m3u8
 中天娱乐频斯,http://free.cnlive.club/channel/41d6f491/index.m3u8?q=1758348728277
-中天综合频斯,http://free.cnlive.club/channel/41db6ede/index.m3u8?q=1758348728277
 
 B1,#genre#
 ELta旅游4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live120
