@@ -49,7 +49,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 龙华偶像频斯,http://free.cnlive.club/channel/66c2f564/index.m3u8?q=1758348728277
 龙华洋片频斯,http://free.cnlive.club/channel/66c68ce7.m3u8
 龙祥电影频斯,http://free.cnlive.club/channel/67548a4f.m3u8
-美亚电影频斯,http://free.cnlive.club/channel/5824ef5e.m3u8
 民视台湾频斯,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
 年代新闻频斯,http://free.cnlive.club/channel/49184630/index.m3u8?q=1758348728277
 三立都会频斯,http://free.cnlive.club/channel/72452bb.m3u8
@@ -58,14 +57,10 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 三立综合频斯,http://free.cnlive.club/channel/6e155cc/index.m3u8?q=1758348728277
 台视新闻频斯,http://free.cnlive.club/channel/452d9d57.m3u8
 台视新闻频斯,http://free.cnlive.club/channel/452d9d57/index.m3u8?q=1758348728277
-tvNMovie,http://free.cnlive.club/channel/391ee36/index.m3u8?q=1758348728277
 tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
-纬来电影频斯,http://free.cnlive.club/channel/581b458b.m3u8
 纬来电影频斯,http://free.cnlive.club/channel/581b458b/index.m3u8?q=1758348728277
 纬来精彩频斯,http://free.cnlive.club/channel/581c2f1a.m3u8
-纬来日本频斯,http://free.cnlive.club/channel/58197296/index.m3u8?q=1758348728277
 纬来育乐频斯,http://free.cnlive.club/channel/581c988d.m3u8
-纬来育乐频斯,http://free.cnlive.club/channel/581c988d/index.m3u8?q=1758348728277
 纬来综合频斯,http://free.cnlive.club/channel/581c693b.m3u8
 卫视电影台,http://free.cnlive.club/channel/74380c33/index.m3u8?q=1758348728277
 无线翡翠频斯,http://free.cnlive.club/channel/n7549189d/index.m3u8?q=1758348728277
@@ -74,7 +69,6 @@ tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
 亚洲旅游,http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1758348728277
 亚洲旅游频斯,http://free.cnlive.club/channel/852ca6f.m3u8
 亚洲旅游频斯,http://free.cnlive.club/channel/852ca6f/index.m3u8?q=1758348728277
-有线新闻频斯,http://free.cnlive.club/channel/7289243e.m3u8
 中视闽南频斯,http://free.cnlive.club/channel/dc53f4d.m3u8
 中视闽南频斯,http://free.cnlive.club/channel/dc53f4d/index.m3u8?q=1758348728277
 中天新闻频斯,http://free.cnlive.club/channel/41d8a09d.m3u8
