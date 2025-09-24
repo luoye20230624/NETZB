@@ -9,7 +9,6 @@ HitsMovie,http://free.cnlive.club/channel/5cc16e3/index.m3u8?q=1758348728277
 MTVLive,http://free.cnlive.club/channel/n7a0c7aec/index.m3u8?q=1758348728277
 MoviesNow,http://free.cnlive.club/channel/n1bf890c3/index.m3u8?q=1758348728277
 StarMovies,http://free.cnlive.club/channel/1c63b283/index.m3u8?q=1758348728277
-StarMovies,http://free.cnlive.club/channel/n6773674f/index.m3u8?q=1758348728277
 TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348728277
 八大第一频斯,http://free.cnlive.club/channel/2733018a.m3u8
 八大第一频斯,http://free.cnlive.club/channel/2733018a/index.m3u8?q=1758348728277
@@ -121,7 +120,6 @@ D1,#genre#
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-凤凰香港频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
