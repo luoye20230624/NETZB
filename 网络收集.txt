@@ -41,7 +41,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 靖天卡通,http://free.cnlive.club/channel/n6567f5b8/index.m3u8?q=1758348728277
 龙华电影,http://free.cnlive.club/channel/n5e8ca809/index.m3u8?q=1758348728277
 龙华电影频斯,http://free.cnlive.club/channel/66c77727/index.m3u8?q=1758348728277
-龙华经典频斯,http://free.cnlive.club/channel/66c892d4.m3u8
 龙华偶像频斯,http://free.cnlive.club/channel/66c2f564.m3u8
 龙华偶像频斯,http://free.cnlive.club/channel/66c2f564/index.m3u8?q=1758348728277
 龙华洋片频斯,http://free.cnlive.club/channel/66c68ce7.m3u8
