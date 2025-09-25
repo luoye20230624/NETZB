@@ -12,7 +12,6 @@ StarMovies,http://free.cnlive.club/channel/1c63b283/index.m3u8?q=1758348728277
 TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348728277
 八大第一频斯,http://free.cnlive.club/channel/2733018a.m3u8
 八大第一频斯,http://free.cnlive.club/channel/2733018a/index.m3u8?q=1758348728277
-八大娱乐频斯,http://free.cnlive.club/channel/26b73cff.m3u8
 八大综合频斯,http://free.cnlive.club/channel/27420c52/index.m3u8?q=1758348728277
 大爱贰台频斯,http://free.cnlive.club/channel/46f0bf6e.m3u8
 大爱壹台频斯,http://free.cnlive.club/channel/46f9ba85.m3u8
@@ -23,7 +22,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 东森新闻频斯,http://free.cnlive.club/channel/n88aa83.m3u8
 东森洋片,http://free.cnlive.club/channel/7cb8b9f4/index.m3u8?q=1758348728277
 东森洋片频斯,http://free.cnlive.club/channel/n7160b4.m3u8
-东森洋片频斯,http://free.cnlive.club/channel/n7160b4/index.m3u8?q=1758348728277
 东森幼幼频斯,http://free.cnlive.club/channel/naa6d18.m3u8
 东森综合频斯,http://free.cnlive.club/channel/n31b0a4/index.m3u8?q=1758348728277
 非凡新闻频斯,http://free.cnlive.club/channel/6302a884.m3u8
