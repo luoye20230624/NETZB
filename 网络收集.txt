@@ -1,7 +1,6 @@
 A1,#genre#
 AXN电影频斯,http://free.cnlive.club/channel/n4e27c899/index.m3u8?q=1758348728277
 CelestialMovies,http://free.cnlive.club/channel/n4de56ec2/index.m3u8?q=1758348728277
-ELta影剧频斯,http://free.cnlive.club/channel/n2109392b.m3u8
 ELta影剧频斯,http://free.cnlive.club/channel/n2109392b/index.m3u8?q=1758348728277
 EYE-旅游频斯,http://free.cnlive.club/channel/28efa38.m3u8
 EYE-戏剧频斯,http://free.cnlive.club/channel/27dadb3.m3u8
