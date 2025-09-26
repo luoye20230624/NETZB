@@ -42,7 +42,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 三立综合频斯,http://free.cnlive.club/channel/6e155cc.m3u8
 三立综合频斯,http://free.cnlive.club/channel/6e155cc/index.m3u8?q=1758348728277
 台视新闻频斯,http://free.cnlive.club/channel/452d9d57.m3u8
-台视新闻频斯,http://free.cnlive.club/channel/452d9d57/index.m3u8?q=1758348728277
 tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
 纬来电影频斯,http://free.cnlive.club/channel/581b458b/index.m3u8?q=1758348728277
 纬来育乐频斯,http://free.cnlive.club/channel/581c988d.m3u8
