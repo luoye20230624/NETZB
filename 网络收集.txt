@@ -60,21 +60,6 @@ tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
 中天娱乐频斯,http://free.cnlive.club/channel/41d6f491/index.m3u8?q=1758348728277
 
 B1,#genre#
-ELta旅游4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live120
-MTVLive4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live025
-大爱贰高4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live106
-大爱壹高4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live007
-东森购贰4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live046
-东森购叁4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live048
-东森购五4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live049
-东森购壹4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live047
-人间卫视4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live008
-三立新闻4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live089
-三立综合4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live207
-tvbs综艺4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live087
-戏剧壹台4Gtv,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live010
-
-C1,#genre#
 Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 八大第一频流,http://bxtv.3a.ink/api.php?id=bddy
 八大综合频流,http://bxtv.3a.ink/api.php?id=bdzh
@@ -103,7 +88,7 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天新闻频流,http://bxtv.3a.ink/api.php?id=ztxw
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
-D1,#genre#
+C1,#genre#
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
