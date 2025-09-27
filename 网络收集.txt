@@ -1,5 +1,4 @@
 A1,#genre#
-AXN电影频斯,http://free.cnlive.club/channel/n4e27c899/index.m3u8?q=1758348728277
 CelestialMovies,http://free.cnlive.club/channel/n4de56ec2/index.m3u8?q=1758348728277
 ELta影剧频斯,http://free.cnlive.club/channel/n2109392b/index.m3u8?q=1758348728277
 EYE-旅游频斯,http://free.cnlive.club/channel/28efa38.m3u8
@@ -35,7 +34,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 龙华洋片频斯,http://free.cnlive.club/channel/66c68ce7.m3u8
 龙祥电影频斯,http://free.cnlive.club/channel/67548a4f.m3u8
 民视台湾频斯,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
-年代新闻频斯,http://free.cnlive.club/channel/49184630/index.m3u8?q=1758348728277
 三立都会频斯,http://free.cnlive.club/channel/72452bb.m3u8
 三立戏剧频斯,http://free.cnlive.club/channel/6748da0.m3u8
 三立综合频斯,http://free.cnlive.club/channel/6e155cc.m3u8
