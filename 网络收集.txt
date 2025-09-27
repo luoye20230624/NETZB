@@ -39,7 +39,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 三立都会频斯,http://free.cnlive.club/channel/72452bb.m3u8
 三立戏剧频斯,http://free.cnlive.club/channel/6748da0.m3u8
 三立综合频斯,http://free.cnlive.club/channel/6e155cc.m3u8
-三立综合频斯,http://free.cnlive.club/channel/6e155cc/index.m3u8?q=1758348728277
 台视新闻频斯,http://free.cnlive.club/channel/452d9d57.m3u8
 tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
 纬来电影频斯,http://free.cnlive.club/channel/581b458b/index.m3u8?q=1758348728277
@@ -86,7 +85,6 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
 C1,#genre#
-凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
