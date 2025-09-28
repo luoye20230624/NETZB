@@ -20,7 +20,6 @@ TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1758348
 东森洋片,http://free.cnlive.club/channel/7cb8b9f4/index.m3u8?q=1758348728277
 东森洋片频斯,http://free.cnlive.club/channel/n7160b4.m3u8
 东森幼幼频斯,http://free.cnlive.club/channel/naa6d18.m3u8
-东森综合频斯,http://free.cnlive.club/channel/n31b0a4/index.m3u8?q=1758348728277
 非凡新闻频斯,http://free.cnlive.club/channel/6302a884.m3u8
 凤凰卫视频斯,http://free.cnlive.club/channel/n496e6eec.m3u8
 凤凰资讯频斯,http://free.cnlive.club/channel/n4966a4fb.m3u8
@@ -49,7 +48,6 @@ tvNMovie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1758348728277
 中视闽南频斯,http://free.cnlive.club/channel/dc53f4d/index.m3u8?q=1758348728277
 中天新闻频斯,http://free.cnlive.club/channel/41d8a09d.m3u8
 中天新闻频斯,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1758348728277
-中天亚洲频斯,http://free.cnlive.club/channel/41d5ac2a/index.m3u8?q=1758348728277
 中天娱乐频斯,http://free.cnlive.club/channel/41d6f491/index.m3u8?q=1758348728277
 
 B1,#genre#
