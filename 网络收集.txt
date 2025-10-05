@@ -28,9 +28,5 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
 B1,#genre#
-国🔊江苏新闻,https://pull-flv-f26.douyincdn.com/media/stream-694549890472084140.flv?arch_hrchy=w1&exp_hrchy=w1&expire=68eb98f8&major_anchor_level=common&sign=426138f875129c58fe6d4da10dceb575&t_id=037-20251005200304B8632B40CF7D788CD682-tBMiN7&unique_id=stream-694549890472084140_684_flv&abr_pts=-800&_session_id=037-20251005200304B8632B40CF7D788CD682-tBMiN7.1759665795355.47247&rsi=1
 深圳新闻抖播,https://pull-flv-f26.douyincdn.com/media/stream-694538728995029676.flv?arch_hrchy=w1&exp_hrchy=w1&expire=68eb0976&major_anchor_level=common&sign=1b70efcc87d11309c96b0505dddc3f0d&t_id=037-202510050950450CEE3E3A87999572E1FA-VNitIM&unique_id=stream-694538728995029676_684_flv&_session_id=655-202510050950461944628383DBBFC150A9.1759629046194.04957&rsi=0&abr_pts=-800
-
-C1,#genre#
-国🔊荔枝新闻,https://v2qaactl6kw960pr1gt8pa4eq9sio92zc.mobgslb.tbcache.com/pull-f3.douyincdn.com/media/stream-406318666603299500.flv?arch_hrchy=w1&major_anchor_level=common&auth_key=1760264105-0-0-7ac0b5481b6bcc23679399855aeba05e&exp_hrchy=w1&unique_id=stream-406318666603299500_684_flv&t_id=037-202510051845058FBB065B9734E3528453-vsb4ar&ali_302c=700&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666100&ali_stream_type=00&ali_orig_station=cn7910&ali_st=cn8623&ali_pv=1759661048&ali_ts=1759661110&ali_g=t44&abr_pts=-800&_session_id=037-202510051845058FBB065B9734E3528453-vsb4ar.1759661107950.80467&rsi=1
 
