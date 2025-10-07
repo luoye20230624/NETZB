@@ -34,10 +34,8 @@ B1,#genre#
 凤凰中文频国,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰资讯频国,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
 凤凰资讯频国,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-美亚电影频国,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 美亚电影频国,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映经典频粤,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-天映经典频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 天映频国,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
 天映频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 无线翡翠频粤,https://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -45,14 +43,9 @@ B1,#genre#
 无线华丽频国,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 无线华丽频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
 无线明珠频英,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-无线明珠频英,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
 无线千禧频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 无线千禧频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-无线新闻频粤,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线星河频国,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-无线星河频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
-无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
 无线娱乐频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
 
 C1,#genre#
@@ -67,7 +60,6 @@ C1,#genre#
 无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 D1,#genre#
