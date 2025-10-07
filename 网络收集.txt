@@ -28,6 +28,25 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
 B1,#genre#
+TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
+无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
+无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+
+C1,#genre#
 凤凰香港频国,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
 凤凰香港频国,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 凤凰中文频国,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
@@ -55,7 +74,7 @@ B1,#genre#
 无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
 无线娱乐频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
 
-C1,#genre#
+D1,#genre#
 凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
@@ -69,9 +88,6 @@ C1,#genre#
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-
-D1,#genre#
-国🔊荔枝新闻,https://220-181-136-226.bytefcdnrd.com/media/stream-118100043288806060.flv?302_type=cold_aggr&_session_id=037-202510071841419992C5442FF723ACDEB0-rlt1m9.1759833701911.21117&abr_pts=-800&arch_hrchy=w1&cac=1&cb_retry=0&domain=pull-hs-f5.flive.douyincdn.com&enable_pts_align=1&exp_hrchy=w1&expire=1760438501&fp_user_url=https%3A%2F%2Fpull-hs-f5.flive.douyincdn.com%2Fmedia%2Fstream-118100043288806060.flv%3Farch_hrchy%3Dw1%26exp_hrchy%3Dw1%26expire%3D1760438501%26major_anchor_level%3Dcommon%26sign%3D453e6bc63f10d90c54d14d216ff3f465%26t_id%3D037-202510071841419992C5442FF723ACDEB0-rlt1m9%26unique_id%3Dstream-118100043288806060_684_flv%26volcSecret%3D453e6bc63f10d90c54d14d216ff3f465%26volcTime%3D1760438501%26abr_pts%3D-800%26_session_id%3D037-202510071841419992C5442FF723ACDEB0-rlt1m9.1759833701911.21117%26rsi%3D1&major_anchor_level=common&manage_ip=&node_id=&pro_type=http2&redirect_from=pod.cn-o2uti9.vz70.nss&redirect_from_ip=183.2.168.149&redirect_to=fc.cn-cn1434g1&redirect_to_ip=220.181.136.226&rsi=1&sign=453e6bc63f10d90c54d14d216ff3f465&t_id=037-202510071841419992C5442FF723ACDEB0-rlt1m9&unique_id=stream-118100043288806060_684_flv&vhost=push-rtmp-hs-f5.douyincdn.com&volcSecret=453e6bc63f10d90c54d14d216ff3f465&volcTime=1760438501
 
 E1,#genre#
 深圳新闻抖播,https://pull-flv-f26.douyincdn.com/media/stream-694538728995029676.flv?arch_hrchy=w1&exp_hrchy=w1&expire=68eb0976&major_anchor_level=common&sign=1b70efcc87d11309c96b0505dddc3f0d&t_id=037-202510050950450CEE3E3A87999572E1FA-VNitIM&unique_id=stream-694538728995029676_684_flv&_session_id=655-202510050950461944628383DBBFC150A9.1759629046194.04957&rsi=0&abr_pts=-800
