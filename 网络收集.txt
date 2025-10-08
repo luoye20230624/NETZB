@@ -42,6 +42,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
@@ -66,6 +67,8 @@ C1,#genre#
 无线明珠频英,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
 无线千禧频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 无线千禧频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+无线新闻频粤,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线星河频国,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 无线星河频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
