@@ -69,6 +69,8 @@ C1,#genre#
 无线千禧频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 无线新闻频粤,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线星河频国,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+无线星河频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
 无线娱乐频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
 
@@ -84,6 +86,7 @@ D1,#genre#
 无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 E1,#genre#
