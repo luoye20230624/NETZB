@@ -40,7 +40,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
@@ -63,13 +62,10 @@ C1,#genre#
 无线翡翠频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
 无线华丽频国,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 无线华丽频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
-无线明珠频英,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-无线明珠频英,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
 无线千禧频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 无线千禧频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 无线新闻频粤,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线星河频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
 无线娱乐频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
 
@@ -82,10 +78,8 @@ D1,#genre#
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 E1,#genre#
