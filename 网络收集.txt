@@ -54,7 +54,6 @@ C1,#genre#
 凤凰资讯频国,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
 凤凰资讯频国,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 美亚电影频国,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
-美亚电影频国,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映经典频粤,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 天映经典频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 天映频国,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
@@ -90,6 +89,8 @@ D1,#genre#
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 E1,#genre#
+凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067
+凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066
