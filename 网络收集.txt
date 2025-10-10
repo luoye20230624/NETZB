@@ -69,7 +69,6 @@ C1,#genre#
 无线千禧频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 无线新闻频粤,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线星河频国,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 无线星河频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
 无线娱乐频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
