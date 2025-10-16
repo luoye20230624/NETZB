@@ -9,35 +9,22 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
-AXN电影频玛,http://51.89.166.17:3002/index.php?id=axn_twn
 AstroMTV,http://51.89.166.17:3002/index.php?id=AstroMTV
-EYE-旅游频玛,http://51.89.166.17:3002/index.php?id=eyetvtravel_twn
 EYE-戏剧频玛,http://51.89.166.17:3002/index.php?id=eyetvxiju_twn
 HitsMovie,http://51.89.166.17:3002/index.php?id=Hitsmovie
 StarMovies,http://51.89.166.17:3002/index.php?id=starmovies_raj
 StarmaaMovies,http://51.89.166.17:3002/index.php?id=starmaamovies_raj
-TVB星河台XingHe,http://51.89.166.17:3002/index.php?id=Xinhe
 TVBAsia,http://51.89.166.17:3002/index.php?id=Tvbasia
 八大第一频玛,http://51.89.166.17:3002/index.php?id=badafirst
-八大戏剧频玛,http://51.89.166.17:3002/index.php?id=badadrama
-八大娱乐频玛,http://51.89.166.17:3002/index.php?id=badaentertain
 八大综合频玛,http://51.89.166.17:3002/index.php?id=badazhonghe
 大爱贰台频玛,http://51.89.166.17:3002/index.php?id=daai2_twn
 大爱壹台频玛,http://51.89.166.17:3002/index.php?id=daai_twn
 东森财经频玛,http://51.89.166.17:3002/index.php?id=ettvcaijing_twn
-东森电影频玛,http://51.89.166.17:3002/index.php?id=ettvmovie
 东森戏剧频玛,http://51.89.166.17:3002/index.php?id=ettvdrama
 东森新闻频玛,http://51.89.166.17:3002/index.php?id=ettvnews
 东森洋片频玛,http://51.89.166.17:3002/index.php?id=ettvwestern
-东森幼幼频玛,http://51.89.166.17:3002/index.php?id=yoyo_twn
-东森综合频玛,http://51.89.166.17:3002/index.php?id=ettvzhonghe
-非凡新闻频玛,http://51.89.166.17:3002/index.php?id=feifannews_twn
 凤凰香港频玛,http://51.89.166.17:3002/index.php?id=hkphoenix_twn
 凤凰中文频玛,http://51.89.166.17:3002/index.php?id=phoenixtv_hd
 凤凰资讯频玛,http://51.89.166.17:3002/index.php?id=phoenixinfo_hd
@@ -50,11 +37,9 @@ TVBAsia,http://51.89.166.17:3002/index.php?id=Tvbasia
 美亚电影频玛,http://51.89.166.17:3002/index.php?id=meiyamovie_twn
 民视第一频玛,http://51.89.166.17:3002/index.php?id=lunghuajingdian_twn
 民视闽南频玛,http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
-民视新闻频玛,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
 年代新闻频玛,http://51.89.166.17:3002/index.php?id=niandainews_twn
 三立闽南频玛,http://51.89.166.17:3002/index.php?id=sanlitaiwan
 三立戏剧频玛,http://51.89.166.17:3002/index.php?id=sanlixiju_twn
-三立综合频玛,http://51.89.166.17:3002/index.php?id=sanlizhonghe
 台视新闻频玛,http://51.89.166.17:3002/index.php?id=ttvnews_twn
 探索亚洲频玛,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
 天映国玛,http://51.89.166.17:3002/index.php?id=Celestial
@@ -62,11 +47,8 @@ TVBAsia,http://51.89.166.17:3002/index.php?id=Tvbasia
 天映闽玛,http://51.89.166.17:3002/index.php?id=Celestialindo
 天映粤玛,http://51.89.166.17:3002/index.php?id=ctv18_twn
 tvNMovie,http://51.89.166.17:3002/index.php?id=Tvnmovie
-tvbs新闻频玛,http://51.89.166.17:3002/index.php?id=tvbs_n
 纬来电影频玛,http://51.89.166.17:3002/index.php?id=videolandmovie
-纬来日本频玛,http://51.89.166.17:3002/index.php?id=videolandjapan
 纬来体育频玛,http://51.89.166.17:3002/index.php?id=videolandsport
-纬来综合频玛,http://51.89.166.17:3002/index.php?id=videolandzonghe
 无线翡翠频玛,http://51.89.166.17:3002/index.php?id=Jade_xue
 无线翡翠频玛,http://51.89.166.17:3002/index.php?id=Tvbjade
 无线翡翠频玛,http://51.89.166.17:3002/index.php?id=jade_twn
@@ -81,7 +63,6 @@ tvbs新闻频玛,http://51.89.166.17:3002/index.php?id=tvbs_n
 中视新闻频玛,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
 中天新闻频玛,http://51.89.166.17:3002/index.php?id=ctinews
 中天亚洲频玛,http://51.89.166.17:3002/index.php?id=ctiasia_twn
-中天综合频玛,http://51.89.166.17:3002/index.php?id=ctizhonghe
 
 C1,#genre#
 Now新闻频流,http://bxtv.3a.ink/api.php?id=now
@@ -114,11 +95,9 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 
 D1,#genre#
 Now星影限推,http://play-ali.cloudvdn.com/live/00987tp0039.flv
-东森电影限推,http://play-ali.cloudvdn.com/live/00987tp0049.flv
 凤凰香港限推,http://play-ali.cloudvdn.com/live/00987tp0033.flv
 凤凰中文限推,http://play-ali.cloudvdn.com/live/00987tp3309.flv
 凤凰资讯限推,http://play-ali.cloudvdn.com/live/00987tp0032.flv
-美亚电影限推,http://play-ali.cloudvdn.com/live/00987tp0045.flv
 天映经典限推,http://play-ali.cloudvdn.com/live/00987tp0035.flv
 天映限推,http://play-ali.cloudvdn.com/live/00987tp0047.flv
 无线翡翠限推,http://play-ali.cloudvdn.com/live/00987tp0031.flv
