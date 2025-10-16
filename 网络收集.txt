@@ -112,6 +112,4 @@ F1,#genre#
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
 无线新闻频流,http://tl.061833.xyz/tl/null-11
 无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
