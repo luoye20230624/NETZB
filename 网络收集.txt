@@ -1,86 +1,4 @@
 A1,#genre#
-AFC亚洲旅游台,http://free.cnlive.club/channel/1d3786b3.m3u8
-AXN电影频斯,http://free.cnlive.club/channel/n4e27c899.m3u8
-AXNTaiwan,http://free.cnlive.club/channel/6f2c3c37.m3u8
-AstroMTV,http://free.cnlive.club/channel/n74db47c2.m3u8
-CelestialMovies,http://free.cnlive.club/channel/n4de56ec2.m3u8
-ELta影剧频斯,http://free.cnlive.club/channel/n2109392b.m3u8
-EYE-旅游频斯,http://free.cnlive.club/channel/28efa38.m3u8
-EYE-戏剧频斯,http://free.cnlive.club/channel/27dadb3.m3u8
-HitsMovie,http://free.cnlive.club/channel/2df87356.m3u8
-HitsMovie,http://free.cnlive.club/channel/5cc16e3.m3u8
-MTVLive,http://free.cnlive.club/channel/52a078d5.m3u8
-MTVLive,http://free.cnlive.club/channel/n7a0c7aec.m3u8
-MoviesNow,http://free.cnlive.club/channel/n1bf890c3.m3u8
-StarMovies,http://free.cnlive.club/channel/1c63b283.m3u8
-StarmaaMovies,http://free.cnlive.club/channel/n348057ba.m3u8
-TVB星河台XingHe,http://free.cnlive.club/channel/6dd7925f.m3u8
-TVBAsia,http://free.cnlive.club/channel/30a8c4da.m3u8
-TVBJade,http://free.cnlive.club/channel/30ac9808.m3u8
-八大第一频斯,http://free.cnlive.club/channel/2733018a.m3u8
-八大戏剧频斯,http://free.cnlive.club/channel/26d54426.m3u8
-八大娱乐频斯,http://free.cnlive.club/channel/26b73cff.m3u8
-八大综合频斯,http://free.cnlive.club/channel/27420c52.m3u8
-大爱贰台频斯,http://free.cnlive.club/channel/46f0bf6e.m3u8
-大爱壹台频斯,http://free.cnlive.club/channel/46f9ba85.m3u8
-东森电影,http://free.cnlive.club/channel/7cb9a434.m3u8
-非凡新闻频斯,http://free.cnlive.club/channel/6302a884.m3u8
-凤凰卫视频斯,http://free.cnlive.club/channel/n496e6eec.m3u8
-凤凰香港频斯,http://free.cnlive.club/channel/n49654430.m3u8
-凤凰资讯频斯,http://free.cnlive.club/channel/n4966a4fb.m3u8
-公视闽南频斯,http://free.cnlive.club/channel/3b838b0c.m3u8
-公视台语频斯,http://free.cnlive.club/channel/3ccf6783.m3u8
-好莱坞电影台,http://free.cnlive.club/channel/117d8eeb.m3u8
-华视闽南频斯,http://free.cnlive.club/channel/560bcbee.m3u8
-寰宇新闻频斯,http://free.cnlive.club/channel/n43c34be8.m3u8
-靖天卡通频斯,http://free.cnlive.club/channel/63181d62.m3u8
-靖天频斯,http://free.cnlive.club/channel/63189371.m3u8
-龙华电影,http://free.cnlive.club/channel/n5e8ca809.m3u8
-龙华电影频斯,http://free.cnlive.club/channel/66c77727.m3u8
-龙华经典频斯,http://free.cnlive.club/channel/66c892d4.m3u8
-龙华偶像频斯,http://free.cnlive.club/channel/66c2f564.m3u8
-龙华戏剧频斯,http://free.cnlive.club/channel/66c51883.m3u8
-龙华洋片,http://free.cnlive.club/channel/n5e8d9249.m3u8
-龙华洋片频斯,http://free.cnlive.club/channel/66c68ce7.m3u8
-龙祥电影频斯,http://free.cnlive.club/channel/67548a4f.m3u8
-龙祥时代,http://free.cnlive.club/channel/n5dff94e1.m3u8
-美亚电影,http://free.cnlive.club/channel/n6d2f2fd2.m3u8
-民视台湾频斯,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
-年代新闻频斯,http://free.cnlive.club/channel/49184630.m3u8
-三立都会频斯,http://free.cnlive.club/channel/72452bb.m3u8
-三立闽南频斯,http://free.cnlive.club/channel/642f20a.m3u8
-三立戏剧频斯,http://free.cnlive.club/channel/6748da0.m3u8
-三立综合频斯,http://free.cnlive.club/channel/6e155cc.m3u8
-台视新闻频斯,http://free.cnlive.club/channel/452d9d57.m3u8
-天映经典频斯,http://free.cnlive.club/channel/n7e49c99a.m3u8
-天映频斯,http://free.cnlive.club/channel/5150b0a1.m3u8
-天映频斯,http://free.cnlive.club/channel/n7e466c41.m3u8
-tvNMovie,http://free.cnlive.club/channel/391ee36.m3u8
-tvNMovie,http://free.cnlive.club/channel/7e252509.m3u8
-tvNMovie,http://free.cnlive.club/channel/n1b6a6bd4.m3u8
-tvbs新闻频斯,http://free.cnlive.club/channel/n69ccce92.m3u8
-纬来电影频斯,http://free.cnlive.club/channel/581b458b.m3u8
-纬来精彩频斯,http://free.cnlive.club/channel/581c2f1a.m3u8
-纬来日本频斯,http://free.cnlive.club/channel/58197296.m3u8
-纬来育乐频斯,http://free.cnlive.club/channel/581c988d.m3u8
-纬来综合频斯,http://free.cnlive.club/channel/581c693b.m3u8
-卫视电影台,http://free.cnlive.club/channel/74380c33.m3u8
-无线翡翠频斯,http://free.cnlive.club/channel/n7549189d.m3u8
-无线华丽频斯,http://free.cnlive.club/channel/n177a7044.m3u8
-无线新闻频斯,http://free.cnlive.club/channel/n3fad9608.m3u8
-无线娱乐频斯,http://free.cnlive.club/channel/nac85e88.m3u8
-亚洲旅游,http://free.cnlive.club/channel/2631a9ae.m3u8
-亚洲旅游频斯,http://free.cnlive.club/channel/852ca6f.m3u8
-有线新闻频斯,http://free.cnlive.club/channel/7289243e.m3u8
-中视经典频斯,http://free.cnlive.club/channel/4291e438.m3u8
-中视闽南频斯,http://free.cnlive.club/channel/dc53f4d.m3u8
-中视新闻频斯,http://free.cnlive.club/channel/428f1dfa.m3u8
-中天新闻频斯,http://free.cnlive.club/channel/41d8a09d.m3u8
-中天亚洲频斯,http://free.cnlive.club/channel/41d5ac2a.m3u8
-中天娱乐频斯,http://free.cnlive.club/channel/41d6f491.m3u8
-中天综合频斯,http://free.cnlive.club/channel/41db6ede.m3u8
-
-B1,#genre#
 AXN电影频流,http://tl.061833.xyz/tl/axn
 美亚电影频流,http://tl.061833.xyz/tl/null-5
 rock综艺频流,http://tl.061833.xyz/tl/rock
@@ -96,19 +14,77 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线娱乐频流,http://tl.061833.xyz/tl/null-14
 无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
-C1,#genre#
+B1,#genre#
 AXN电影频玛,http://51.89.166.17:3002/index.php?id=axn_twn
+AstroMTV,http://51.89.166.17:3002/index.php?id=AstroMTV
+EYE-旅游频玛,http://51.89.166.17:3002/index.php?id=eyetvtravel_twn
 EYE-戏剧频玛,http://51.89.166.17:3002/index.php?id=eyetvxiju_twn
+HitsMovie,http://51.89.166.17:3002/index.php?id=Hitsmovie
 StarMovies,http://51.89.166.17:3002/index.php?id=starmovies_raj
+StarmaaMovies,http://51.89.166.17:3002/index.php?id=starmaamovies_raj
+TVB星河台XingHe,http://51.89.166.17:3002/index.php?id=Xinhe
 TVBAsia,http://51.89.166.17:3002/index.php?id=Tvbasia
 八大第一频玛,http://51.89.166.17:3002/index.php?id=badafirst
+八大戏剧频玛,http://51.89.166.17:3002/index.php?id=badadrama
+八大娱乐频玛,http://51.89.166.17:3002/index.php?id=badaentertain
 八大综合频玛,http://51.89.166.17:3002/index.php?id=badazhonghe
+大爱贰台频玛,http://51.89.166.17:3002/index.php?id=daai2_twn
+大爱壹台频玛,http://51.89.166.17:3002/index.php?id=daai_twn
+东森财经频玛,http://51.89.166.17:3002/index.php?id=ettvcaijing_twn
+东森电影频玛,http://51.89.166.17:3002/index.php?id=ettvmovie
+东森戏剧频玛,http://51.89.166.17:3002/index.php?id=ettvdrama
+东森新闻频玛,http://51.89.166.17:3002/index.php?id=ettvnews
+东森洋片频玛,http://51.89.166.17:3002/index.php?id=ettvwestern
+东森幼幼频玛,http://51.89.166.17:3002/index.php?id=yoyo_twn
+东森综合频玛,http://51.89.166.17:3002/index.php?id=ettvzhonghe
+非凡新闻频玛,http://51.89.166.17:3002/index.php?id=feifannews_twn
+凤凰香港频玛,http://51.89.166.17:3002/index.php?id=hkphoenix_twn
+凤凰中文频玛,http://51.89.166.17:3002/index.php?id=phoenixtv_hd
+凤凰资讯频玛,http://51.89.166.17:3002/index.php?id=phoenixinfo_hd
+公视台语频玛,http://51.89.166.17:3002/index.php?id=ctv2_twn
+华视闽南频玛,http://51.89.166.17:3002/index.php?id=ctshd_twn
+寰宇财经频玛,http://51.89.166.17:3002/index.php?id=huanyutaiwan_twn
+寰宇新闻频玛,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
+龙华戏剧频玛,http://51.89.166.17:3002/index.php?id=lunghuaxiju_twn
+龙祥电影频玛,http://51.89.166.17:3002/index.php?id=lungxiangtime_twn
+美亚电影频玛,http://51.89.166.17:3002/index.php?id=meiyamovie_twn
+民视第一频玛,http://51.89.166.17:3002/index.php?id=lunghuajingdian_twn
+民视闽南频玛,http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
+民视新闻频玛,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
+年代新闻频玛,http://51.89.166.17:3002/index.php?id=niandainews_twn
+三立闽南频玛,http://51.89.166.17:3002/index.php?id=sanlitaiwan
+三立戏剧频玛,http://51.89.166.17:3002/index.php?id=sanlixiju_twn
+三立综合频玛,http://51.89.166.17:3002/index.php?id=sanlizhonghe
+台视新闻频玛,http://51.89.166.17:3002/index.php?id=ttvnews_twn
+探索亚洲频玛,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
+天映国玛,http://51.89.166.17:3002/index.php?id=Celestial
 天映经典频玛,http://51.89.166.17:3002/index.php?id=Celestial2
+天映闽玛,http://51.89.166.17:3002/index.php?id=Celestialindo
 天映粤玛,http://51.89.166.17:3002/index.php?id=ctv18_twn
+tvNMovie,http://51.89.166.17:3002/index.php?id=Tvnmovie
+tvbs新闻频玛,http://51.89.166.17:3002/index.php?id=tvbs_n
+纬来电影频玛,http://51.89.166.17:3002/index.php?id=videolandmovie
+纬来日本频玛,http://51.89.166.17:3002/index.php?id=videolandjapan
+纬来体育频玛,http://51.89.166.17:3002/index.php?id=videolandsport
+纬来综合频玛,http://51.89.166.17:3002/index.php?id=videolandzonghe
+无线翡翠频玛,http://51.89.166.17:3002/index.php?id=Jade_xue
+无线翡翠频玛,http://51.89.166.17:3002/index.php?id=Tvbjade
+无线翡翠频玛,http://51.89.166.17:3002/index.php?id=jade_twn
 无线华丽粤玛,http://51.89.166.17:3002/index.php?id=Wlt
+无线明珠频玛,http://51.89.166.17:3002/index.php?id=pearl_twn
+无线新闻频玛,http://51.89.166.17:3002/index.php?id=inews_twn
+无线娱乐频玛,http://51.89.166.17:3002/index.php?id=Tvbentertainment
+亚洲旅游频玛,http://51.89.166.17:3002/index.php?id=asiatravel_twn
+有线新闻风云,http://51.89.166.17:3002/index.php?id=hoycaijing_twn
+中视经典频玛,http://51.89.166.17:3002/index.php?id=zhongshi_twn
+中视闽南频玛,http://51.89.166.17:3002/index.php?id=zhongshihd_twn
 中视新闻频玛,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
+中天新闻频玛,http://51.89.166.17:3002/index.php?id=ctinews
+中天亚洲频玛,http://51.89.166.17:3002/index.php?id=ctiasia_twn
+中天娱乐频玛,http://51.89.166.17:3002/index.php?id=ctient
+中天综合频玛,http://51.89.166.17:3002/index.php?id=ctizhonghe
 
-D1,#genre#
+C1,#genre#
 Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 八大第一频流,http://bxtv.3a.ink/api.php?id=bddy
 八大综合频流,http://bxtv.3a.ink/api.php?id=bdzh
@@ -137,7 +113,7 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天新闻频流,http://bxtv.3a.ink/api.php?id=ztxw
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
-E1,#genre#
+D1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -156,7 +132,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
-F1,#genre#
+E1,#genre#
 凤凰香港频国,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
 凤凰香港频国,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 凤凰中文频国,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
@@ -184,7 +160,7 @@ F1,#genre#
 无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
 无线娱乐频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
 
-G1,#genre#
+F1,#genre#
 凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
@@ -199,13 +175,18 @@ G1,#genre#
 无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
-H1,#genre#
+G1,#genre#
 凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067
 凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065
 凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066
+凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
 无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=30026
 无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024
+
+H1,#genre#
+国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=8af4ffaa61b6ffb1b5fd363be05cbc2c&id=mtjcAXr4KSp%2F9dmXdMg3ysDNKd%2FJwL6g13GCKmixI5bIYPibWjv5mKbf%2BjDBtRO4WjFYfOBZh6oy4nIkjyER%2Bq8mT%2Bwn4yN5%2Ff7YIdI2%2FR9scGkJRUdFO7b8V3oXDDIjqg3o1nMwHK9K3EFX7aRtefVL2O2ZOE0tR7EIMgNixsVlTlmsi6P9MHg%2FkbaNV3aiA3DDaTEx7EndiKZEPsrlD3QN2uWuUq%2FK6MSbIH0FjBYhdKiYjbGttMTQxW8tCtnCIBkgyRIrfkNzd%2FW%2Bi1c7tCHVdJ%2B5iEiPMFoOPkfAc3wB9RMpc5AbXJPcMSyUsnNm8jprJSMqYxTQGRsGvp6bUBKHfXeeyCdR9PvaszfV6QUzDmYH0hl%2FCOcyo2WSE6azMP1eE0uCCQqVkA3YQMtBSw%3D%3D&name=fT%2Bm08Kj7FntPVJgkOKFjnJ27f6BYHKQ%2FOv%2BV6iDgkCNB9e%2BEyIyE5YBcqeg7roqcXrrfmh81%2FNQZmHO7p6pAkp7hQO131sq6FDc25ArXXSQnhKn1CZqcXnoRpXYnVVh
 
