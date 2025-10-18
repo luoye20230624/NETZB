@@ -11,41 +11,22 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
 
 B1,#genre#
-AstroMTV,http://51.89.166.17:3002/index.php?id=AstroMTV
-EYE-旅游频玛,http://51.89.166.17:3002/index.php?id=eyetvtravel_twn
 EYE-戏剧频玛,http://51.89.166.17:3002/index.php?id=eyetvxiju_twn
-HitsMovie,http://51.89.166.17:3002/index.php?id=Hitsmovie
-StarMovies,http://51.89.166.17:3002/index.php?id=starmovies_raj
 TVB星河台XingHe,http://51.89.166.17:3002/index.php?id=Xinhe
-八大第一频玛,http://51.89.166.17:3002/index.php?id=badafirst
 八大戏剧频玛,http://51.89.166.17:3002/index.php?id=badadrama
-八大娱乐频玛,http://51.89.166.17:3002/index.php?id=badaentertain
 大爱贰台频玛,http://51.89.166.17:3002/index.php?id=daai2_twn
 大爱壹台频玛,http://51.89.166.17:3002/index.php?id=daai_twn
 东森新闻频玛,http://51.89.166.17:3002/index.php?id=ettvnews
-东森洋片频玛,http://51.89.166.17:3002/index.php?id=ettvwestern
 东森幼幼频玛,http://51.89.166.17:3002/index.php?id=yoyo_twn
-东森综合频玛,http://51.89.166.17:3002/index.php?id=ettvzhonghe
-非凡新闻频玛,http://51.89.166.17:3002/index.php?id=feifannews_twn
-凤凰资讯频玛,http://51.89.166.17:3002/index.php?id=phoenixinfo_hd
 公视台语频玛,http://51.89.166.17:3002/index.php?id=ctv2_twn
 华视闽南频玛,http://51.89.166.17:3002/index.php?id=ctshd_twn
 寰宇财经频玛,http://51.89.166.17:3002/index.php?id=huanyutaiwan_twn
 寰宇新闻频玛,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
-龙华戏剧频玛,http://51.89.166.17:3002/index.php?id=lunghuaxiju_twn
-龙祥电影频玛,http://51.89.166.17:3002/index.php?id=lungxiangtime_twn
-美亚电影频玛,http://51.89.166.17:3002/index.php?id=meiyamovie_twn
-民视第一频玛,http://51.89.166.17:3002/index.php?id=lunghuajingdian_twn
 民视闽南频玛,http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
-民视新闻频玛,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
 三立闽南频玛,http://51.89.166.17:3002/index.php?id=sanlitaiwan
 三立综合频玛,http://51.89.166.17:3002/index.php?id=sanlizhonghe
 天映闽玛,http://51.89.166.17:3002/index.php?id=Celestialindo
-天映粤玛,http://51.89.166.17:3002/index.php?id=ctv18_twn
-tvNMovie,http://51.89.166.17:3002/index.php?id=Tvnmovie
-tvbs新闻频玛,http://51.89.166.17:3002/index.php?id=tvbs_n
 纬来电影频玛,http://51.89.166.17:3002/index.php?id=videolandmovie
-纬来日本频玛,http://51.89.166.17:3002/index.php?id=videolandjapan
 纬来体育频玛,http://51.89.166.17:3002/index.php?id=videolandsport
 纬来综合频玛,http://51.89.166.17:3002/index.php?id=videolandzonghe
 无线翡翠频玛,http://51.89.166.17:3002/index.php?id=Jade_xue
@@ -54,7 +35,6 @@ tvbs新闻频玛,http://51.89.166.17:3002/index.php?id=tvbs_n
 无线华丽粤玛,http://51.89.166.17:3002/index.php?id=Wlt
 无线明珠频玛,http://51.89.166.17:3002/index.php?id=pearl_twn
 无线新闻频玛,http://51.89.166.17:3002/index.php?id=inews_twn
-无线娱乐频玛,http://51.89.166.17:3002/index.php?id=Tvbentertainment
 有线新闻风云,http://51.89.166.17:3002/index.php?id=hoycaijing_twn
 中天亚洲频玛,http://51.89.166.17:3002/index.php?id=ctiasia_twn
 
@@ -100,7 +80,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
@@ -121,8 +100,6 @@ E1,#genre#
 无线翡翠频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
 无线华丽频国,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 无线华丽频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
-无线明珠频英,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-无线明珠频英,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
 无线千禧频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 无线千禧频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 无线新闻频粤,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -140,7 +117,6 @@ F1,#genre#
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
