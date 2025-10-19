@@ -9,6 +9,7 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
 无线亚剧频流,http://tl.061833.xyz/tl/null-13
 无线娱乐频流,http://tl.061833.xyz/tl/null-14
 无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
@@ -73,6 +74,7 @@ D1,#genre#
 无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 E1,#genre#
@@ -88,5 +90,7 @@ E1,#genre#
 无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024
 
 F1,#genre#
+国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=2aaa8ae59f5c421b34ad0565d30d38a7&id=nRxcCJH4sjNVypz1kZw9Xge11OuTG84O1VZxZnJ%2BtGRwaXzi98C2TZaPYERDW2TkQsuYMag0OlElphNJqMHxpqVlUEStw7QPFIYv82iLZ4CNpq%2FjOs2gP4wxKA%2BjAOp%2FjuD1wW5Avnn9r9CIEh1zxWTyT06TwG9%2BQPnXsmoTWupWkCO5%2B6BbtVwYlYxU365YGGpQKTbf2iAyztDNgBwWuQ%3D%3D&name=q7A0sAD4g0lFXHLpRAO%2F7fU1RiB8u8sUeXtz6v0i1jwphwAYA2pt0Th2a9MjWF67SlWrB8DBnlanfKm8D%2BEwUeG6u1CJlyQgYlffm7EZxIeZFpoZ14F%2FwxBtoErbjb%2FO
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=8af4ffaa61b6ffb1b5fd363be05cbc2c&id=mtjcAXr4KSp%2F9dmXdMg3ysDNKd%2FJwL6g13GCKmixI5bIYPibWjv5mKbf%2BjDBtRO4WjFYfOBZh6oy4nIkjyER%2Bq8mT%2Bwn4yN5%2Ff7YIdI2%2FR9scGkJRUdFO7b8V3oXDDIjqg3o1nMwHK9K3EFX7aRtefVL2O2ZOE0tR7EIMgNixsVlTlmsi6P9MHg%2FkbaNV3aiA3DDaTEx7EndiKZEPsrlD3QN2uWuUq%2FK6MSbIH0FjBYhdKiYjbGttMTQxW8tCtnCIBkgyRIrfkNzd%2FW%2Bi1c7tCHVdJ%2B5iEiPMFoOPkfAc3wB9RMpc5AbXJPcMSyUsnNm8jprJSMqYxTQGRsGvp6bUBKHfXeeyCdR9PvaszfV6QUzDmYH0hl%2FCOcyo2WSE6azMP1eE0uCCQqVkA3YQMtBSw%3D%3D&name=fT%2Bm08Kj7FntPVJgkOKFjnJ27f6BYHKQ%2FOv%2BV6iDgkCNB9e%2BEyIyE5YBcqeg7roqcXrrfmh81%2FNQZmHO7p6pAkp7hQO131sq6FDc25ArXXSQnhKn1CZqcXnoRpXYnVVh
+原🔊赛场原声,https://migu.188766.xyz/play?migutoken=3607ad6f3624dba01890520c323450fa&id=%2BxjDGzG71YG7c5sRaZz8R5jOOjSt9tGIxpWsLY6KVhp8fRTJ0xXCYi8g%2BHOpSappzKvlA5P8AMC4%2FQGHRD7kZ5y2t%2Bq%2BOdw21cxeZ8PkESHBv16LC1GTE3pR926QilT88JWG4%2Fl0ajmmMTwXJVMOjjx6IMPGuB%2B9c%2F%2FO9yT4wfppS%2FIz3be3LbektV4ceJnxQr%2B0WDNolPAguOKSM78X6A%3D%3D&name=jAO9Xs6WC4gnwuNVCXQ%2B9deFA29oSG%2FUcu0lYp4zNdOR9EH3iPuvn4LmygNnLLGMvqdlbd8My67QJnNP%2Bg4JbbrKJTg2T%2Brt42E2PLL1X8zFzujxJt0iaAGHaEEPA3fi
 
