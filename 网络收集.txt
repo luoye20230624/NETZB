@@ -49,6 +49,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
