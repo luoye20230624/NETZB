@@ -9,10 +9,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 Now新闻频流,http://bxtv.3a.ink/api.php?id=now
@@ -50,43 +46,36 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 D1,#genre#
-凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-美亚电影频国,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-天映经典频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
-天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
-无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
-无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-
-E1,#genre#
 凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067
 凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065
 凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066
+凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
 无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=30026
 无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024
+
+E1,#genre#
+凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+美亚电影频国,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+天映经典频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
+无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 F1,#genre#
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=2aaa8ae59f5c421b34ad0565d30d38a7&id=nRxcCJH4sjNVypz1kZw9Xge11OuTG84O1VZxZnJ%2BtGRwaXzi98C2TZaPYERDW2TkQsuYMag0OlElphNJqMHxpqVlUEStw7QPFIYv82iLZ4CNpq%2FjOs2gP4wxKA%2BjAOp%2FjuD1wW5Avnn9r9CIEh1zxWTyT06TwG9%2BQPnXsmoTWupWkCO5%2B6BbtVwYlYxU365YGGpQKTbf2iAyztDNgBwWuQ%3D%3D&name=q7A0sAD4g0lFXHLpRAO%2F7fU1RiB8u8sUeXtz6v0i1jwphwAYA2pt0Th2a9MjWF67SlWrB8DBnlanfKm8D%2BEwUeG6u1CJlyQgYlffm7EZxIeZFpoZ14F%2FwxBtoErbjb%2FO
