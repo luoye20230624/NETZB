@@ -9,77 +9,12 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
-ELta旅游肆Tv,http://220.132.15.209:5008/4gtv-live120/index.m3u8?proxy=true
-MTVLive肆Tv,http://220.132.15.209:5008/4gtv-live025/index.m3u8?proxy=true
-八大精彩肆Tv,http://220.132.15.209:5008/4gtv-4gtv034/index.m3u8?proxy=true
-八大综艺肆Tv,http://220.132.15.209:5008/4gtv-4gtv039/index.m3u8?proxy=true
-半岛新闻肆Tv,http://220.132.15.209:5008/litv-ftv10/index.m3u8?proxy=true
-采昌影剧肆Tv,http://220.132.15.209:5008/4gtv-4gtv049/index.m3u8?proxy=true
-大爱贰高肆Tv,http://220.132.15.209:5008/4gtv-live106/index.m3u8?proxy=true
-大爱壹高肆Tv,http://220.132.15.209:5008/4gtv-live007/index.m3u8?proxy=true
-东森财经肆Tv,http://220.132.15.209:5008/4gtv-4gtv153/index.m3u8?proxy=true
-东森购贰肆Tv,http://220.132.15.209:5008/4gtv-4gtv103/index.m3u8?proxy=true
-东森购贰肆Tv,http://220.132.15.209:5008/4gtv-live046/index.m3u8?proxy=true
-东森购叁肆Tv,http://220.132.15.209:5008/4gtv-live048/index.m3u8?proxy=true
-东森购五肆Tv,http://220.132.15.209:5008/4gtv-live049/index.m3u8?proxy=true
-东森购壹肆Tv,http://220.132.15.209:5008/4gtv-4gtv102/index.m3u8?proxy=true
-东森购壹肆Tv,http://220.132.15.209:5008/4gtv-live047/index.m3u8?proxy=true
-东森新闻肆Tv,http://220.132.15.209:5008/4gtv-4gtv152/index.m3u8?proxy=true
-非凡新闻肆Tv,http://220.132.15.209:5008/4gtv-4gtv010/index.m3u8?proxy=true
-公视戏剧肆Tv,http://220.132.15.209:5008/4gtv-4gtv042/index.m3u8?proxy=true
-华视闽南肆Tv,http://220.132.15.209:5008/4gtv-4gtv041/index.m3u8?proxy=true
-华视新闻肆Tv,http://220.132.15.209:5008/4gtv-4gtv052/index.m3u8?proxy=true
-寰宇闽南肆Tv,http://220.132.15.209:5008/4gtv-4gtv156/index.m3u8?proxy=true
-寰宇新闻肆Tv,http://220.132.15.209:5008/litv-longturn14/index.m3u8?proxy=true
-靖天电影肆Tv,http://220.132.15.209:5008/4gtv-4gtv061/index.m3u8?proxy=true
-靖天欢乐肆Tv,http://220.132.15.209:5008/4gtv-4gtv054/index.m3u8?proxy=true
-靖天卡通肆Tv,http://220.132.15.209:5008/4gtv-4gtv044/index.m3u8?proxy=true
-靖天日本肆Tv,http://220.132.15.209:5008/4gtv-4gtv047/index.m3u8?proxy=true
-靖天肆Tv,http://220.132.15.209:5008/4gtv-4gtv063/index.m3u8?proxy=true
-靖天戏剧肆Tv,http://220.132.15.209:5008/4gtv-4gtv058/index.m3u8?proxy=true
-靖天映画肆Tv,http://220.132.15.209:5008/4gtv-4gtv055/index.m3u8?proxy=true
-靖天育乐肆Tv,http://220.132.15.209:5008/4gtv-4gtv062/index.m3u8?proxy=true
-靖天资讯肆Tv,http://220.132.15.209:5008/4gtv-4gtv065/index.m3u8?proxy=true
-靖天综合肆Tv,http://220.132.15.209:5008/4gtv-4gtv046/index.m3u8?proxy=true
-靖洋卡通肆Tv,http://220.132.15.209:5008/4gtv-4gtv057/index.m3u8?proxy=true
-靖洋戏剧肆Tv,http://220.132.15.209:5008/4gtv-4gtv045/index.m3u8?proxy=true
-龙华电影肆Tv,http://220.132.15.209:5008/litv-longturn03/index.m3u8?proxy=true
-龙华经典肆Tv,http://220.132.15.209:5008/litv-longturn21/index.m3u8?proxy=true
-龙华卡通肆Tv,http://220.132.15.209:5008/litv-longturn01/index.m3u8?proxy=true
-龙华偶像肆Tv,http://220.132.15.209:5008/litv-longturn12/index.m3u8?proxy=true
-龙华日韩肆Tv,http://220.132.15.209:5008/litv-longturn11/index.m3u8?proxy=true
-龙华戏剧肆Tv,http://220.132.15.209:5008/litv-longturn18/index.m3u8?proxy=true
-龙华洋片肆Tv,http://220.132.15.209:5008/litv-longturn02/index.m3u8?proxy=true
-闽镜新闻肆Tv,http://220.132.15.209:5008/4gtv-4gtv075/index.m3u8?proxy=true
-闽南戏剧肆Tv,http://220.132.15.209:5008/litv-longturn22/index.m3u8?proxy=true
-民视第一肆Tv,http://220.132.15.209:5008/4gtv-4gtv003/index.m3u8?proxy=true
-民视旅游肆Tv,http://220.132.15.209:5008/litv-ftv07/index.m3u8?proxy=true
-民视闽南肆Tv,http://220.132.15.209:5008/4gtv-4gtv002/index.m3u8?proxy=true
-民视闽南肆Tv,http://220.132.15.209:5008/4gtv-4gtv155/index.m3u8?proxy=true
-民视台湾肆Tv,http://220.132.15.209:5008/4gtv-4gtv001/index.m3u8?proxy=true
-民视新闻肆Tv,http://220.132.15.209:5008/litv-ftv13/index.m3u8?proxy=true
-民视影剧肆Tv,http://220.132.15.209:5008/litv-ftv09/index.m3u8?proxy=true
-民视综艺肆Tv,http://220.132.15.209:5008/4gtv-4gtv004/index.m3u8?proxy=true
-人间卫视肆Tv,http://220.132.15.209:5008/4gtv-live008/index.m3u8?proxy=true
-三立新闻肆Tv,http://220.132.15.209:5008/4gtv-live089/index.m3u8?proxy=true
-三立新闻肆Tv,http://220.132.15.209:5008/iNEWS/index.m3u8?proxy=true
-三立综合肆Tv,http://220.132.15.209:5008/4gtv-live207/index.m3u8?proxy=true
-台视新闻肆Tv,http://220.132.15.209:5008/4gtv-4gtv051/index.m3u8?proxy=true
-tvbs新闻肆Tv,http://220.132.15.209:5008/4gtv-4gtv072/index.m3u8?proxy=true
-tvbs综艺肆Tv,http://220.132.15.209:5008/4gtv-live087/index.m3u8?proxy=true
-戏剧壹台肆Tv,http://220.132.15.209:5008/4gtv-live010/index.m3u8?proxy=true
-亚洲旅游肆Tv,http://220.132.15.209:5008/4gtv-4gtv076/index.m3u8?proxy=true
-影迷纪实肆Tv,http://220.132.15.209:5008/litv-ftv15/index.m3u8?proxy=true
-中视菁采肆Tv,http://220.132.15.209:5008/4gtv-4gtv064/index.m3u8?proxy=true
-中视经典肆Tv,http://220.132.15.209:5008/4gtv-4gtv080/index.m3u8?proxy=true
-中视闽南肆Tv,http://220.132.15.209:5008/4gtv-4gtv040/index.m3u8?proxy=true
-中视新闻肆Tv,http://220.132.15.209:5008/4gtv-4gtv074/index.m3u8?proxy=true
-中天新闻肆Tv,http://220.132.15.209:5008/4gtv-4gtv009/index.m3u8?proxy=true
-猪哥亮厅肆Tv,http://220.132.15.209:5008/4gtv-4gtv006/index.m3u8?proxy=true
-
-C1,#genre#
 EYE-戏剧频特,https://tv543.cc/Smart.php?id=eyetvxiju_twn
 StarMovies,https://tv543.cc/Smart.php?id=starmovies_raj
 StarmaaMovies,https://tv543.cc/Smart.php?id=starmaamovies_raj
@@ -102,7 +37,7 @@ TVBAsia,https://tv543.cc/Smart.php?id=Tvbasia
 中天亚洲频特,https://tv543.cc/Smart.php?id=ctiasia_twn
 中天综合频特,https://tv543.cc/Smart.php?id=ctizhonghe
 
-D1,#genre#
+C1,#genre#
 Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 八大第一频流,http://bxtv.3a.ink/api.php?id=bddy
 八大综合频流,http://bxtv.3a.ink/api.php?id=bdzh
@@ -131,7 +66,7 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天新闻频流,http://bxtv.3a.ink/api.php?id=ztxw
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
-E1,#genre#
+D1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -150,7 +85,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
-F1,#genre#
+E1,#genre#
 凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
@@ -165,7 +100,7 @@ F1,#genre#
 无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
-G1,#genre#
+F1,#genre#
 凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067
 凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065
@@ -176,7 +111,7 @@ G1,#genre#
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=30026
 无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024
 
-H1,#genre#
+G1,#genre#
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=2aaa8ae59f5c421b34ad0565d30d38a7&id=nRxcCJH4sjNVypz1kZw9Xge11OuTG84O1VZxZnJ%2BtGRwaXzi98C2TZaPYERDW2TkQsuYMag0OlElphNJqMHxpqVlUEStw7QPFIYv82iLZ4CNpq%2FjOs2gP4wxKA%2BjAOp%2FjuD1wW5Avnn9r9CIEh1zxWTyT06TwG9%2BQPnXsmoTWupWkCO5%2B6BbtVwYlYxU365YGGpQKTbf2iAyztDNgBwWuQ%3D%3D&name=q7A0sAD4g0lFXHLpRAO%2F7fU1RiB8u8sUeXtz6v0i1jwphwAYA2pt0Th2a9MjWF67SlWrB8DBnlanfKm8D%2BEwUeG6u1CJlyQgYlffm7EZxIeZFpoZ14F%2FwxBtoErbjb%2FO
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=6259ca911aed17ff86030a964ca48f2b&id=hgb9MaXflk6pDG6vEGS%2B%2BNRik7oLaIEoh5DLVS8Gq4OwQX7Ms86PfGrgxEcg36%2FuObFo4DI4BVztOAVYI9V3aw8p1GZcJSLSthsQhkclFg5mh5v2qPAzMi2mcAuLLi8hhw7pPzlbaYDRDZKjiYWrOF%2BzcCRlsCM7bBa0fJMeVqxa2sE2Ps80r7874jDSFamzbH%2Fjxn03WfOB5gYbsp16v7wqgCJ9pLfk1rdwqrRMtnU37CUylQL4%2Be%2FIMQoxpgsRsqXppTn6DcQaJSGEMqwjYOz83OA1zBmZpYi2wouT6R8dkBTJNVgQeeRRMTDx3xmpN1PHZdBDs6R7AiSJgLqUavvenYbwCfyIkPvrTHGNKlQah%2FzIC0qoSZLwHeIQWjRnZsDQgs%2BrHQielxY9wDyXEA%3D%3D&name=O7UqsGhrPAIUxodpYTXfudAGMKofQN1BwDCiIV5IioaB6WyzdRUpVkLAqzqASdSzgZZYjk3ZETOqfG7hGu6uMiqjyZRPEmVX3tTtzy4Y7d8bkCCV9%2BWiFKo8HxIKVsRj
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=8af4ffaa61b6ffb1b5fd363be05cbc2c&id=mtjcAXr4KSp%2F9dmXdMg3ysDNKd%2FJwL6g13GCKmixI5bIYPibWjv5mKbf%2BjDBtRO4WjFYfOBZh6oy4nIkjyER%2Bq8mT%2Bwn4yN5%2Ff7YIdI2%2FR9scGkJRUdFO7b8V3oXDDIjqg3o1nMwHK9K3EFX7aRtefVL2O2ZOE0tR7EIMgNixsVlTlmsi6P9MHg%2FkbaNV3aiA3DDaTEx7EndiKZEPsrlD3QN2uWuUq%2FK6MSbIH0FjBYhdKiYjbGttMTQxW8tCtnCIBkgyRIrfkNzd%2FW%2Bi1c7tCHVdJ%2B5iEiPMFoOPkfAc3wB9RMpc5AbXJPcMSyUsnNm8jprJSMqYxTQGRsGvp6bUBKHfXeeyCdR9PvaszfV6QUzDmYH0hl%2FCOcyo2WSE6azMP1eE0uCCQqVkA3YQMtBSw%3D%3D&name=fT%2Bm08Kj7FntPVJgkOKFjnJ27f6BYHKQ%2FOv%2BV6iDgkCNB9e%2BEyIyE5YBcqeg7roqcXrrfmh81%2FNQZmHO7p6pAkp7hQO131sq6FDc25ArXXSQnhKn1CZqcXnoRpXYnVVh
