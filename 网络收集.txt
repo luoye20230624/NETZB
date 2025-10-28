@@ -9,10 +9,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 AXN电影频特,https://tv543.cc/Smart.php?id=axn_twn
@@ -76,7 +72,6 @@ tvbs新闻频特,https://tv543.cc/Smart.php?id=tvbs_n
 中视闽南频特,https://tv543.cc/Smart.php?id=zhongshihd_twn
 中视新闻频特,https://tv543.cc/Smart.php?id=zhongshinews_twn
 中天新闻频特,https://tv543.cc/Smart.php?id=ctinews
-中天亚洲频特,https://tv543.cc/Smart.php?id=ctiasia_twn
 中天娱乐频特,https://tv543.cc/Smart.php?id=ctient
 中天综合频特,https://tv543.cc/Smart.php?id=ctizhonghe
 
