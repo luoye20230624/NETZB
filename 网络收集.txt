@@ -11,7 +11,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
 无线新闻频流,http://tl.061833.xyz/tl/null-11
 无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
 无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
@@ -71,18 +70,19 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
 D1,#genre#
-TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 E1,#genre#
 凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067
