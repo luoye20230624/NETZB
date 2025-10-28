@@ -11,6 +11,7 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
 无线新闻频流,http://tl.061833.xyz/tl/null-11
 无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
 无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
@@ -31,7 +32,6 @@ StarMovies,https://tv543.cc/Smart.php?id=starmovies_raj
 台视新闻频特,https://tv543.cc/Smart.php?id=ttvnews_twn
 探索亚洲频特,https://tv543.cc/Smart.php?id=discoverytwn_twn
 天映粤特,https://tv543.cc/Smart.php?id=ctv18_twn
-tvbs新闻频特,https://tv543.cc/Smart.php?id=tvbs_n
 纬来电影频特,https://tv543.cc/Smart.php?id=videolandmovie
 纬来日本频特,https://tv543.cc/Smart.php?id=videolandjapan
 纬来综合频特,https://tv543.cc/Smart.php?id=videolandzonghe
@@ -82,21 +82,36 @@ D1,#genre#
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 E1,#genre#
+凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+美亚电影频国,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+天映经典频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
+无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+
+F1,#genre#
 凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067
 凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065
 凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066
 凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
-无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=30026
 无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024
 
-F1,#genre#
+G1,#genre#
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=2aaa8ae59f5c421b34ad0565d30d38a7&id=nRxcCJH4sjNVypz1kZw9Xge11OuTG84O1VZxZnJ%2BtGRwaXzi98C2TZaPYERDW2TkQsuYMag0OlElphNJqMHxpqVlUEStw7QPFIYv82iLZ4CNpq%2FjOs2gP4wxKA%2BjAOp%2FjuD1wW5Avnn9r9CIEh1zxWTyT06TwG9%2BQPnXsmoTWupWkCO5%2B6BbtVwYlYxU365YGGpQKTbf2iAyztDNgBwWuQ%3D%3D&name=q7A0sAD4g0lFXHLpRAO%2F7fU1RiB8u8sUeXtz6v0i1jwphwAYA2pt0Th2a9MjWF67SlWrB8DBnlanfKm8D%2BEwUeG6u1CJlyQgYlffm7EZxIeZFpoZ14F%2FwxBtoErbjb%2FO
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=6259ca911aed17ff86030a964ca48f2b&id=hgb9MaXflk6pDG6vEGS%2B%2BNRik7oLaIEoh5DLVS8Gq4OwQX7Ms86PfGrgxEcg36%2FuObFo4DI4BVztOAVYI9V3aw8p1GZcJSLSthsQhkclFg5mh5v2qPAzMi2mcAuLLi8hhw7pPzlbaYDRDZKjiYWrOF%2BzcCRlsCM7bBa0fJMeVqxa2sE2Ps80r7874jDSFamzbH%2Fjxn03WfOB5gYbsp16v7wqgCJ9pLfk1rdwqrRMtnU37CUylQL4%2Be%2FIMQoxpgsRsqXppTn6DcQaJSGEMqwjYOz83OA1zBmZpYi2wouT6R8dkBTJNVgQeeRRMTDx3xmpN1PHZdBDs6R7AiSJgLqUavvenYbwCfyIkPvrTHGNKlQah%2FzIC0qoSZLwHeIQWjRnZsDQgs%2BrHQielxY9wDyXEA%3D%3D&name=O7UqsGhrPAIUxodpYTXfudAGMKofQN1BwDCiIV5IioaB6WyzdRUpVkLAqzqASdSzgZZYjk3ZETOqfG7hGu6uMiqjyZRPEmVX3tTtzy4Y7d8bkCCV9%2BWiFKo8HxIKVsRj
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=8af4ffaa61b6ffb1b5fd363be05cbc2c&id=mtjcAXr4KSp%2F9dmXdMg3ysDNKd%2FJwL6g13GCKmixI5bIYPibWjv5mKbf%2BjDBtRO4WjFYfOBZh6oy4nIkjyER%2Bq8mT%2Bwn4yN5%2Ff7YIdI2%2FR9scGkJRUdFO7b8V3oXDDIjqg3o1nMwHK9K3EFX7aRtefVL2O2ZOE0tR7EIMgNixsVlTlmsi6P9MHg%2FkbaNV3aiA3DDaTEx7EndiKZEPsrlD3QN2uWuUq%2FK6MSbIH0FjBYhdKiYjbGttMTQxW8tCtnCIBkgyRIrfkNzd%2FW%2Bi1c7tCHVdJ%2B5iEiPMFoOPkfAc3wB9RMpc5AbXJPcMSyUsnNm8jprJSMqYxTQGRsGvp6bUBKHfXeeyCdR9PvaszfV6QUzDmYH0hl%2FCOcyo2WSE6azMP1eE0uCCQqVkA3YQMtBSw%3D%3D&name=fT%2Bm08Kj7FntPVJgkOKFjnJ27f6BYHKQ%2FOv%2BV6iDgkCNB9e%2BEyIyE5YBcqeg7roqcXrrfmh81%2FNQZmHO7p6pAkp7hQO131sq6FDc25ArXXSQnhKn1CZqcXnoRpXYnVVh
