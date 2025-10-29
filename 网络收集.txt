@@ -67,6 +67,8 @@ tvbs新闻频特,https://smt.858.qzz.io/Smart.php?id=tvbs_n
 纬来综合频特,https://smt.858.qzz.io/Smart.php?id=videolandzonghe
 无线翡翠频特,https://smt.858.qzz.io/Smart.php?id=Tvbjade
 无线翡翠频特,https://smt.858.qzz.io/Smart.php?id=jade_twn
+无线明珠频特,https://smt.858.qzz.io/Smart.php?id=pearl_twn
+无线新闻频特,https://smt.858.qzz.io/Smart.php?id=inews_twn
 无线娱乐频特,https://smt.858.qzz.io/Smart.php?id=Tvbentertainment
 亚洲旅游频特,https://smt.858.qzz.io/Smart.php?id=asiatravel_twn
 有线新闻实时,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
@@ -142,7 +144,9 @@ E1,#genre#
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
@@ -155,7 +159,9 @@ F1,#genre#
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 G1,#genre#
@@ -165,6 +171,7 @@ G1,#genre#
 凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066
 凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
+无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=30026
 无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024
