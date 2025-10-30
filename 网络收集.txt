@@ -15,7 +15,6 @@ AXN电影频特,https://smt.858.qzz.io/Smart.php?id=axn_twn
 AstroMTV,https://smt.858.qzz.io/Smart.php?id=AstroMTV
 EYE-旅游频特,https://smt.858.qzz.io/Smart.php?id=eyetvtravel_twn
 EYE-戏剧频特,https://smt.858.qzz.io/Smart.php?id=eyetvxiju_twn
-HitsMovie,https://smt.858.qzz.io/Smart.php?id=Hitsmovie
 StarMovies,https://smt.858.qzz.io/Smart.php?id=starmovies_raj
 StarmaaMovies,https://smt.858.qzz.io/Smart.php?id=starmaamovies_raj
 TVBAsia,https://smt.858.qzz.io/Smart.php?id=Tvbasia
@@ -165,7 +164,6 @@ G1,#genre#
 凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066
 凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
-无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=30026
 无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024
