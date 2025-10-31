@@ -9,6 +9,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 AXN电影频特,https://smt.858.qzz.io/Smart.php?id=axn_twn
@@ -178,4 +182,7 @@ H1,#genre#
 国🔊4k王宇评,https://migu.188766.xyz/play?migutoken=53d9fa0426ef9c2e79f727baadece39f&id=LejqznRGGiY%2FNU7Yg0lfuDXMUqfDCvBNIqNfJihvP1liHhEKcnv5I40bt%2Bd1DVXZ8%2FDQxga%2FklKohlOTMTV9DwjjtC8U77GSqdbLe7%2BfWltete%2Fg%2FrKj7ysgQ9FtdDcJLr6zxPy0HdL3rjSSKS8H7sCOK%2FlTS9NR6Qtq6YFmzvJJlbnK2YGE35sQAMVbISp3qiFAIktkxDcczQLn6%2FKc2sHV5tgUjPKNLoUDw8UFxobG6XH8IfSdAb6BvbnzSN1qyL4kxr4m5GEP5MzL2JG4SATg%2FGf3delgzcqTZ9MsZca90ZvyPs6g62EzDd0PcziyQzBs%2B%2FPFZUVQBpMR7l%2BLTBiG8TeeuIrAsbEc%2BHwlNJaQnohzQJ8OfN7fhE%2BVWUHbbE7eR6tkRlqsjKK36coNcfZ%2BVbHu8JXLGqguJ5HyVyI%3D&name=zFypxWkdvGxYT3Hf4dFtXupLnZJwXGkcDzYW9HOFAaHkiCoj%2BoMIRzwqtIRsKtMBASsqq%2BA5SLaR2jpwY%2BkfE1qc6WK8JkfVliocU3dIn%2BlSPnTz%2FJp74vaWYNFD60wSP4UuYjxMHUA89mwpb8kPiA%3D%3D
 原🔊赛场原声,https://migu.188766.xyz/play?migutoken=3607ad6f3624dba01890520c323450fa&id=%2BxjDGzG71YG7c5sRaZz8R5jOOjSt9tGIxpWsLY6KVhp8fRTJ0xXCYi8g%2BHOpSappzKvlA5P8AMC4%2FQGHRD7kZ5y2t%2Bq%2BOdw21cxeZ8PkESHBv16LC1GTE3pR926QilT88JWG4%2Fl0ajmmMTwXJVMOjjx6IMPGuB%2B9c%2F%2FO9yT4wfppS%2FIz3be3LbektV4ceJnxQr%2B0WDNolPAguOKSM78X6A%3D%3D&name=jAO9Xs6WC4gnwuNVCXQ%2B9deFA29oSG%2FUcu0lYp4zNdOR9EH3iPuvn4LmygNnLLGMvqdlbd8My67QJnNP%2Bg4JbbrKJTg2T%2Brt42E2PLL1X8zFzujxJt0iaAGHaEEPA3fi
 原🔊原声英文,https://migu.188766.xyz/play?migutoken=b37fcc5d47caf1828914911a9034a96e&id=Avz207R%2B1QLyl0p2HprzLIv7DpWkOvGfx78pQiMXJeIQ%2F%2FUFTBKLmyfj5YZp21u33bzkZKFvEEvcxhj1Hcile7I30p%2FtkWcegjpBcI4ksmQwPwD5e3mjjbRcAbqTyIU7pQwwItg2Cni9zzQPUzMg5PgaenZ%2Fti%2FBVOp32SjJGFyN06IIPM2UQFQZT%2BzhRshsXUWWL2vKw0fNhdTBRHzquVH%2B4OmtztyeyPSGLAsaPKYJACvQ2R5tOSmrhP3NvoW%2BeIJkmU%2FHQWcWvKsv6MnR4vh9BSNzQR9%2BDqHCD8vH8VaVrr26z2j6XtyRY5mYLpQPTTJ666bvlkLTrEc0ivhPaSXkL5Eqj9n6O2eVtUrHvSQ%3D&name=UWxcfyAJ4sV%2BFBIR7VTVB%2FzjCAVZF6OHd%2FdI6ni59Uof7IB6EMjBdJNIuDNZJ5vCjFAZ2tQo%2FzawMP9vDjteS9UL2aNshlSLnSfY%2Fjuu5EYKjKNz4%2FEB3dU8Wj576l6a
+
+I1,#genre#
+浪涨新闻抖播,https://59ba715b05789ad4d13cf88880c295b2.h2.smtcdns.net/pull-flv-f11.douyincdn.com/media/stream-118238867444204204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1762514098&major_anchor_level=common&sign=18b85773b61f78d5ff36c8e3eecd425c&t_id=037-202510311914583AE3D59BEC382F496520-hmqx1o&unique_id=stream-118238867444204204_684_flv&abr_pts=-800&_session_id=037-202510311914583AE3D59BEC382F496520-hmqx1o.1761909306408.40015&rsi=1&TxLiveCode=cold_stream&svr_type=live_oc&tencent_test_client_ip=14.117.152.75&stream=&dispatch_from=OC_MGR183.60.17
 
