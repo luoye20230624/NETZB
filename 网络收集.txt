@@ -9,10 +9,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 AXN电影频特,https://smt.858.qzz.io/Smart.php?id=axn_twn
@@ -42,7 +38,6 @@ TVBAsia,https://smt.858.qzz.io/Smart.php?id=Tvbasia
 华视闽南频特,https://smt.858.qzz.io/Smart.php?id=ctshd_twn
 寰宇财经频特,https://smt.858.qzz.io/Smart.php?id=huanyutaiwan_twn
 寰宇新闻频特,https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
-靖天频特,https://smt.858.qzz.io/Smart.php?id=jingtianintl_twn
 龙祥电影频特,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 美亚电影频特,https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
 民视第一频特,https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn
@@ -61,7 +56,6 @@ TVBAsia,https://smt.858.qzz.io/Smart.php?id=Tvbasia
 tvNMovie,https://smt.858.qzz.io/Smart.php?id=Tvnmovie
 tvbs新闻频特,https://smt.858.qzz.io/Smart.php?id=tvbs_n
 纬来电影频特,https://smt.858.qzz.io/Smart.php?id=videolandmovie
-纬来精彩频特,https://smt.858.qzz.io/Smart.php?id=videolandspecial_twn
 纬来日本频特,https://smt.858.qzz.io/Smart.php?id=videolandjapan
 纬来体育频特,https://smt.858.qzz.io/Smart.php?id=videolandsport
 纬来综合频特,https://smt.858.qzz.io/Smart.php?id=videolandzonghe
