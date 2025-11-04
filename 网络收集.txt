@@ -109,15 +109,6 @@ Now新闻频流,http://bxtv.3a.ink/api.php?id=now
 中天亚洲频流,http://bxtv.3a.ink/api.php?id=ztyz
 
 D1,#genre#
-StarMovies,https://tv543.cc/Smart.php?id=starmovies_raj
-东森财经频特,https://tv543.cc/Smart.php?id=ettvcaijing_twn
-寰宇财经频特,https://tv543.cc/Smart.php?id=huanyutaiwan_twn
-天映粤特,https://tv543.cc/Smart.php?id=ctv18_twn
-无线翡翠频特,https://tv543.cc/Smart.php?id=Tvbjade
-有线新闻频特,https://tv543.cc/Smart.php?id=hoycaijing_twn
-中视新闻频特,https://tv543.cc/Smart.php?id=zhongshinews_twn
-
-E1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -136,7 +127,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
-F1,#genre#
+E1,#genre#
 凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
@@ -150,7 +141,7 @@ F1,#genre#
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
-G1,#genre#
+F1,#genre#
 凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067
 凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065
@@ -161,6 +152,9 @@ G1,#genre#
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=30026
 无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024
+
+G1,#genre#
+国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
 
 H1,#genre#
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=2aaa8ae59f5c421b34ad0565d30d38a7&id=nRxcCJH4sjNVypz1kZw9Xge11OuTG84O1VZxZnJ%2BtGRwaXzi98C2TZaPYERDW2TkQsuYMag0OlElphNJqMHxpqVlUEStw7QPFIYv82iLZ4CNpq%2FjOs2gP4wxKA%2BjAOp%2FjuD1wW5Avnn9r9CIEh1zxWTyT06TwG9%2BQPnXsmoTWupWkCO5%2B6BbtVwYlYxU365YGGpQKTbf2iAyztDNgBwWuQ%3D%3D&name=q7A0sAD4g0lFXHLpRAO%2F7fU1RiB8u8sUeXtz6v0i1jwphwAYA2pt0Th2a9MjWF67SlWrB8DBnlanfKm8D%2BEwUeG6u1CJlyQgYlffm7EZxIeZFpoZ14F%2FwxBtoErbjb%2FO
