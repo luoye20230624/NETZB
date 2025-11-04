@@ -9,10 +9,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 AXN电影频特,https://smt.858.qzz.io/Smart.php?id=axn_twn
@@ -22,7 +18,6 @@ HitsMovie,https://smt.858.qzz.io/Smart.php?id=Hitsmovie
 StarMovies,https://smt.858.qzz.io/Smart.php?id=starmovies_raj
 StarmaaMovies,https://smt.858.qzz.io/Smart.php?id=starmaamovies_raj
 TVBAsia,https://smt.858.qzz.io/Smart.php?id=Tvbasia
-八大戏剧频特,https://smt.858.qzz.io/Smart.php?id=badadrama
 八大娱乐频特,https://smt.858.qzz.io/Smart.php?id=badaentertain
 大爱贰台频特,https://smt.858.qzz.io/Smart.php?id=daai2_twn
 大爱壹台频特,https://smt.858.qzz.io/Smart.php?id=daai_twn
