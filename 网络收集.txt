@@ -64,7 +64,6 @@ D1,#genre#
 美亚电影频国,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 天映经典频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
