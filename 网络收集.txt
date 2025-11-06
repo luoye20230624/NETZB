@@ -9,6 +9,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 Now新闻频流,http://bxtv.3a.ink/api.php?id=now
@@ -64,6 +68,7 @@ D1,#genre#
 美亚电影频国,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 天映经典频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
