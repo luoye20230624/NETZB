@@ -12,7 +12,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线新闻频流,http://tl.061833.xyz/tl/null-11
 无线亚剧频流,http://tl.061833.xyz/tl/null-13
 无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 Now新闻频流,http://bxtv.3a.ink/api.php?id=now
@@ -48,6 +47,7 @@ Now星影国推,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkg
 龙祥电影粤推,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanlzzlkbb.flv
 美亚电影国推,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanmyhkkbb.flv
 美亚电影闽推,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanmytwkbb.flv
+天映经典粤推,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidazyxckks.flv
 无线功夫国推,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidatvb01kks.flv
 无线生活粤推,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidatvb02kks.flv
 无线星河国推,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidatvb66kks.flv
