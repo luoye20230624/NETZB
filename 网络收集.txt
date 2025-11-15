@@ -9,6 +9,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
@@ -25,6 +29,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
