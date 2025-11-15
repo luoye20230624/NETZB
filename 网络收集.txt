@@ -9,10 +9,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
@@ -51,6 +47,10 @@ C1,#genre#
 D1,#genre#
 凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067
 凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
+凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065
+凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066
+凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
 无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
 无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125
 无线明珠实时,http://vallest.uk/livehttpplay?channel_id=30026
