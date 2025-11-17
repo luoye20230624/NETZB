@@ -23,6 +23,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
@@ -35,6 +36,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 C1,#genre#
 凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 美亚电影频国,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 天映经典频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
