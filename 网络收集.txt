@@ -9,9 +9,7 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
+无线新闻频流,http://tl.061833.xyz/tl/null-11
 
 B1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
@@ -46,11 +44,23 @@ C1,#genre#
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 D1,#genre#
+凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067
+凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
+凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065
+凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066
+凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
+无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
+无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125
+无线明珠实时,http://vallest.uk/livehttpplay?channel_id=30026
+无线新闻实时,http://vallest.uk/livehttpplay?channel_id=30024
+
+E1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
 国🔊评评,https://mgev.188766.xyz/play?migutoken=6242f89bc30e48b757b61c0771905a7b&id=AYR3BrEu%2BazA8aH9fOS1MsEeZyRhVmq07BARwz0x2eqKNcMpmcPj8a0pZbRBlgMyPzCKmMFbHe6rf%2Bhs28S4td%2B4ibGBL4UyVT0p%2FUFrtk%2FchYgIE1s2Ae9Ky7wIa7EQIpAVnRXCI8mpalPekFXNHgxNqrAGIv5w4wNwxIly5TscjAC1yavlaQN8NNx9X9fwnaklxjwZDSdpQpclyoxkRI3UfhnMEW6y0gPI9ljGKNM%3D&name=mruxFK9EzilWJZ831F7QqXFmvBwnm%2BO3oz79jKLfCQJCezxZpQOhYdCmfflh3E00moX8YNRt%2BhixOF3IfAmm%2FepQ4z5prDBY%2Fmfutc90huqkLOLrCj1CsegOL6kj%2BlNo5byGWzIw2yr4Q7KQsV3%2FI5E65qhiqVEzaYaFxw6SRNZ6ie7Jp16jQtzuidu3E00PyZCSiQFmB8gYnuh74KnUzoVQZfWg%2F%2Bg4V7%2Ft%2FkhGB5YP7lJQnammDpvtf0A1g4Ae
 原🔊原述,https://mgev.188766.xyz/play?migutoken=42e899c6a983c9754dc48d449ca7470b&id=kJEX8WMcx2LxoMuhs2skIY4t3cIRpeq%2FmQ8hDXfmidjrPTbK2ElHG7EbmRF6SaGi2wDfnukFCOyBKzxwTVBVckTeeO1SFejngo2I%2FJy8B2UlWdDxnHDzgCnxlzLlFqXzNaAgozk%2FE399y1OYlG7rwNb52jz5MybvZc4NNsMC8vwJh8vkoZxHigUehPYxP%2FAZdzo8bITHu3DbPaEv4WjGjB9xmcbTtel5nrqu3y7%2F8sc9BGxbi1%2FsFPt2APH8EJ%2F7Co2DerCoxktcr3hS%2F%2BxYk1Eyzaz9E%2FuXfjsjSm3nzemkGmtA16%2Bw2E7AcPFvi%2BXzxXwZmfglWRqdAGz9Wf6p1kGSmqycSMDD%2BAmICJrVVd5nCCn4%2FSxzpKvbDfVtCsMADYGb1UPRuGe51%2BAvBNsrZbG5ltYFAg0Lo9v%2F7kjq4Jf4FEe%2FXP1SihqbrVczjcDqjyF5wA%2FpBrpXWkMLdB814A%3D%3D&name=ATCrfpfNi7673q%2B0fQOCLcAD3X%2F5TiKRThgCttKr0PH%2FeAyUd%2FTJXYv8%2Bq3UOXGbPKT%2BK8j%2BwzBbKbhe4ssvKVdMkAmMo%2BirFxowN8ZoEfjo%2FwyhRnlzsPgTTUKsy6vGNcBVsvCuBU17NkJKq0ao2w%3D%3D
 
-E1,#genre#
+F1,#genre#
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=2aaa8ae59f5c421b34ad0565d30d38a7&id=nRxcCJH4sjNVypz1kZw9Xge11OuTG84O1VZxZnJ%2BtGRwaXzi98C2TZaPYERDW2TkQsuYMag0OlElphNJqMHxpqVlUEStw7QPFIYv82iLZ4CNpq%2FjOs2gP4wxKA%2BjAOp%2FjuD1wW5Avnn9r9CIEh1zxWTyT06TwG9%2BQPnXsmoTWupWkCO5%2B6BbtVwYlYxU365YGGpQKTbf2iAyztDNgBwWuQ%3D%3D&name=q7A0sAD4g0lFXHLpRAO%2F7fU1RiB8u8sUeXtz6v0i1jwphwAYA2pt0Th2a9MjWF67SlWrB8DBnlanfKm8D%2BEwUeG6u1CJlyQgYlffm7EZxIeZFpoZ14F%2FwxBtoErbjb%2FO
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=5d0cbe9b048c8eff67a98088507f75b9&id=k1Hp1zhLwED2jaR3spicgWb%2FYwmFTRP07x%2Fjoq0kPTtclzEJkX5qKZLQAso%2B7cHeSTjTCUi5tlfpnp8%2B4VzjLqVzLOGf2OXABelWos8DQBRLBcJWsFaKMVOBNIbvD8NwsLR8u438zI0Bnb0p8fcPTDGpG7c2kv0qvB090gyQ1ZdL2jI%2BUnJMM9LTNZrTv30DgFeVf%2BcvphKS5891VZ5rY2rM3UBHT0Z8oH6qt7yM55%2Bp8ZPQjGm9wh7xLUirrOyBVcxgPrj82h4oRvmp2LQBeUFILyQoaipd4Cq4d%2FrJ%2FaAcT23ZA%2FJ0gR7YwdtMmiNaMQWr1%2BaydbmMmvOP6itKKcSSjT7jpZy1uWIYMfbduUnB%2BItqWxJQ84Pg7dZGCUvnMo0IQQGI6UJEJTY9xQ2qbA%3D%3D&name=sh0XvR%2FlaUBy8V%2FGV0rjdlBnRv1g7Pw%2BQyBhDtXDow3KIA6AR0HyKNFwT2Wsjja%2FkgBgpLMi2KtnUiTB0AlQbvJZISIz1NbQGjN7r0XmR%2FJv87oFcTTaIKkW41A%2FgUM7
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=6259ca911aed17ff86030a964ca48f2b&id=hgb9MaXflk6pDG6vEGS%2B%2BNRik7oLaIEoh5DLVS8Gq4OwQX7Ms86PfGrgxEcg36%2FuObFo4DI4BVztOAVYI9V3aw8p1GZcJSLSthsQhkclFg5mh5v2qPAzMi2mcAuLLi8hhw7pPzlbaYDRDZKjiYWrOF%2BzcCRlsCM7bBa0fJMeVqxa2sE2Ps80r7874jDSFamzbH%2Fjxn03WfOB5gYbsp16v7wqgCJ9pLfk1rdwqrRMtnU37CUylQL4%2Be%2FIMQoxpgsRsqXppTn6DcQaJSGEMqwjYOz83OA1zBmZpYi2wouT6R8dkBTJNVgQeeRRMTDx3xmpN1PHZdBDs6R7AiSJgLqUavvenYbwCfyIkPvrTHGNKlQah%2FzIC0qoSZLwHeIQWjRnZsDQgs%2BrHQielxY9wDyXEA%3D%3D&name=O7UqsGhrPAIUxodpYTXfudAGMKofQN1BwDCiIV5IioaB6WyzdRUpVkLAqzqASdSzgZZYjk3ZETOqfG7hGu6uMiqjyZRPEmVX3tTtzy4Y7d8bkCCV9%2BWiFKo8HxIKVsRj
