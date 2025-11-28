@@ -9,62 +9,46 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
-ELta旅游4Gtv,http://cmtv.netlib.re/channel/n22ef7dc5.m3u8
-MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
-八大精彩4Gtv,http://cmtv.netlib.re/channel/5836518c.m3u8
-八大综艺4Gtv,http://cmtv.netlib.re/channel/583e3af6.m3u8
-半岛新闻4Gtv,http://cmtv.netlib.re/channel/n5b606cd7.m3u8
-采昌影剧4Gtv,http://cmtv.netlib.re/channel/n176bfc88.m3u8
-大爱贰高4Gtv,http://cmtv.netlib.re/channel/n43dddaeb.m3u8
-大爱壹高4Gtv,http://cmtv.netlib.re/channel/n43d4dfd4.m3u8
-东森财经4Gtv,http://cmtv.netlib.re/channel/492edb6.m3u8
-东森购贰4Gtv,http://cmtv.netlib.re/channel/296c90cb.m3u8
-东森购叁4Gtv,http://cmtv.netlib.re/channel/296c80ee.m3u8
-东森购肆4Gtv,http://cmtv.netlib.re/channel/296d925c.m3u8
-东森购壹4Gtv,http://cmtv.netlib.re/channel/296c7fd7.m3u8
-东森新闻4Gtv,http://cmtv.netlib.re/channel/n6a969278.m3u8
-公视戏剧4Gtv,http://cmtv.netlib.re/channel/n46c71fe4.m3u8
-华视闽南4Gtv,http://cmtv.netlib.re/channel/n27282dc.m3u8
-华视新闻4Gtv,http://cmtv.netlib.re/channel/n2fd06b2e.m3u8
-寰宇闽南4Gtv,http://cmtv.netlib.re/channel/757f39bb.m3u8
-寰宇新闻4Gtv,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8
-靖天4Gtv,http://cmtv.netlib.re/channel/4676c016.m3u8
-靖天电影4Gtv,http://cmtv.netlib.re/channel/31df12aa.m3u8
-靖天欢乐4Gtv,http://cmtv.netlib.re/channel/6127e044.m3u8
-靖天卡通4Gtv,http://cmtv.netlib.re/channel/30e73207.m3u8
-靖天日本4Gtv,http://cmtv.netlib.re/channel/3127beb9.m3u8
-靖天戏剧4Gtv,http://cmtv.netlib.re/channel/31175bcb.m3u8
-靖天映画4Gtv,http://cmtv.netlib.re/channel/n27b45285.m3u8
-靖天育乐4Gtv,http://cmtv.netlib.re/channel/318cb230.m3u8
-靖天资讯4Gtv,http://cmtv.netlib.re/channel/31bdedfd.m3u8
-靖天综合4Gtv,http://cmtv.netlib.re/channel/317e7354.m3u8
-靖洋卡通4Gtv,http://cmtv.netlib.re/channel/n1e8261a9.m3u8
-靖洋戏剧4Gtv,http://cmtv.netlib.re/channel/3a2124a9.m3u8
-闽镜新闻4Gtv,http://cmtv.netlib.re/channel/n7afe2afd.m3u8
-民视第一4Gtv,http://cmtv.netlib.re/channel/n1a471266.m3u8
-民视旅游4Gtv,http://cmtv.netlib.re/channel/n1a8f6317.m3u8
-民视闽南4Gtv,http://cmtv.netlib.re/channel/n27566be.m3u8
-民视闽南4Gtv,http://cmtv.netlib.re/channel/n98c6959.m3u8
-民视台湾4Gtv,http://cmtv.netlib.re/channel/n1ad630a5.m3u8
-民视新闻4Gtv,http://cmtv.netlib.re/channel/n1a919f80.m3u8
-民视影剧4Gtv,http://cmtv.netlib.re/channel/n1aae9f08.m3u8
-民视综艺4Gtv,http://cmtv.netlib.re/channel/n1a372833.m3u8
-人间卫视4Gtv,http://cmtv.netlib.re/channel/n47cef12f.m3u8
-三立新闻4Gtv,http://cmtv.netlib.re/channel/n21c6f191.m3u8
-三立综合4Gtv,http://cmtv.netlib.re/channel/37d77ba5.m3u8
-tvbs新闻4Gtv,http://cmtv.netlib.re/channel/313be55e.m3u8
-tvbs综艺4Gtv,http://cmtv.netlib.re/channel/n9646e61.m3u8
-戏剧壹台4Gtv,http://cmtv.netlib.re/channel/240febd4.m3u8
-亚洲旅游4Gtv,http://cmtv.netlib.re/channel/398a97da.m3u8
-影迷纪实4Gtv,http://cmtv.netlib.re/channel/32888672.m3u8
-中视菁采4Gtv,http://cmtv.netlib.re/channel/40aace24.m3u8
-中视经典4Gtv,http://cmtv.netlib.re/channel/408bd1e5.m3u8
-中视闽南4Gtv,http://cmtv.netlib.re/channel/n279055a.m3u8
-中视新闻4Gtv,http://cmtv.netlib.re/channel/n4840462c.m3u8
-中天新闻4Gtv,http://cmtv.netlib.re/channel/2a347829.m3u8
-猪哥亮厅4Gtv,http://cmtv.netlib.re/channel/d7360a1.m3u8
+AstroMTV,https://tzh911.qzz.io/play-smt.php?id=AstroMTV
+ELta影剧频特,https://tzh911.qzz.io/play-smt.php?id=eltayingju_twn
+EYE-戏剧频特,https://tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
+HitsMovie,https://tzh911.qzz.io/play-smt.php?id=Hitsmovie
+MoviesNow,https://tzh911.qzz.io/play-smt.php?id=moviesnow_raj
+StarMovies,https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
+TVBAsia,https://tzh911.qzz.io/play-smt.php?id=Tvbasia
+八大第一频特,https://tzh911.qzz.io/play-smt.php?id=badafirst
+八大娱乐频特,https://tzh911.qzz.io/play-smt.php?id=badaentertain
+八大综合频特,https://tzh911.qzz.io/play-smt.php?id=badazhonghe
+大爱贰台频特,https://tzh911.qzz.io/play-smt.php?id=daai2_twn
+东森财经频特,https://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
+东森超视频特,https://tzh911.qzz.io/play-smt.php?id=ettvsuper
+东森戏剧频特,https://tzh911.qzz.io/play-smt.php?id=ettvdrama
+东森洋片频特,https://tzh911.qzz.io/play-smt.php?id=ettvwestern
+东森综合频特,https://tzh911.qzz.io/play-smt.php?id=ettvzhonghe
+公视台语频特,https://tzh911.qzz.io/play-smt.php?id=ctv2_twn
+寰宇财经频特,https://tzh911.qzz.io/play-smt.php?id=huanyutaiwan_twn
+靖天卡通频特,https://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
+龙华戏剧频特,https://tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
+龙华洋片频特,https://tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn
+龙祥电影频特,https://tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
+民视第一频特,https://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
+民视台湾频特,https://tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn
+三立闽南频特,https://tzh911.qzz.io/play-smt.php?id=sanlitaiwan
+三立戏剧频特,https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
+tvNMovie,https://tzh911.qzz.io/play-smt.php?id=Tvnmovie
+纬来体育频特,https://tzh911.qzz.io/play-smt.php?id=videolandsport
+纬来综合频特,https://tzh911.qzz.io/play-smt.php?id=videolandzonghe
+亚洲旅游频特,https://tzh911.qzz.io/play-smt.php?id=asiatravel_twn
+有线新闻频特,https://tzh911.qzz.io/play-smt.php?id=hoycaijing_twn
+中天亚洲频特,https://tzh911.qzz.io/play-smt.php?id=ctiasia_twn
+中天娱乐频特,https://tzh911.qzz.io/play-smt.php?id=ctient
+中天综合频特,https://tzh911.qzz.io/play-smt.php?id=ctizhonghe
 
 C1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
@@ -77,27 +61,14 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
-无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 D1,#genre#
 安岳新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ayxwzh_4000.m3u8
-成都新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CDTV-1_4000.m3u8
-重温经典高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CWJD_4000.m3u8
-达川新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dcxwzh_2000.m3u8
-大英新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dyxwzhH265_4000.m3u8
-达州新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dzxwzh_2000.m3u8
-大竹新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dzxwzh137_2000.m3u8
-丹棱新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dlxwzhH265_4000.m3u8
-德阳新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dyxwgq-HD-_2000.m3u8
-恩阳新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/eyxw_2000.m3u8
-凤凰中文标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8
-凤凰资讯标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8
 甘孜新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gzxwzh_2000.m3u8
 珙县新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gxzh_2000.m3u8
 古蔺新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/glxwzhgq_2000.m3u8
@@ -108,9 +79,6 @@ D1,#genre#
 会理新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hlyt_4000.m3u8
 夹江新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jjxw_2000.m3u8
 简阳新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jyxwzh_2000.m3u8
-井研新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jyxwzh162_2000.m3u8
-开江新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/kjxwzh_2000.m3u8
-乐山新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lsxwzh_4000.m3u8
 凉山新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lsxwHDH265_4000.m3u8
 龙泉新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lqxw_2000.m3u8
 芦山新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lszh_2000.m3u8
@@ -126,8 +94,6 @@ D1,#genre#
 仁和新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/rhxwH264_2000.m3u8
 四川新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/SCTV-4H265_4000.m3u8
 松潘新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/spxwzhpdH264_2000.m3u8
-天全新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/tqzh_2000.m3u8
-旺苍新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wcxwzhH265_4000.m3u8
 温江新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wjytH264_2000.m3u8
 西充新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xczh_2000.m3u8
 叙州新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ybx_2000.m3u8
@@ -136,7 +102,6 @@ D1,#genre#
 宜宾新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ybytH264_2000.m3u8
 仪陇新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ylxw_2000.m3u8
 影迷电影高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
-筠连新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ylyt_2000.m3u8
 中江新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zjxwzh_2000.m3u8
 自贡新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zgxw_4000.m3u8
 资阳新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zyxwzh_2000.m3u8
@@ -149,12 +114,9 @@ E1,#genre#
 天映经典频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
-无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 F1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
