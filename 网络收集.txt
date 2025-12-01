@@ -9,10 +9,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 ELta旅游4Gtv,http://cmtv.netlib.re/channel/n22ef7dc5.m3u8
@@ -22,6 +18,7 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 半岛新闻4Gtv,http://cmtv.netlib.re/channel/n5b606cd7.m3u8
 采昌影剧4Gtv,http://cmtv.netlib.re/channel/n176bfc88.m3u8
 大爱贰高4Gtv,http://cmtv.netlib.re/channel/n43dddaeb.m3u8
+大爱壹高4Gtv,http://cmtv.netlib.re/channel/n43d4dfd4.m3u8
 东森财经4Gtv,http://cmtv.netlib.re/channel/492edb6.m3u8
 东森购贰4Gtv,http://cmtv.netlib.re/channel/296c90cb.m3u8
 东森购叁4Gtv,http://cmtv.netlib.re/channel/296c80ee.m3u8
