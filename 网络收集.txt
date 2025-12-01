@@ -22,7 +22,6 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 半岛新闻4Gtv,http://cmtv.netlib.re/channel/n5b606cd7.m3u8
 采昌影剧4Gtv,http://cmtv.netlib.re/channel/n176bfc88.m3u8
 大爱贰高4Gtv,http://cmtv.netlib.re/channel/n43dddaeb.m3u8
-大爱壹高4Gtv,http://cmtv.netlib.re/channel/n43d4dfd4.m3u8
 东森财经4Gtv,http://cmtv.netlib.re/channel/492edb6.m3u8
 东森购贰4Gtv,http://cmtv.netlib.re/channel/296c90cb.m3u8
 东森购叁4Gtv,http://cmtv.netlib.re/channel/296c80ee.m3u8
