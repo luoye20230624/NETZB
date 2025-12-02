@@ -21,6 +21,7 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 大爱壹高4Gtv,http://cmtv.netlib.re/channel/n43d4dfd4.m3u8
 东森财经4Gtv,http://cmtv.netlib.re/channel/492edb6.m3u8
 东森购贰4Gtv,http://cmtv.netlib.re/channel/296c90cb.m3u8
+东森购叁4Gtv,http://cmtv.netlib.re/channel/296c80ee.m3u8
 东森购肆4Gtv,http://cmtv.netlib.re/channel/296d925c.m3u8
 东森购壹4Gtv,http://cmtv.netlib.re/channel/296c7fd7.m3u8
 东森新闻4Gtv,http://cmtv.netlib.re/channel/n6a969278.m3u8
@@ -45,6 +46,7 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 民视第一4Gtv,http://cmtv.netlib.re/channel/n1a471266.m3u8
 民视旅游4Gtv,http://cmtv.netlib.re/channel/n1a8f6317.m3u8
 民视闽南4Gtv,http://cmtv.netlib.re/channel/n27566be.m3u8
+民视闽南4Gtv,http://cmtv.netlib.re/channel/n98c6959.m3u8
 民视台湾4Gtv,http://cmtv.netlib.re/channel/n1ad630a5.m3u8
 民视新闻4Gtv,http://cmtv.netlib.re/channel/n1a919f80.m3u8
 民视影剧4Gtv,http://cmtv.netlib.re/channel/n1aae9f08.m3u8
@@ -54,6 +56,7 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 三立综合4Gtv,http://cmtv.netlib.re/channel/37d77ba5.m3u8
 tvbs新闻4Gtv,http://cmtv.netlib.re/channel/313be55e.m3u8
 tvbs综艺4Gtv,http://cmtv.netlib.re/channel/n9646e61.m3u8
+戏剧壹台4Gtv,http://cmtv.netlib.re/channel/240febd4.m3u8
 亚洲旅游4Gtv,http://cmtv.netlib.re/channel/398a97da.m3u8
 影迷纪实4Gtv,http://cmtv.netlib.re/channel/32888672.m3u8
 中视菁采4Gtv,http://cmtv.netlib.re/channel/40aace24.m3u8
@@ -65,24 +68,19 @@ tvbs综艺4Gtv,http://cmtv.netlib.re/channel/n9646e61.m3u8
 
 C1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
-凤凰香港PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+美亚电影PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
-无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线华丽国Pl,http://php.jdshipin.com/PLTV/iptv.php?id=huali
-无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-无线星河PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 D1,#genre#
 凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+美亚电影频国,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 天映经典频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
