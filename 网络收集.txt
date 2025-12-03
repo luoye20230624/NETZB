@@ -109,7 +109,6 @@ MTVLive4Gtv,http://210.61.15.55:50007/4gtv-live025/index.m3u8?proxy=true
 采昌影剧4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv049/index.m3u8?proxy=true
 大爱贰高4Gtv,http://210.61.15.55:50007/4gtv-live106/index.m3u8?proxy=true
 大爱壹高4Gtv,http://210.61.15.55:50007/4gtv-live007/index.m3u8?proxy=true
-大新闻大爆卦,http://210.61.15.55:50007/ofiii201/index.m3u8?proxy=true
 东森财经4Gtv,http://210.61.15.55:50007/4gtv-4gtv153/index.m3u8?proxy=true
 东森财经4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv153/index.m3u8?proxy=true
 东森购贰4Gtv,http://210.61.15.55:50007/4gtv-4gtv103/index.m3u8?proxy=true
@@ -268,8 +267,6 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 三立新闻4Gtv,http://cmtv.netlib.re/channel/n21c6f191.m3u8
 三立综合4Gtv,http://cmtv.netlib.re/channel/37d77ba5.m3u8
 tvbs新闻4Gtv,http://cmtv.netlib.re/channel/313be55e.m3u8
-tvbs综艺4Gtv,http://cmtv.netlib.re/channel/n9646e61.m3u8
-戏剧壹台4Gtv,http://cmtv.netlib.re/channel/240febd4.m3u8
 亚洲旅游4Gtv,http://cmtv.netlib.re/channel/398a97da.m3u8
 影迷纪实4Gtv,http://cmtv.netlib.re/channel/32888672.m3u8
 中视菁采4Gtv,http://cmtv.netlib.re/channel/40aace24.m3u8
@@ -280,18 +277,6 @@ tvbs综艺4Gtv,http://cmtv.netlib.re/channel/n9646e61.m3u8
 猪哥亮厅4Gtv,http://cmtv.netlib.re/channel/d7360a1.m3u8
 
 E1,#genre#
-Now新闻欣赏,http://rihou.cc:555/tv/MtlNow新闻
-凤凰中文欣赏,http://rihou.cc:555/tv/Pdl凤凰中文
-tvbS新闻欣赏,http://rihou.cc:555/tv/4GItvbS新闻
-tvbS新闻欣赏,http://rihou.cc:555/tv/4GltvbS新闻
-无线新闻欣赏,http://rihou.cc:555/tv/Bxl无线新闻
-有线新闻欣赏,http://rihou.cc:555/tv/Mtl有线新闻
-中天新闻欣赏,http://rihou.cc:555/tv/4GI中天新闻
-中天新闻欣赏,http://rihou.cc:555/tv/4Gl中天新闻
-中天新闻欣赏,http://rihou.cc:555/tv/SZl中天新闻
-🔊翡翠台庆⬇️,http://rihou.cc:555/tv/I翡翠台庆
-
-F1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰香港PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰中文PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
@@ -309,7 +294,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
-G1,#genre#
+F1,#genre#
 凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
@@ -323,6 +308,16 @@ G1,#genre#
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+
+G1,#genre#
+凤凰中文欣赏,http://rihou.cc:555/tv/Pdl凤凰中文
+tvbS新闻欣赏,http://rihou.cc:555/tv/4GItvbS新闻
+tvbS新闻欣赏,http://rihou.cc:555/tv/4GltvbS新闻
+无线新闻欣赏,http://rihou.cc:555/tv/Bxl无线新闻
+中天新闻欣赏,http://rihou.cc:555/tv/4GI中天新闻
+中天新闻欣赏,http://rihou.cc:555/tv/4Gl中天新闻
+中天新闻欣赏,http://rihou.cc:555/tv/SZl中天新闻
+🔊翡翠台庆⬇️,http://rihou.cc:555/tv/I翡翠台庆
 
 H1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
