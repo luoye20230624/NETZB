@@ -9,8 +9,94 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
+AXN电影频特,https://tzh911.qzz.io/play-smt.php?id=axn_twn
+AstroMTV,https://tzh911.qzz.io/play-smt.php?id=AstroMTV
+ELta影剧频特,https://tzh911.qzz.io/play-smt.php?id=eltayingju_twn
+EYE-旅游频特,https://tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
+EYE-戏剧频特,https://tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
+HitsMovie,https://tzh911.qzz.io/play-smt.php?id=Hitsmovie
+MoviesNow,https://tzh911.qzz.io/play-smt.php?id=moviesnow_raj
+StarMovies,https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
+StarmaaMovies,https://tzh911.qzz.io/play-smt.php?id=starmaamovies_raj
+TVB星河台XingHe,https://tzh911.qzz.io/play-smt.php?id=Xinhe
+TVBAsia,https://tzh911.qzz.io/play-smt.php?id=Tvbasia
+八大第一频特,https://tzh911.qzz.io/play-smt.php?id=badafirst
+八大戏剧频特,https://tzh911.qzz.io/play-smt.php?id=badadrama
+八大娱乐频特,https://tzh911.qzz.io/play-smt.php?id=badaentertain
+八大综合频特,https://tzh911.qzz.io/play-smt.php?id=badazhonghe
+大爱贰台频特,https://tzh911.qzz.io/play-smt.php?id=daai2_twn
+大爱壹台频特,https://tzh911.qzz.io/play-smt.php?id=daai_twn
+东森财经频特,https://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
+东森超视频特,https://tzh911.qzz.io/play-smt.php?id=ettvsuper
+东森电影频特,https://tzh911.qzz.io/play-smt.php?id=ettvmovie
+东森戏剧频特,https://tzh911.qzz.io/play-smt.php?id=ettvdrama
+东森新闻频特,https://tzh911.qzz.io/play-smt.php?id=ettvnews
+东森洋片频特,https://tzh911.qzz.io/play-smt.php?id=ettvwestern
+东森幼幼频特,https://tzh911.qzz.io/play-smt.php?id=yoyo_twn
+东森综合频特,https://tzh911.qzz.io/play-smt.php?id=ettvzhonghe
+非凡新闻频特,https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
+凤凰香港频特,https://tzh911.qzz.io/play-smt.php?id=hkphoenix_twn
+凤凰中文频特,https://tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
+凤凰资讯频特,https://tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd
+公视台语频特,https://tzh911.qzz.io/play-smt.php?id=ctv2_twn
+华视闽南频特,https://tzh911.qzz.io/play-smt.php?id=ctshd_twn
+寰宇财经频特,https://tzh911.qzz.io/play-smt.php?id=huanyutaiwan_twn
+寰宇新闻频特,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
+靖天卡通频特,https://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
+靖天频特,https://tzh911.qzz.io/play-smt.php?id=jingtianintl_twn
+龙华电影频特,https://tzh911.qzz.io/play-smt.php?id=xingwei_movie
+龙华偶像频特,https://tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn
+龙华戏剧频特,https://tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
+龙华洋片频特,https://tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn
+龙祥电影频特,https://tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
+美亚电影频特,https://tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
+民视第一频特,https://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
+民视闽南频特,https://tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
+民视台湾频特,https://tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn
+民视新闻频特,https://tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
+年代新闻频特,https://tzh911.qzz.io/play-smt.php?id=niandainews_twn
+三立都会频特,https://tzh911.qzz.io/play-smt.php?id=sanlidouhui
+三立闽南频特,https://tzh911.qzz.io/play-smt.php?id=sanlitaiwan
+三立戏剧频特,https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
+三立综合频特,https://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
+台视新闻频特,https://tzh911.qzz.io/play-smt.php?id=ttvnews_twn
+探索亚洲频特,https://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
+天映国特,https://tzh911.qzz.io/play-smt.php?id=Celestial
+天映经典频特,https://tzh911.qzz.io/play-smt.php?id=Celestial2
+天映闽特,https://tzh911.qzz.io/play-smt.php?id=Celestialindo
+天映粤特,https://tzh911.qzz.io/play-smt.php?id=ctv18_twn
+tvNMovie,https://tzh911.qzz.io/play-smt.php?id=Tvnmovie
+tvbs新闻频特,https://tzh911.qzz.io/play-smt.php?id=tvbs_n
+纬来电影频特,https://tzh911.qzz.io/play-smt.php?id=videolandmovie
+纬来精彩频特,https://tzh911.qzz.io/play-smt.php?id=videolandspecial_twn
+纬来日本频特,https://tzh911.qzz.io/play-smt.php?id=videolandjapan
+纬来体育频特,https://tzh911.qzz.io/play-smt.php?id=videolandsport
+纬来育乐频特,https://tzh911.qzz.io/play-smt.php?id=videolandyule
+纬来综合频特,https://tzh911.qzz.io/play-smt.php?id=videolandzonghe
+无线翡翠频特,https://tzh911.qzz.io/play-smt.php?id=Jade_xue
+无线翡翠频特,https://tzh911.qzz.io/play-smt.php?id=Tvbjade
+无线翡翠频特,https://tzh911.qzz.io/play-smt.php?id=jade_twn
+无线华丽粤特,https://tzh911.qzz.io/play-smt.php?id=Wlt
+无线明珠频特,https://tzh911.qzz.io/play-smt.php?id=pearl_twn
+无线新闻频特,https://tzh911.qzz.io/play-smt.php?id=inews_twn
+无线娱乐频特,https://tzh911.qzz.io/play-smt.php?id=Tvbentertainment
+亚洲旅游频特,https://tzh911.qzz.io/play-smt.php?id=asiatravel_twn
+有线新闻频特,https://tzh911.qzz.io/play-smt.php?id=hoycaijing_twn
+中视经典频特,https://tzh911.qzz.io/play-smt.php?id=zhongshi_twn
+中视闽南频特,https://tzh911.qzz.io/play-smt.php?id=zhongshihd_twn
+中视新闻频特,https://tzh911.qzz.io/play-smt.php?id=zhongshinews_twn
+中天新闻频特,https://tzh911.qzz.io/play-smt.php?id=ctinews
+中天亚洲频特,https://tzh911.qzz.io/play-smt.php?id=ctiasia_twn
+中天娱乐频特,https://tzh911.qzz.io/play-smt.php?id=ctient
+中天综合频特,https://tzh911.qzz.io/play-smt.php?id=ctizhonghe
+
+C1,#genre#
 ELta旅游4Gtv,http://210.61.15.55:50007/4gtv-live120/index.m3u8?proxy=true
 MTVLive4Gtv,http://210.61.15.55:50007/4gtv-live025/index.m3u8?proxy=true
 八大精彩4Gtv,http://210.61.15.55:50007/4gtv-4gtv034/index.m3u8?proxy=true
@@ -144,7 +230,7 @@ tvbs综艺4Gtv,http://210.61.15.55:50007/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://210.61.15.55:50007/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-C1,#genre#
+D1,#genre#
 MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 八大精彩4Gtv,http://cmtv.netlib.re/channel/5836518c.m3u8
 八大综艺4Gtv,http://cmtv.netlib.re/channel/583e3af6.m3u8
@@ -193,7 +279,7 @@ tvbs综艺4Gtv,http://cmtv.netlib.re/channel/n9646e61.m3u8
 中天新闻4Gtv,http://cmtv.netlib.re/channel/2a347829.m3u8
 猪哥亮厅4Gtv,http://cmtv.netlib.re/channel/d7360a1.m3u8
 
-D1,#genre#
+E1,#genre#
 Now新闻欣赏,http://rihou.cc:555/tv/MtlNow新闻
 凤凰中文欣赏,http://rihou.cc:555/tv/Pdl凤凰中文
 tvbS新闻欣赏,http://rihou.cc:555/tv/4GItvbS新闻
@@ -205,7 +291,7 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/4GltvbS新闻
 中天新闻欣赏,http://rihou.cc:555/tv/SZl中天新闻
 🔊翡翠台庆⬇️,http://rihou.cc:555/tv/I翡翠台庆
 
-E1,#genre#
+F1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰香港PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰中文PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
@@ -223,7 +309,7 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线星河PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线娱乐PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
-F1,#genre#
+G1,#genre#
 凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
@@ -238,7 +324,7 @@ F1,#genre#
 无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
-G1,#genre#
+H1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
 国🔊鲁靖明评,https://mgev.188766.xyz/play?migutoken=3ab704eac19249dc07faf81dc9e4cdad&id=mYnJqxLuHuTq8N%2BYi75IKO7LadOcvB566IUresd8q9EEEBxYT7GQIy0amTxQbBU2b0X6GrdeYjSb9HPXP%2FBbMDIzOXjm5g4U8jZAcawrlfmREmVGfs74fuGE3CfRlmuHPfFScP4EdklK%2Fm%2F8CktU2eYmrXkh9%2FoX3oxbhCxpNrcdBQ8YDUk1Wxu70fg5qOm9Svx%2F%2FEHbR%2FiVDricOb2OUH77iWsjKybaZDRXG3OWgTU%3D&name=C8cTBXPdxr6T3B16EmWFzWYJV7uTbc%2Fh7EvD2JiNY3uIz%2F%2FL97B2Hfp5B77wkKTDEnSnVPVSF2w42RtIUQwutRG%2Brxd9pHuX5v0eSdIdogiygFvpbARyLlLSxJAv7XDJ
 国🔊鲁靖明评,https://mgev.188766.xyz/play?migutoken=dff1c06618a06bd2bdadf79ba1cfbeeb&id=wOJDy7Q%2BJRe4BirYgcpzw5nkleR4TsOle21snJ3tjtQ%2Bifvaiq%2FpmgEU3ux%2Fx%2BzRCznomIheGFlct9jVNmjruPrMhWNqErfevZD0le1rveD8UNkAeiZCh783VGZW7m1WgwaNjzoR%2F9SUxqjUvX1Em5q2cTpjLPUilKeNH%2FaTANZfjSenJ7cPVRN%2FJMB8gBO49b2jSWb8CzAkgP2RgF%2BYovBrSIPn2eCQK365w%2Ff8%2BG0%3D&name=5etxXaZRl6EctdpYKH51lGlSFzKp38JQJQ4fCB4MSpGKLK7quz8LVTLtAKLHpwo6hrTwVNCw6offPYOSWcx5Wxfs9WLAC5WPLlljJujpXCQfhXmNN1F9CGVDn74pkHTC
@@ -247,7 +333,7 @@ G1,#genre#
 国🔊魏欣怡评,https://mgev.188766.xyz/play?migutoken=910c97e41dcc86182247b32e3c8f1aff&id=9ZwrSuDeAbLIAZvW33NN28ZPkqL4M3aeMfMTV%2BWQ1nD4zfQOCOJu4flzgm1cCgvhLrlRHfnjthiNdHBpeIRv9FGMiHFaDDVY15VMae%2BItHqliE0my1%2FggutPkF3tgFpu%2Fmp1DPWu4pU7xUhlyvNhFODmC7KNxCLY5o2oG1tluKqs8RPYe4vjGey7LTY9ca7FAImiW9ZEn3HeSom5iFRG0m1cBiiu4fKoe%2FJKn2epAu1rfJyLGfo7h6S%2B%2B7cXR%2B0RwTlCm3Wd4mc3LNJTyX2UV9OZo8cKwgulTDTTt4GIUL1XDn56SJ%2Bx1nMi622C6gVBy6zB94uNyMowHkUoy4r0cyMw8%2B19V6lgPflQqDp%2Bq1KKUvxGt2%2F0R7lS469ZRWxKny5RtbIXh%2F%2FwZVX1hcWoYA%3D%3D&name=p%2FKF2eoccgvVD9Z9koAEDCCdMmV2tfbrZM72WV44ieyNFytiZ3GKnmUfvBwI%2B06p1Dneztw2XiEb1ydQ6igYazpKtANJN8Zr2r%2Fjy%2FG8wQ8hI5NaFc6dP8MGjhTVrPxk
 原🔊原述,https://mgev.188766.xyz/play?migutoken=42e899c6a983c9754dc48d449ca7470b&id=kJEX8WMcx2LxoMuhs2skIY4t3cIRpeq%2FmQ8hDXfmidjrPTbK2ElHG7EbmRF6SaGi2wDfnukFCOyBKzxwTVBVckTeeO1SFejngo2I%2FJy8B2UlWdDxnHDzgCnxlzLlFqXzNaAgozk%2FE399y1OYlG7rwNb52jz5MybvZc4NNsMC8vwJh8vkoZxHigUehPYxP%2FAZdzo8bITHu3DbPaEv4WjGjB9xmcbTtel5nrqu3y7%2F8sc9BGxbi1%2FsFPt2APH8EJ%2F7Co2DerCoxktcr3hS%2F%2BxYk1Eyzaz9E%2FuXfjsjSm3nzemkGmtA16%2Bw2E7AcPFvi%2BXzxXwZmfglWRqdAGz9Wf6p1kGSmqycSMDD%2BAmICJrVVd5nCCn4%2FSxzpKvbDfVtCsMADYGb1UPRuGe51%2BAvBNsrZbG5ltYFAg0Lo9v%2F7kjq4Jf4FEe%2FXP1SihqbrVczjcDqjyF5wA%2FpBrpXWkMLdB814A%3D%3D&name=ATCrfpfNi7673q%2B0fQOCLcAD3X%2F5TiKRThgCttKr0PH%2FeAyUd%2FTJXYv8%2Bq3UOXGbPKT%2BK8j%2BwzBbKbhe4ssvKVdMkAmMo%2BirFxowN8ZoEfjo%2FwyhRnlzsPgTTUKsy6vGNcBVsvCuBU17NkJKq0ao2w%3D%3D
 
-H1,#genre#
+I1,#genre#
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=2aaa8ae59f5c421b34ad0565d30d38a7&id=nRxcCJH4sjNVypz1kZw9Xge11OuTG84O1VZxZnJ%2BtGRwaXzi98C2TZaPYERDW2TkQsuYMag0OlElphNJqMHxpqVlUEStw7QPFIYv82iLZ4CNpq%2FjOs2gP4wxKA%2BjAOp%2FjuD1wW5Avnn9r9CIEh1zxWTyT06TwG9%2BQPnXsmoTWupWkCO5%2B6BbtVwYlYxU365YGGpQKTbf2iAyztDNgBwWuQ%3D%3D&name=q7A0sAD4g0lFXHLpRAO%2F7fU1RiB8u8sUeXtz6v0i1jwphwAYA2pt0Th2a9MjWF67SlWrB8DBnlanfKm8D%2BEwUeG6u1CJlyQgYlffm7EZxIeZFpoZ14F%2FwxBtoErbjb%2FO
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=5d0cbe9b048c8eff67a98088507f75b9&id=k1Hp1zhLwED2jaR3spicgWb%2FYwmFTRP07x%2Fjoq0kPTtclzEJkX5qKZLQAso%2B7cHeSTjTCUi5tlfpnp8%2B4VzjLqVzLOGf2OXABelWos8DQBRLBcJWsFaKMVOBNIbvD8NwsLR8u438zI0Bnb0p8fcPTDGpG7c2kv0qvB090gyQ1ZdL2jI%2BUnJMM9LTNZrTv30DgFeVf%2BcvphKS5891VZ5rY2rM3UBHT0Z8oH6qt7yM55%2Bp8ZPQjGm9wh7xLUirrOyBVcxgPrj82h4oRvmp2LQBeUFILyQoaipd4Cq4d%2FrJ%2FaAcT23ZA%2FJ0gR7YwdtMmiNaMQWr1%2BaydbmMmvOP6itKKcSSjT7jpZy1uWIYMfbduUnB%2BItqWxJQ84Pg7dZGCUvnMo0IQQGI6UJEJTY9xQ2qbA%3D%3D&name=sh0XvR%2FlaUBy8V%2FGV0rjdlBnRv1g7Pw%2BQyBhDtXDow3KIA6AR0HyKNFwT2Wsjja%2FkgBgpLMi2KtnUiTB0AlQbvJZISIz1NbQGjN7r0XmR%2FJv87oFcTTaIKkW41A%2FgUM7
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=6259ca911aed17ff86030a964ca48f2b&id=hgb9MaXflk6pDG6vEGS%2B%2BNRik7oLaIEoh5DLVS8Gq4OwQX7Ms86PfGrgxEcg36%2FuObFo4DI4BVztOAVYI9V3aw8p1GZcJSLSthsQhkclFg5mh5v2qPAzMi2mcAuLLi8hhw7pPzlbaYDRDZKjiYWrOF%2BzcCRlsCM7bBa0fJMeVqxa2sE2Ps80r7874jDSFamzbH%2Fjxn03WfOB5gYbsp16v7wqgCJ9pLfk1rdwqrRMtnU37CUylQL4%2Be%2FIMQoxpgsRsqXppTn6DcQaJSGEMqwjYOz83OA1zBmZpYi2wouT6R8dkBTJNVgQeeRRMTDx3xmpN1PHZdBDs6R7AiSJgLqUavvenYbwCfyIkPvrTHGNKlQah%2FzIC0qoSZLwHeIQWjRnZsDQgs%2BrHQielxY9wDyXEA%3D%3D&name=O7UqsGhrPAIUxodpYTXfudAGMKofQN1BwDCiIV5IioaB6WyzdRUpVkLAqzqASdSzgZZYjk3ZETOqfG7hGu6uMiqjyZRPEmVX3tTtzy4Y7d8bkCCV9%2BWiFKo8HxIKVsRj
