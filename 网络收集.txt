@@ -9,6 +9,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 AXN电影频特,https://tzh911.qzz.io/play-smt.php?id=axn_twn
@@ -378,6 +382,7 @@ G1,#genre#
 凤凰资讯频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 美亚电影频国,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 天映经典频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 无线翡翠频粤,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
@@ -398,6 +403,7 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/4GltvbS新闻
 
 I1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
+国🔊刘芳宇评,https://mgev.188766.xyz/play?migutoken=03a7553bbd517a9166a4573e378c95f1&id=wsavpGp5C%2Bcw4%2FMBCVANQRfxCvMyISt05IUzdRxA7%2BgBQfYPkoqKYDkoY%2B071kmdQebT6gFpijTVBR8XBWsQXxG3cRQnLySUOwad7f1vPEsVluSasTG87lUR0uufdbcwemNjtTNqnUzltxYUUM7lVjPV%2F%2BUsHjSTPtmOnwHq3oWphBl2TrmlJzflV5DqLdhh8h6jWlsr25NvzipVgE5fCTIFo%2BlUFqLQhbjpmDs3ZAbphPNB4HOauusyd1ZcA%2B7NehzWRBKNsE1P7h%2BwZ%2BZ0vZbFiadg%2B8ewUDUFXTiU6rbednJnPQlfIDhmq5SMkbte&name=oUmw%2B26XdV9NVx6eqObxBSuvWsR75QwuBCl4wYTIKCRtcIXUL2LpN1PIBykzmAzO15%2BUmLktH%2FoI0%2F04T8GuzscBh2alqRa1wV%2BQEVCqU9Y%3D
 国🔊鲁靖明评,https://mgev.188766.xyz/play?migutoken=3ab704eac19249dc07faf81dc9e4cdad&id=mYnJqxLuHuTq8N%2BYi75IKO7LadOcvB566IUresd8q9EEEBxYT7GQIy0amTxQbBU2b0X6GrdeYjSb9HPXP%2FBbMDIzOXjm5g4U8jZAcawrlfmREmVGfs74fuGE3CfRlmuHPfFScP4EdklK%2Fm%2F8CktU2eYmrXkh9%2FoX3oxbhCxpNrcdBQ8YDUk1Wxu70fg5qOm9Svx%2F%2FEHbR%2FiVDricOb2OUH77iWsjKybaZDRXG3OWgTU%3D&name=C8cTBXPdxr6T3B16EmWFzWYJV7uTbc%2Fh7EvD2JiNY3uIz%2F%2FL97B2Hfp5B77wkKTDEnSnVPVSF2w42RtIUQwutRG%2Brxd9pHuX5v0eSdIdogiygFvpbARyLlLSxJAv7XDJ
 国🔊鲁靖明评,https://mgev.188766.xyz/play?migutoken=dff1c06618a06bd2bdadf79ba1cfbeeb&id=wOJDy7Q%2BJRe4BirYgcpzw5nkleR4TsOle21snJ3tjtQ%2Bifvaiq%2FpmgEU3ux%2Fx%2BzRCznomIheGFlct9jVNmjruPrMhWNqErfevZD0le1rveD8UNkAeiZCh783VGZW7m1WgwaNjzoR%2F9SUxqjUvX1Em5q2cTpjLPUilKeNH%2FaTANZfjSenJ7cPVRN%2FJMB8gBO49b2jSWb8CzAkgP2RgF%2BYovBrSIPn2eCQK365w%2Ff8%2BG0%3D&name=5etxXaZRl6EctdpYKH51lGlSFzKp38JQJQ4fCB4MSpGKLK7quz8LVTLtAKLHpwo6hrTwVNCw6offPYOSWcx5Wxfs9WLAC5WPLlljJujpXCQfhXmNN1F9CGVDn74pkHTC
 国🔊裴优评述,https://mgev.188766.xyz/play?migutoken=3414fc51367b8508e3df0253327de62b&id=YxnkRDsweigIYTMdmnfdcnm2cND7omqqxdK2tTU0daPmUBR8agoGajUbsUuFqgH8glH30EqdtxFZynLED1xCjyq5rDEQGEBdhWjS1MgJXI%2BkFk6BcsWDTGSLSp71%2BffdcvmfRCEaoRBuSS5qlxjJ87XjuywdLdU7wJz%2F7KMM%2B2tellq1asc8sHjEEmmTxTEvxte%2Brd8F0xqxvxE6To37W1m0fOgso5aQJAiJgnim%2FJ2p6tckV%2BuiNlKCpSmDxH554XiaMJAAUK9dSy5lGNT7vQzyYlCPKOPezgehYpXd8nrkP%2FmNZWQliPEeQJ5SE%2FKZAdFESI%2FaxWycUQ0BQcFtWmnI4kDk50VOa6p3xt2v8v8%3D&name=g2f57EOS7AXNYDIZn689x%2BYCV1ZG3Rg2GR9NPc4jqUPFcb0jdJQqTxIPcbxHXgF0LDB3AMcve9gfIt9Zk8F0H%2FEMfbGTOvQbRX%2FrQs7UWWdwYp9o8zfyksJJtYBixYte
