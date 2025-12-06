@@ -9,85 +9,67 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
-AXN电影频特,https://tzh911.qzz.io/play-smt.php?id=axn_twn
-AstroMTV,https://tzh911.qzz.io/play-smt.php?id=AstroMTV
-ELta影剧频特,https://tzh911.qzz.io/play-smt.php?id=eltayingju_twn
-EYE-旅游频特,https://tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
-EYE-戏剧频特,https://tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
-HitsMovie,https://tzh911.qzz.io/play-smt.php?id=Hitsmovie
-MoviesNow,https://tzh911.qzz.io/play-smt.php?id=moviesnow_raj
-StarMovies,https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
-StarmaaMovies,https://tzh911.qzz.io/play-smt.php?id=starmaamovies_raj
-TVB星河台XingHe,https://tzh911.qzz.io/play-smt.php?id=Xinhe
-TVBAsia,https://tzh911.qzz.io/play-smt.php?id=Tvbasia
-八大第一频特,https://tzh911.qzz.io/play-smt.php?id=badafirst
-八大戏剧频特,https://tzh911.qzz.io/play-smt.php?id=badadrama
-八大娱乐频特,https://tzh911.qzz.io/play-smt.php?id=badaentertain
-八大综合频特,https://tzh911.qzz.io/play-smt.php?id=badazhonghe
-大爱贰台频特,https://tzh911.qzz.io/play-smt.php?id=daai2_twn
-大爱壹台频特,https://tzh911.qzz.io/play-smt.php?id=daai_twn
-东森财经频特,https://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
-东森超视频特,https://tzh911.qzz.io/play-smt.php?id=ettvsuper
-东森电影频特,https://tzh911.qzz.io/play-smt.php?id=ettvmovie
-东森戏剧频特,https://tzh911.qzz.io/play-smt.php?id=ettvdrama
-东森新闻频特,https://tzh911.qzz.io/play-smt.php?id=ettvnews
-东森洋片频特,https://tzh911.qzz.io/play-smt.php?id=ettvwestern
-东森幼幼频特,https://tzh911.qzz.io/play-smt.php?id=yoyo_twn
-东森综合频特,https://tzh911.qzz.io/play-smt.php?id=ettvzhonghe
-非凡新闻频特,https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
-凤凰香港频特,https://tzh911.qzz.io/play-smt.php?id=hkphoenix_twn
-凤凰中文频特,https://tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
-凤凰资讯频特,https://tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd
-公视台语频特,https://tzh911.qzz.io/play-smt.php?id=ctv2_twn
-华视闽南频特,https://tzh911.qzz.io/play-smt.php?id=ctshd_twn
-寰宇财经频特,https://tzh911.qzz.io/play-smt.php?id=huanyutaiwan_twn
-寰宇新闻频特,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
-靖天卡通频特,https://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
-靖天频特,https://tzh911.qzz.io/play-smt.php?id=jingtianintl_twn
-龙华电影频特,https://tzh911.qzz.io/play-smt.php?id=xingwei_movie
-龙华偶像频特,https://tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn
-龙华戏剧频特,https://tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
-龙华洋片频特,https://tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn
-龙祥电影频特,https://tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
-美亚电影频特,https://tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
-民视第一频特,https://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
-民视闽南频特,https://tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
-民视台湾频特,https://tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn
-民视新闻频特,https://tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
-年代新闻频特,https://tzh911.qzz.io/play-smt.php?id=niandainews_twn
-三立都会频特,https://tzh911.qzz.io/play-smt.php?id=sanlidouhui
-三立闽南频特,https://tzh911.qzz.io/play-smt.php?id=sanlitaiwan
-三立戏剧频特,https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
-三立综合频特,https://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
-台视新闻频特,https://tzh911.qzz.io/play-smt.php?id=ttvnews_twn
-探索亚洲频特,https://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
-天映国特,https://tzh911.qzz.io/play-smt.php?id=Celestial
-天映经典频特,https://tzh911.qzz.io/play-smt.php?id=Celestial2
-天映闽特,https://tzh911.qzz.io/play-smt.php?id=Celestialindo
-天映粤特,https://tzh911.qzz.io/play-smt.php?id=ctv18_twn
-tvNMovie,https://tzh911.qzz.io/play-smt.php?id=Tvnmovie
-tvbs新闻频特,https://tzh911.qzz.io/play-smt.php?id=tvbs_n
-纬来精彩频特,https://tzh911.qzz.io/play-smt.php?id=videolandspecial_twn
-纬来日本频特,https://tzh911.qzz.io/play-smt.php?id=videolandjapan
-纬来体育频特,https://tzh911.qzz.io/play-smt.php?id=videolandsport
-纬来育乐频特,https://tzh911.qzz.io/play-smt.php?id=videolandyule
-纬来综合频特,https://tzh911.qzz.io/play-smt.php?id=videolandzonghe
-无线翡翠频特,https://tzh911.qzz.io/play-smt.php?id=Jade_xue
-无线翡翠频特,https://tzh911.qzz.io/play-smt.php?id=Tvbjade
-无线翡翠频特,https://tzh911.qzz.io/play-smt.php?id=jade_twn
-无线华丽粤特,https://tzh911.qzz.io/play-smt.php?id=Wlt
-无线新闻频特,https://tzh911.qzz.io/play-smt.php?id=inews_twn
-无线娱乐频特,https://tzh911.qzz.io/play-smt.php?id=Tvbentertainment
-亚洲旅游频特,https://tzh911.qzz.io/play-smt.php?id=asiatravel_twn
-有线新闻频特,https://tzh911.qzz.io/play-smt.php?id=hoycaijing_twn
-中视经典频特,https://tzh911.qzz.io/play-smt.php?id=zhongshi_twn
-中视闽南频特,https://tzh911.qzz.io/play-smt.php?id=zhongshihd_twn
-中视新闻频特,https://tzh911.qzz.io/play-smt.php?id=zhongshinews_twn
-中天新闻频特,https://tzh911.qzz.io/play-smt.php?id=ctinews
-中天娱乐频特,https://tzh911.qzz.io/play-smt.php?id=ctient
-中天综合频特,https://tzh911.qzz.io/play-smt.php?id=ctizhonghe
+AXN电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
+AstroMTV,https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Goiptv
+EYE-旅游斯特,https://smt.go-iptv.ggff.net/smart.php?id=eyetvtravel_twn&token=Goiptv
+EYE-戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=eyetvxiju_twn&token=Goiptv
+HitsMovie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+MoviesNow,https://smt.go-iptv.ggff.net/smart.php?id=moviesnow_raj&token=Goiptv
+StarMovies,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
+TVB星河台XingHe,https://smt.go-iptv.ggff.net/smart.php?id=Xinhe&token=Goiptv
+TVBAsia,https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
+八大第一斯特,https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
+八大戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=badadrama&token=Goiptv
+八大娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
+八大综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
+大爱贰台斯特,https://smt.go-iptv.ggff.net/smart.php?id=daai2_twn&token=Goiptv
+大爱壹台斯特,https://smt.go-iptv.ggff.net/smart.php?id=daai_twn&token=Goiptv
+东森超视斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvsuper&token=Goiptv
+东森电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
+东森戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvdrama&token=Goiptv
+东森洋片斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
+东森综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvzhonghe&token=Goiptv
+非凡新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=feifannews_twn&token=Goiptv
+凤凰资讯斯特,https://smt.go-iptv.ggff.net/smart.php?id=phoenixinfo_hd&token=Goiptv
+公视台语斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctv2_twn&token=Goiptv
+寰宇财经斯特,https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
+寰宇新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=huanyuxinwen_twn&token=Goiptv
+靖天卡通斯特,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
+龙华偶像斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaidol_twn&token=Goiptv
+龙华戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaxiju_twn&token=Goiptv
+龙祥电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
+美亚电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+民视第一斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuajingdian_twn&token=Goiptv
+民视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvhd_taiwan&token=Goiptv
+民视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvnew_taiwan&token=Goiptv
+年代新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=niandainews_twn&token=Goiptv
+三立戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlixiju_twn&token=Goiptv
+台视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ttvnews_twn&token=Goiptv
+探索亚洲斯特,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
+天映国特,https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
+天映经典斯特,https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
+天映闽特,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
+纬来精彩斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandspecial_twn&token=Goiptv
+纬来体育斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandsport&token=Goiptv
+纬来育乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandyule&token=Goiptv
+纬来综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandzonghe&token=Goiptv
+无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
+无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
+无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=jade_twn&token=Goiptv
+无线明珠斯特,https://smt.go-iptv.ggff.net/smart.php?id=pearl_twn&token=Goiptv
+无线新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=inews_twn&token=Goiptv
+有线新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=hoycaijing_twn&token=Goiptv
+中视经典斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshi_twn&token=Goiptv
+中视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshihd_twn&token=Goiptv
+中视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshinews_twn&token=Goiptv
+中天新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
+中天亚洲斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctiasia_twn&token=Goiptv
 
 C1,#genre#
 ELta旅游4Gtv,http://210.61.15.55:50007/4gtv-live120/index.m3u8?proxy=true
@@ -223,51 +205,6 @@ tvbs综艺4Gtv,http://210.61.15.55:50007/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv006/index.m3u8?proxy=true
 
 D1,#genre#
-EYE-旅游斯特,https://smt.go-iptv.ggff.net/smart.php?id=eyetvtravel_twn&token=Goiptv
-EYE-戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=eyetvxiju_twn&token=Goiptv
-HitsMovie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
-TVB星河台XingHe,https://smt.go-iptv.ggff.net/smart.php?id=Xinhe&token=Goiptv
-TVBAsia,https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
-八大第一斯特,https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
-八大综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
-大爱贰台斯特,https://smt.go-iptv.ggff.net/smart.php?id=daai2_twn&token=Goiptv
-大爱壹台斯特,https://smt.go-iptv.ggff.net/smart.php?id=daai_twn&token=Goiptv
-东森超视斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvsuper&token=Goiptv
-东森洋片斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
-东森综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvzhonghe&token=Goiptv
-凤凰资讯斯特,https://smt.go-iptv.ggff.net/smart.php?id=phoenixinfo_hd&token=Goiptv
-公视台语斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctv2_twn&token=Goiptv
-寰宇财经斯特,https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
-寰宇新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=huanyuxinwen_twn&token=Goiptv
-靖天卡通斯特,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
-靖天斯特,https://smt.go-iptv.ggff.net/smart.php?id=jingtianintl_twn&token=Goiptv
-龙华偶像斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaidol_twn&token=Goiptv
-龙祥电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
-美亚电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
-民视第一斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuajingdian_twn&token=Goiptv
-民视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvhd_taiwan&token=Goiptv
-民视台湾斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvtaiwan_twn&token=Goiptv
-三立闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlitaiwan&token=Goiptv
-三立戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlixiju_twn&token=Goiptv
-探索亚洲斯特,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
-天映国特,https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
-天映经典斯特,https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
-天映闽特,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
-天映粤特,https://smt.go-iptv.ggff.net/smart.php?id=ctv18_twn&token=Goiptv
-tvNMovie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
-tvbs新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=tvbs_n&token=Goiptv
-纬来综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandzonghe&token=Goiptv
-无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
-无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=jade_twn&token=Goiptv
-无线华丽粤特,https://smt.go-iptv.ggff.net/smart.php?id=Wlt&token=Goiptv
-亚洲旅游斯特,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
-中视经典斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshi_twn&token=Goiptv
-中视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshinews_twn&token=Goiptv
-中天新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
-中天亚洲斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctiasia_twn&token=Goiptv
-中天综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
-
-E1,#genre#
 MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 八大精彩4Gtv,http://cmtv.netlib.re/channel/5836518c.m3u8
 八大综艺4Gtv,http://cmtv.netlib.re/channel/583e3af6.m3u8
@@ -312,7 +249,7 @@ tvbs新闻4Gtv,http://cmtv.netlib.re/channel/313be55e.m3u8
 中天新闻4Gtv,http://cmtv.netlib.re/channel/2a347829.m3u8
 猪哥亮厅4Gtv,http://cmtv.netlib.re/channel/d7360a1.m3u8
 
-F1,#genre#
+E1,#genre#
 Now新闻欣赏,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻欣赏,http://rihou.cc:555/tv/\Mt\Now新闻
 Now星影粤赏,http://rihou.cc:555/tv/BxlNow星影
@@ -340,14 +277,24 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/\ST\tvbS新闻
 中天新闻欣赏,http://rihou.cc:555/tv/4Gl中天新闻
 中天新闻欣赏,http://rihou.cc:555/tv/HkI中天新闻
 中天新闻欣赏,http://rihou.cc:555/tv/SZl中天新闻
-🔊翡翠台庆⬇️,http://rihou.cc:555/tv/I翡翠台庆
+
+F1,#genre#
+StarMovies,https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
+八大戏剧频特,https://tzh911.qzz.io/play-smt.php?id=badadrama
+八大娱乐频特,https://tzh911.qzz.io/play-smt.php?id=badaentertain
+大爱壹台频特,https://tzh911.qzz.io/play-smt.php?id=daai_twn
+东森电影频特,https://tzh911.qzz.io/play-smt.php?id=ettvmovie
+凤凰香港频特,https://tzh911.qzz.io/play-smt.php?id=hkphoenix_twn
+靖天卡通频特,https://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
+龙华偶像频特,https://tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn
+天映经典频特,https://tzh911.qzz.io/play-smt.php?id=Celestial2
+无线翡翠频特,https://tzh911.qzz.io/play-smt.php?id=Jade_xue
 
 G1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰香港PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰中文PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-无线翡翠标Pl,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线翡翠高Pl,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线功夫PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
