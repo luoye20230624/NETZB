@@ -9,15 +9,9 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 AXN电影斯特,http://tv.tslgpt.top:5050/smart.php?id=axn_twn&token=boxgpt
-AstroMTV,http://tv.tslgpt.top:5050/smart.php?id=AstroMTV&token=boxgpt
-ELta影剧斯特,http://tv.tslgpt.top:5050/smart.php?id=eltayingju_twn&token=boxgpt
 EYE-旅游斯特,http://tv.tslgpt.top:5050/smart.php?id=eyetvtravel_twn&token=boxgpt
 EYE-戏剧斯特,http://tv.tslgpt.top:5050/smart.php?id=eyetvxiju_twn&token=boxgpt
 HitsMovie,http://tv.tslgpt.top:5050/smart.php?id=Hitsmovie&token=boxgpt
@@ -36,13 +30,10 @@ TVBAsia,http://tv.tslgpt.top:5050/smart.php?id=Tvbasia&token=boxgpt
 东森超视斯特,http://tv.tslgpt.top:5050/smart.php?id=ettvsuper&token=boxgpt
 东森电影斯特,http://tv.tslgpt.top:5050/smart.php?id=ettvmovie&token=boxgpt
 东森戏剧斯特,http://tv.tslgpt.top:5050/smart.php?id=ettvdrama&token=boxgpt
-东森新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=ettvnews&token=boxgpt
-东森洋片斯特,http://tv.tslgpt.top:5050/smart.php?id=ettvwestern&token=boxgpt
 东森幼幼斯特,http://tv.tslgpt.top:5050/smart.php?id=yoyo_twn&token=boxgpt
 东森综合斯特,http://tv.tslgpt.top:5050/smart.php?id=ettvzhonghe&token=boxgpt
 非凡新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=feifannews_twn&token=boxgpt
 凤凰香港斯特,http://tv.tslgpt.top:5050/smart.php?id=hkphoenix_twn&token=boxgpt
-凤凰中文斯特,http://tv.tslgpt.top:5050/smart.php?id=phoenixtv_hd&token=boxgpt
 凤凰资讯斯特,http://tv.tslgpt.top:5050/smart.php?id=phoenixinfo_hd&token=boxgpt
 公视台语斯特,http://tv.tslgpt.top:5050/smart.php?id=ctv2_twn&token=boxgpt
 华视闽南斯特,http://tv.tslgpt.top:5050/smart.php?id=ctshd_twn&token=boxgpt
@@ -56,9 +47,7 @@ TVBAsia,http://tv.tslgpt.top:5050/smart.php?id=Tvbasia&token=boxgpt
 龙华洋片斯特,http://tv.tslgpt.top:5050/smart.php?id=lunghuawestern_twn&token=boxgpt
 龙祥电影斯特,http://tv.tslgpt.top:5050/smart.php?id=lungxiangtime_twn&token=boxgpt
 美亚电影斯特,http://tv.tslgpt.top:5050/smart.php?id=meiyamovie_twn&token=boxgpt
-民视第一斯特,http://tv.tslgpt.top:5050/smart.php?id=lunghuajingdian_twn&token=boxgpt
 民视闽南斯特,http://tv.tslgpt.top:5050/smart.php?id=ftvhd_taiwan&token=boxgpt
-民视台湾斯特,http://tv.tslgpt.top:5050/smart.php?id=ftvtaiwan_twn&token=boxgpt
 民视新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=ftvnew_taiwan&token=boxgpt
 年代新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=niandainews_twn&token=boxgpt
 三立都会斯特,http://tv.tslgpt.top:5050/smart.php?id=sanlidouhui&token=boxgpt
@@ -74,7 +63,6 @@ TVBAsia,http://tv.tslgpt.top:5050/smart.php?id=Tvbasia&token=boxgpt
 tvNMovie,http://tv.tslgpt.top:5050/smart.php?id=Tvnmovie&token=boxgpt
 tvbs新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=tvbs_n&token=boxgpt
 纬来电影斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandmovie&token=boxgpt
-纬来精彩斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandspecial_twn&token=boxgpt
 纬来日本斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandjapan&token=boxgpt
 纬来体育斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandsport&token=boxgpt
 纬来育乐斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandyule&token=boxgpt
@@ -275,6 +263,7 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 三立新闻4Gtv,http://cmtv.netlib.re/channel/n21c6f191.m3u8
 三立综合4Gtv,http://cmtv.netlib.re/channel/37d77ba5.m3u8
 tvbs新闻4Gtv,http://cmtv.netlib.re/channel/313be55e.m3u8
+tvbs综艺4Gtv,http://cmtv.netlib.re/channel/n9646e61.m3u8
 戏剧壹台4Gtv,http://cmtv.netlib.re/channel/240febd4.m3u8
 亚洲旅游4Gtv,http://cmtv.netlib.re/channel/398a97da.m3u8
 影迷纪实4Gtv,http://cmtv.netlib.re/channel/32888672.m3u8
@@ -330,19 +319,14 @@ StarMovies,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
 八大娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
 八大综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
 东森电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
-东森戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvdrama&token=Goiptv
 非凡新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=feifannews_twn&token=Goiptv
 凤凰香港斯特,https://smt.go-iptv.ggff.net/smart.php?id=hkphoenix_twn&token=Goiptv
 凤凰中文斯特,https://smt.go-iptv.ggff.net/smart.php?id=phoenixtv_hd&token=Goiptv
 靖天卡通斯特,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
-靖天斯特,https://smt.go-iptv.ggff.net/smart.php?id=jingtianintl_twn&token=Goiptv
-美亚电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 民视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvhd_taiwan&token=Goiptv
 年代新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=niandainews_twn&token=Goiptv
 三立戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlixiju_twn&token=Goiptv
 台视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ttvnews_twn&token=Goiptv
-探索亚洲斯特,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
-天映闽特,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
 tvNMovie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
 tvbs新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=tvbs_n&token=Goiptv
 无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
@@ -383,8 +367,6 @@ I1,#genre#
 天映经典闽玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 天映频国,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
 天映频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
-无线翡翠频玛,https://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-无线翡翠频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
 无线华丽频国,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 无线华丽频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
 无线华丽粤玛,https://cdn9.163189.xyz/smt1.1.php?id=Wlt
@@ -404,7 +386,6 @@ J1,#genre#
 凤凰资讯频玛,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 天映经典闽玛,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-无线翡翠频玛,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 无线华丽粤玛,https://smt.1678520.xyz/smt3.2.1.php?id=Wlt
 无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
