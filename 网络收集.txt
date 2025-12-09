@@ -9,9 +9,14 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 AXN电影斯特,http://tv.tslgpt.top:5050/smart.php?id=axn_twn&token=boxgpt
+AstroMTV,http://tv.tslgpt.top:5050/smart.php?id=AstroMTV&token=boxgpt
 EYE-旅游斯特,http://tv.tslgpt.top:5050/smart.php?id=eyetvtravel_twn&token=boxgpt
 EYE-戏剧斯特,http://tv.tslgpt.top:5050/smart.php?id=eyetvxiju_twn&token=boxgpt
 HitsMovie,http://tv.tslgpt.top:5050/smart.php?id=Hitsmovie&token=boxgpt
@@ -34,6 +39,7 @@ TVBAsia,http://tv.tslgpt.top:5050/smart.php?id=Tvbasia&token=boxgpt
 东森综合斯特,http://tv.tslgpt.top:5050/smart.php?id=ettvzhonghe&token=boxgpt
 非凡新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=feifannews_twn&token=boxgpt
 凤凰香港斯特,http://tv.tslgpt.top:5050/smart.php?id=hkphoenix_twn&token=boxgpt
+凤凰中文斯特,http://tv.tslgpt.top:5050/smart.php?id=phoenixtv_hd&token=boxgpt
 凤凰资讯斯特,http://tv.tslgpt.top:5050/smart.php?id=phoenixinfo_hd&token=boxgpt
 公视台语斯特,http://tv.tslgpt.top:5050/smart.php?id=ctv2_twn&token=boxgpt
 华视闽南斯特,http://tv.tslgpt.top:5050/smart.php?id=ctshd_twn&token=boxgpt
@@ -48,24 +54,18 @@ TVBAsia,http://tv.tslgpt.top:5050/smart.php?id=Tvbasia&token=boxgpt
 龙祥电影斯特,http://tv.tslgpt.top:5050/smart.php?id=lungxiangtime_twn&token=boxgpt
 美亚电影斯特,http://tv.tslgpt.top:5050/smart.php?id=meiyamovie_twn&token=boxgpt
 民视闽南斯特,http://tv.tslgpt.top:5050/smart.php?id=ftvhd_taiwan&token=boxgpt
+民视台湾斯特,http://tv.tslgpt.top:5050/smart.php?id=ftvtaiwan_twn&token=boxgpt
 民视新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=ftvnew_taiwan&token=boxgpt
 年代新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=niandainews_twn&token=boxgpt
-三立都会斯特,http://tv.tslgpt.top:5050/smart.php?id=sanlidouhui&token=boxgpt
 三立闽南斯特,http://tv.tslgpt.top:5050/smart.php?id=sanlitaiwan&token=boxgpt
-三立戏剧斯特,http://tv.tslgpt.top:5050/smart.php?id=sanlixiju_twn&token=boxgpt
-三立综合斯特,http://tv.tslgpt.top:5050/smart.php?id=sanlizhonghe&token=boxgpt
 台视新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=ttvnews_twn&token=boxgpt
-探索亚洲斯特,http://tv.tslgpt.top:5050/smart.php?id=discoverytwn_twn&token=boxgpt
 天映国特,http://tv.tslgpt.top:5050/smart.php?id=Celestial&token=boxgpt
 天映经典斯特,http://tv.tslgpt.top:5050/smart.php?id=Celestial2&token=boxgpt
-天映闽特,http://tv.tslgpt.top:5050/smart.php?id=Celestialindo&token=boxgpt
 天映粤特,http://tv.tslgpt.top:5050/smart.php?id=ctv18_twn&token=boxgpt
 tvNMovie,http://tv.tslgpt.top:5050/smart.php?id=Tvnmovie&token=boxgpt
 tvbs新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=tvbs_n&token=boxgpt
-纬来电影斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandmovie&token=boxgpt
 纬来日本斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandjapan&token=boxgpt
 纬来体育斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandsport&token=boxgpt
-纬来育乐斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandyule&token=boxgpt
 纬来综合斯特,http://tv.tslgpt.top:5050/smart.php?id=videolandzonghe&token=boxgpt
 无线翡翠斯特,http://tv.tslgpt.top:5050/smart.php?id=Jade_xue&token=boxgpt
 无线翡翠斯特,http://tv.tslgpt.top:5050/smart.php?id=Tvbjade&token=boxgpt
@@ -79,8 +79,6 @@ tvbs新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=tvbs_n&token=boxgpt
 中视经典斯特,http://tv.tslgpt.top:5050/smart.php?id=zhongshi_twn&token=boxgpt
 中视闽南斯特,http://tv.tslgpt.top:5050/smart.php?id=zhongshihd_twn&token=boxgpt
 中视新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=zhongshinews_twn&token=boxgpt
-中天新闻斯特,http://tv.tslgpt.top:5050/smart.php?id=ctinews&token=boxgpt
-中天亚洲斯特,http://tv.tslgpt.top:5050/smart.php?id=ctiasia_twn&token=boxgpt
 中天娱乐斯特,http://tv.tslgpt.top:5050/smart.php?id=ctient&token=boxgpt
 中天综合斯特,http://tv.tslgpt.top:5050/smart.php?id=ctizhonghe&token=boxgpt
 
@@ -226,7 +224,6 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 半岛新闻4Gtv,http://cmtv.netlib.re/channel/n5b606cd7.m3u8
 采昌影剧4Gtv,http://cmtv.netlib.re/channel/n176bfc88.m3u8
 大爱贰高4Gtv,http://cmtv.netlib.re/channel/n43dddaeb.m3u8
-大爱壹高4Gtv,http://cmtv.netlib.re/channel/n43d4dfd4.m3u8
 东森财经4Gtv,http://cmtv.netlib.re/channel/492edb6.m3u8
 东森购贰4Gtv,http://cmtv.netlib.re/channel/296c90cb.m3u8
 东森购叁4Gtv,http://cmtv.netlib.re/channel/296c80ee.m3u8
@@ -343,12 +340,12 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 凤凰香港PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰中文PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+美亚电影PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 无线翡翠4kPl,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
 无线翡翠标Pl,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线翡翠高Pl,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线功夫PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
-无线华丽国Pl,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠标Pl,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠粤Pl,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
@@ -363,12 +360,15 @@ I1,#genre#
 凤凰中文频国,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰资讯频玛,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
 凤凰资讯频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+美亚电影频玛,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
+美亚电影频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映经典闽玛,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 天映经典闽玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 天映频国,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
 天映频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
+无线翡翠频玛,https://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+无线翡翠频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
 无线华丽频国,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-无线华丽频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
 无线华丽粤玛,https://cdn9.163189.xyz/smt1.1.php?id=Wlt
 无线华丽粤玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Wlt
 无线明珠频英,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
@@ -377,6 +377,8 @@ I1,#genre#
 无线千禧频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 无线新闻频粤,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线星河频玛,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+无线星河频玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
 无线娱乐频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
 
@@ -384,13 +386,16 @@ J1,#genre#
 凤凰香港频国,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文频国,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯频玛,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+美亚电影频玛,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 天映经典闽玛,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 天映频国,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+无线翡翠频玛,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 无线华丽频国,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 无线华丽粤玛,https://smt.1678520.xyz/smt3.2.1.php?id=Wlt
 无线明珠频英,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线千禧频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 无线新闻频粤,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+无线星河频玛,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线娱乐频粤,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 K1,#genre#
