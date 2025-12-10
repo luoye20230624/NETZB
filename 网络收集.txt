@@ -9,9 +9,7 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
+无线新闻频流,http://tl.061833.xyz/tl/null-11
 
 B1,#genre#
 ELta旅游4Gtv,http://210.61.15.55:50007/4gtv-live120/index.m3u8?proxy=true
@@ -115,7 +113,6 @@ MTVLive4Gtv,http://210.61.15.55:50007/4gtv-live025/index.m3u8?proxy=true
 民视影剧4Gtv,http://210.61.15.55:50007/litv-ftv09/index.m3u8?proxy=true
 民视综艺4Gtv,http://210.61.15.55:50007/4gtv-4gtv004/index.m3u8?proxy=true
 民视综艺4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv004/index.m3u8?proxy=true
-闽新闻大白话,http://210.61.15.55:50007/ofiii202/index.m3u8?proxy=true
 人间卫视4Gtv,http://210.61.15.55:50007/4gtv-live008/index.m3u8?proxy=true
 三立新闻4Gtv,http://210.61.15.55:50007/4gtv-live089/index.m3u8?proxy=true
 三立新闻4Gtv,http://210.61.15.55:50007/iNEWS/index.m3u8?proxy=true
@@ -159,8 +156,6 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 东森财经4Gtv,http://cmtv.netlib.re/channel/492edb6.m3u8
 东森购贰4Gtv,http://cmtv.netlib.re/channel/296c90cb.m3u8
 东森购叁4Gtv,http://cmtv.netlib.re/channel/296c80ee.m3u8
-东森购肆4Gtv,http://cmtv.netlib.re/channel/296d925c.m3u8
-东森购壹4Gtv,http://cmtv.netlib.re/channel/296c7fd7.m3u8
 东森新闻4Gtv,http://cmtv.netlib.re/channel/n6a969278.m3u8
 公视戏剧4Gtv,http://cmtv.netlib.re/channel/n46c71fe4.m3u8
 华视闽南4Gtv,http://cmtv.netlib.re/channel/n27282dc.m3u8
@@ -183,6 +178,7 @@ MTVLive4Gtv,http://cmtv.netlib.re/channel/4cf11185.m3u8
 民视第一4Gtv,http://cmtv.netlib.re/channel/n1a471266.m3u8
 民视旅游4Gtv,http://cmtv.netlib.re/channel/n1a8f6317.m3u8
 民视闽南4Gtv,http://cmtv.netlib.re/channel/n27566be.m3u8
+民视闽南4Gtv,http://cmtv.netlib.re/channel/n98c6959.m3u8
 民视台湾4Gtv,http://cmtv.netlib.re/channel/n1ad630a5.m3u8
 民视新闻4Gtv,http://cmtv.netlib.re/channel/n1a919f80.m3u8
 民视影剧4Gtv,http://cmtv.netlib.re/channel/n1aae9f08.m3u8
@@ -213,7 +209,6 @@ Now星影粤赏,http://rihou.cc:555/tv/\Bx\Now星影
 天映闽赏,http://rihou.cc:555/tv/\Stl\天映频道
 天映粤赏,http://rihou.cc:555/tv/\StI\天映频道
 tvbS新闻欣赏,http://rihou.cc:555/tv/4GItvbS新闻
-tvbS新闻欣赏,http://rihou.cc:555/tv/4GltvbS新闻
 tvbS新闻欣赏,http://rihou.cc:555/tv/STltvbS新闻
 tvbS新闻欣赏,http://rihou.cc:555/tv/\FY\tvbS新闻
 tvbS新闻欣赏,http://rihou.cc:555/tv/\ST\tvbS新闻
@@ -250,7 +245,6 @@ F1,#genre#
 八大综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
 东森电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
 非凡新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=feifannews_twn&token=Goiptv
-凤凰香港斯特,https://smt.go-iptv.ggff.net/smart.php?id=hkphoenix_twn&token=Goiptv
 靖天卡通斯特,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
 民视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvhd_taiwan&token=Goiptv
 年代新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=niandainews_twn&token=Goiptv
@@ -259,7 +253,6 @@ tvNMovie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
 无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
 无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
 无线新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=inews_twn&token=Goiptv
-中视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshihd_twn&token=Goiptv
 中视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshinews_twn&token=Goiptv
 中天新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
 中天娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
