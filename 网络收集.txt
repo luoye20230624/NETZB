@@ -11,8 +11,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
 无线新闻频流,http://tl.061833.xyz/tl/null-11
 无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 ELta旅游4Gtv,http://210.61.15.55:50007/4gtv-live120/index.m3u8?proxy=true
@@ -116,6 +114,7 @@ MTVLive4Gtv,http://210.61.15.55:50007/4gtv-live025/index.m3u8?proxy=true
 民视影剧4Gtv,http://210.61.15.55:50007/litv-ftv09/index.m3u8?proxy=true
 民视综艺4Gtv,http://210.61.15.55:50007/4gtv-4gtv004/index.m3u8?proxy=true
 民视综艺4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv004/index.m3u8?proxy=true
+闽新闻大白话,http://210.61.15.55:50007/ofiii202/index.m3u8?proxy=true
 人间卫视4Gtv,http://210.61.15.55:50007/4gtv-live008/index.m3u8?proxy=true
 三立新闻4Gtv,http://210.61.15.55:50007/4gtv-live089/index.m3u8?proxy=true
 三立新闻4Gtv,http://210.61.15.55:50007/iNEWS/index.m3u8?proxy=true
@@ -135,7 +134,6 @@ tvbs综艺4Gtv,http://210.61.15.55:50007/4gtv-live087/index.m3u8?proxy=true
 中视菁采4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv064/index.m3u8?proxy=true
 中视经典4Gtv,http://210.61.15.55:50007/4gtv-4gtv080/index.m3u8?proxy=true
 中视经典4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv080/index.m3u8?proxy=true
-中视闽南4Gtv,http://210.61.15.55:50007/4gtv-4gtv040/index.m3u8?proxy=true
 中视闽南4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv040/index.m3u8?proxy=true
 中视闽南4Gtv,http://210.61.15.55:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
 中视新闻4Gtv,http://210.61.15.55:50007/4gtv-4gtv074/index.m3u8?proxy=true
