@@ -11,6 +11,8 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
 无线新闻频流,http://tl.061833.xyz/tl/null-11
 无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 ELta旅游4Gtv,http://210.61.15.55:50007/4gtv-live120/index.m3u8?proxy=true
@@ -44,6 +46,7 @@ MTVLive4Gtv,http://210.61.15.55:50007/4gtv-live025/index.m3u8?proxy=true
 华视闽南4Gtv,http://210.61.15.55:50007/4gtv-4gtv041/index.m3u8?proxy=true
 华视闽南4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv041/index.m3u8?proxy=true
 华视闽南4Gtv,http://210.61.15.55:50007/of-4gtv-4gtv041/index.m3u8?proxy=true
+华视新闻4Gtv,http://210.61.15.55:50007/4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻4Gtv,http://210.61.15.55:50007/of-4gtv-4gtv052/index.m3u8?proxy=true
 寰宇财经4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv158/index.m3u8?proxy=true
@@ -100,6 +103,7 @@ MTVLive4Gtv,http://210.61.15.55:50007/4gtv-live025/index.m3u8?proxy=true
 闽南戏剧4Gtv,http://210.61.15.55:50007/litv-longturn22/index.m3u8?proxy=true
 民视第一4Gtv,http://210.61.15.55:50007/4gtv-4gtv003/index.m3u8?proxy=true
 民视第一4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv003/index.m3u8?proxy=true
+民视旅游4Gtv,http://210.61.15.55:50007/li-litv-ftv07/index.m3u8?proxy=true
 民视旅游4Gtv,http://210.61.15.55:50007/litv-ftv07/index.m3u8?proxy=true
 民视闽南4Gtv,http://210.61.15.55:50007/4gtv-4gtv002/index.m3u8?proxy=true
 民视闽南4Gtv,http://210.61.15.55:50007/4gtv-4gtv155/index.m3u8?proxy=true
@@ -123,6 +127,7 @@ tvbs新闻4Gtv,http://210.61.15.55:50007/4gtv-4gtv072/index.m3u8?proxy=true
 tvbs新闻4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv072/index.m3u8?proxy=true
 tvbs综艺4Gtv,http://210.61.15.55:50007/4gtv-live087/index.m3u8?proxy=true
 戏剧壹台4Gtv,http://210.61.15.55:50007/4gtv-live010/index.m3u8?proxy=true
+亚洲旅游4Gtv,http://210.61.15.55:50007/4gtv-4gtv076/index.m3u8?proxy=true
 亚洲旅游4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv076/index.m3u8?proxy=true
 亚洲旅游4Gtv,http://210.61.15.55:50007/of-4gtv-4gtv076/index.m3u8?proxy=true
 影迷纪实4Gtv,http://210.61.15.55:50007/li-litv-ftv15/index.m3u8?proxy=true
@@ -131,6 +136,7 @@ tvbs综艺4Gtv,http://210.61.15.55:50007/4gtv-live087/index.m3u8?proxy=true
 中视菁采4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv064/index.m3u8?proxy=true
 中视经典4Gtv,http://210.61.15.55:50007/4gtv-4gtv080/index.m3u8?proxy=true
 中视经典4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv080/index.m3u8?proxy=true
+中视闽南4Gtv,http://210.61.15.55:50007/4gtv-4gtv040/index.m3u8?proxy=true
 中视闽南4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv040/index.m3u8?proxy=true
 中视闽南4Gtv,http://210.61.15.55:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
 中视新闻4Gtv,http://210.61.15.55:50007/4gtv-4gtv074/index.m3u8?proxy=true
