@@ -9,9 +9,7 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
 
 B1,#genre#
 ELta旅游4Gtv,http://210.61.15.55:50007/4gtv-live120/index.m3u8?proxy=true
@@ -181,18 +179,6 @@ TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线娱乐PLtv,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 E1,#genre#
-凤凰香港频国,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
-凤凰中文频国,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
-天映经典闽玛,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-天映经典闽玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
-天映频国,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
-天映频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
-无线明珠频英,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-无线明珠频英,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
-无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
-无线娱乐频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
-
-F1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
 国🔊刘芳宇评,https://mgev.188766.xyz/play?migutoken=03a7553bbd517a9166a4573e378c95f1&id=wsavpGp5C%2Bcw4%2FMBCVANQRfxCvMyISt05IUzdRxA7%2BgBQfYPkoqKYDkoY%2B071kmdQebT6gFpijTVBR8XBWsQXxG3cRQnLySUOwad7f1vPEsVluSasTG87lUR0uufdbcwemNjtTNqnUzltxYUUM7lVjPV%2F%2BUsHjSTPtmOnwHq3oWphBl2TrmlJzflV5DqLdhh8h6jWlsr25NvzipVgE5fCTIFo%2BlUFqLQhbjpmDs3ZAbphPNB4HOauusyd1ZcA%2B7NehzWRBKNsE1P7h%2BwZ%2BZ0vZbFiadg%2B8ewUDUFXTiU6rbednJnPQlfIDhmq5SMkbte&name=oUmw%2B26XdV9NVx6eqObxBSuvWsR75QwuBCl4wYTIKCRtcIXUL2LpN1PIBykzmAzO15%2BUmLktH%2FoI0%2F04T8GuzscBh2alqRa1wV%2BQEVCqU9Y%3D
 国🔊鲁靖明评,https://mgev.188766.xyz/play?migutoken=144729cf9fe6da28869f032cb5bc6720&id=z%2FWLLP5v2m5qGWj4cuCeSiYz5tMVVXagWvJ7%2Bk3TCJ0sawAJF4dyywpapfDKQvgDaqz0XhhBgyB4WeucyQ6W1NP3JGW5vRucVd7s0LT017nMYGZZSOD8NZ3Fq5n8%2FWOtPK2jFxNvvEiGzlD35WhgHGeln0a7lSZieYbUsXv8l5aXFc%2Fkf4Pt52wAdDL84OG8qyzusmpNtKXnh0VGeyCf621g2W%2BrNzc9EKgGZL%2FIcq%2BTASpeYYqG3D8p64ymcw5Inxj1CUErgRq%2BNHzcF3DG85ndA3l1PnuC0etX82WMV%2BGv323cOdaU8EH%2FCC3WLzddkRsTlWmM%2FX7mZ9bLYEcRxP8tvo7aXYqeOU06g3hTxr0%3D&name=pIzcjS8oSGlfwC9XnBnTvhILJq0KXFgiiFXsXQ8kFn28JxZYwxKZDHKcgzRc9PJSUEQp3xVADreM94KW4OpBjGWPIoqGLtgjbaRJCW2SnLyEjFoMOzy8AgCWG%2FtfzI0t
@@ -204,7 +190,7 @@ F1,#genre#
 国🔊魏欣怡评,https://mgev.188766.xyz/play?migutoken=910c97e41dcc86182247b32e3c8f1aff&id=9ZwrSuDeAbLIAZvW33NN28ZPkqL4M3aeMfMTV%2BWQ1nD4zfQOCOJu4flzgm1cCgvhLrlRHfnjthiNdHBpeIRv9FGMiHFaDDVY15VMae%2BItHqliE0my1%2FggutPkF3tgFpu%2Fmp1DPWu4pU7xUhlyvNhFODmC7KNxCLY5o2oG1tluKqs8RPYe4vjGey7LTY9ca7FAImiW9ZEn3HeSom5iFRG0m1cBiiu4fKoe%2FJKn2epAu1rfJyLGfo7h6S%2B%2B7cXR%2B0RwTlCm3Wd4mc3LNJTyX2UV9OZo8cKwgulTDTTt4GIUL1XDn56SJ%2Bx1nMi622C6gVBy6zB94uNyMowHkUoy4r0cyMw8%2B19V6lgPflQqDp%2Bq1KKUvxGt2%2F0R7lS469ZRWxKny5RtbIXh%2F%2FwZVX1hcWoYA%3D%3D&name=p%2FKF2eoccgvVD9Z9koAEDCCdMmV2tfbrZM72WV44ieyNFytiZ3GKnmUfvBwI%2B06p1Dneztw2XiEb1ydQ6igYazpKtANJN8Zr2r%2Fjy%2FG8wQ8hI5NaFc6dP8MGjhTVrPxk
 原🔊原述,https://mgev.188766.xyz/play?migutoken=42e899c6a983c9754dc48d449ca7470b&id=kJEX8WMcx2LxoMuhs2skIY4t3cIRpeq%2FmQ8hDXfmidjrPTbK2ElHG7EbmRF6SaGi2wDfnukFCOyBKzxwTVBVckTeeO1SFejngo2I%2FJy8B2UlWdDxnHDzgCnxlzLlFqXzNaAgozk%2FE399y1OYlG7rwNb52jz5MybvZc4NNsMC8vwJh8vkoZxHigUehPYxP%2FAZdzo8bITHu3DbPaEv4WjGjB9xmcbTtel5nrqu3y7%2F8sc9BGxbi1%2FsFPt2APH8EJ%2F7Co2DerCoxktcr3hS%2F%2BxYk1Eyzaz9E%2FuXfjsjSm3nzemkGmtA16%2Bw2E7AcPFvi%2BXzxXwZmfglWRqdAGz9Wf6p1kGSmqycSMDD%2BAmICJrVVd5nCCn4%2FSxzpKvbDfVtCsMADYGb1UPRuGe51%2BAvBNsrZbG5ltYFAg0Lo9v%2F7kjq4Jf4FEe%2FXP1SihqbrVczjcDqjyF5wA%2FpBrpXWkMLdB814A%3D%3D&name=ATCrfpfNi7673q%2B0fQOCLcAD3X%2F5TiKRThgCttKr0PH%2FeAyUd%2FTJXYv8%2Bq3UOXGbPKT%2BK8j%2BwzBbKbhe4ssvKVdMkAmMo%2BirFxowN8ZoEfjo%2FwyhRnlzsPgTTUKsy6vGNcBVsvCuBU17NkJKq0ao2w%3D%3D
 
-G1,#genre#
+F1,#genre#
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=2aaa8ae59f5c421b34ad0565d30d38a7&id=nRxcCJH4sjNVypz1kZw9Xge11OuTG84O1VZxZnJ%2BtGRwaXzi98C2TZaPYERDW2TkQsuYMag0OlElphNJqMHxpqVlUEStw7QPFIYv82iLZ4CNpq%2FjOs2gP4wxKA%2BjAOp%2FjuD1wW5Avnn9r9CIEh1zxWTyT06TwG9%2BQPnXsmoTWupWkCO5%2B6BbtVwYlYxU365YGGpQKTbf2iAyztDNgBwWuQ%3D%3D&name=q7A0sAD4g0lFXHLpRAO%2F7fU1RiB8u8sUeXtz6v0i1jwphwAYA2pt0Th2a9MjWF67SlWrB8DBnlanfKm8D%2BEwUeG6u1CJlyQgYlffm7EZxIeZFpoZ14F%2FwxBtoErbjb%2FO
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=5d0cbe9b048c8eff67a98088507f75b9&id=k1Hp1zhLwED2jaR3spicgWb%2FYwmFTRP07x%2Fjoq0kPTtclzEJkX5qKZLQAso%2B7cHeSTjTCUi5tlfpnp8%2B4VzjLqVzLOGf2OXABelWos8DQBRLBcJWsFaKMVOBNIbvD8NwsLR8u438zI0Bnb0p8fcPTDGpG7c2kv0qvB090gyQ1ZdL2jI%2BUnJMM9LTNZrTv30DgFeVf%2BcvphKS5891VZ5rY2rM3UBHT0Z8oH6qt7yM55%2Bp8ZPQjGm9wh7xLUirrOyBVcxgPrj82h4oRvmp2LQBeUFILyQoaipd4Cq4d%2FrJ%2FaAcT23ZA%2FJ0gR7YwdtMmiNaMQWr1%2BaydbmMmvOP6itKKcSSjT7jpZy1uWIYMfbduUnB%2BItqWxJQ84Pg7dZGCUvnMo0IQQGI6UJEJTY9xQ2qbA%3D%3D&name=sh0XvR%2FlaUBy8V%2FGV0rjdlBnRv1g7Pw%2BQyBhDtXDow3KIA6AR0HyKNFwT2Wsjja%2FkgBgpLMi2KtnUiTB0AlQbvJZISIz1NbQGjN7r0XmR%2FJv87oFcTTaIKkW41A%2FgUM7
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=6259ca911aed17ff86030a964ca48f2b&id=hgb9MaXflk6pDG6vEGS%2B%2BNRik7oLaIEoh5DLVS8Gq4OwQX7Ms86PfGrgxEcg36%2FuObFo4DI4BVztOAVYI9V3aw8p1GZcJSLSthsQhkclFg5mh5v2qPAzMi2mcAuLLi8hhw7pPzlbaYDRDZKjiYWrOF%2BzcCRlsCM7bBa0fJMeVqxa2sE2Ps80r7874jDSFamzbH%2Fjxn03WfOB5gYbsp16v7wqgCJ9pLfk1rdwqrRMtnU37CUylQL4%2Be%2FIMQoxpgsRsqXppTn6DcQaJSGEMqwjYOz83OA1zBmZpYi2wouT6R8dkBTJNVgQeeRRMTDx3xmpN1PHZdBDs6R7AiSJgLqUavvenYbwCfyIkPvrTHGNKlQah%2FzIC0qoSZLwHeIQWjRnZsDQgs%2BrHQielxY9wDyXEA%3D%3D&name=O7UqsGhrPAIUxodpYTXfudAGMKofQN1BwDCiIV5IioaB6WyzdRUpVkLAqzqASdSzgZZYjk3ZETOqfG7hGu6uMiqjyZRPEmVX3tTtzy4Y7d8bkCCV9%2BWiFKo8HxIKVsRj
@@ -214,4 +200,14 @@ G1,#genre#
 国🔊4k王宇评,https://migu.188766.xyz/play?migutoken=53d9fa0426ef9c2e79f727baadece39f&id=LejqznRGGiY%2FNU7Yg0lfuDXMUqfDCvBNIqNfJihvP1liHhEKcnv5I40bt%2Bd1DVXZ8%2FDQxga%2FklKohlOTMTV9DwjjtC8U77GSqdbLe7%2BfWltete%2Fg%2FrKj7ysgQ9FtdDcJLr6zxPy0HdL3rjSSKS8H7sCOK%2FlTS9NR6Qtq6YFmzvJJlbnK2YGE35sQAMVbISp3qiFAIktkxDcczQLn6%2FKc2sHV5tgUjPKNLoUDw8UFxobG6XH8IfSdAb6BvbnzSN1qyL4kxr4m5GEP5MzL2JG4SATg%2FGf3delgzcqTZ9MsZca90ZvyPs6g62EzDd0PcziyQzBs%2B%2FPFZUVQBpMR7l%2BLTBiG8TeeuIrAsbEc%2BHwlNJaQnohzQJ8OfN7fhE%2BVWUHbbE7eR6tkRlqsjKK36coNcfZ%2BVbHu8JXLGqguJ5HyVyI%3D&name=zFypxWkdvGxYT3Hf4dFtXupLnZJwXGkcDzYW9HOFAaHkiCoj%2BoMIRzwqtIRsKtMBASsqq%2BA5SLaR2jpwY%2BkfE1qc6WK8JkfVliocU3dIn%2BlSPnTz%2FJp74vaWYNFD60wSP4UuYjxMHUA89mwpb8kPiA%3D%3D
 原🔊赛场原声,https://migu.188766.xyz/play?migutoken=3607ad6f3624dba01890520c323450fa&id=%2BxjDGzG71YG7c5sRaZz8R5jOOjSt9tGIxpWsLY6KVhp8fRTJ0xXCYi8g%2BHOpSappzKvlA5P8AMC4%2FQGHRD7kZ5y2t%2Bq%2BOdw21cxeZ8PkESHBv16LC1GTE3pR926QilT88JWG4%2Fl0ajmmMTwXJVMOjjx6IMPGuB%2B9c%2F%2FO9yT4wfppS%2FIz3be3LbektV4ceJnxQr%2B0WDNolPAguOKSM78X6A%3D%3D&name=jAO9Xs6WC4gnwuNVCXQ%2B9deFA29oSG%2FUcu0lYp4zNdOR9EH3iPuvn4LmygNnLLGMvqdlbd8My67QJnNP%2Bg4JbbrKJTg2T%2Brt42E2PLL1X8zFzujxJt0iaAGHaEEPA3fi
 原🔊原声英文,https://migu.188766.xyz/play?migutoken=b37fcc5d47caf1828914911a9034a96e&id=Avz207R%2B1QLyl0p2HprzLIv7DpWkOvGfx78pQiMXJeIQ%2F%2FUFTBKLmyfj5YZp21u33bzkZKFvEEvcxhj1Hcile7I30p%2FtkWcegjpBcI4ksmQwPwD5e3mjjbRcAbqTyIU7pQwwItg2Cni9zzQPUzMg5PgaenZ%2Fti%2FBVOp32SjJGFyN06IIPM2UQFQZT%2BzhRshsXUWWL2vKw0fNhdTBRHzquVH%2B4OmtztyeyPSGLAsaPKYJACvQ2R5tOSmrhP3NvoW%2BeIJkmU%2FHQWcWvKsv6MnR4vh9BSNzQR9%2BDqHCD8vH8VaVrr26z2j6XtyRY5mYLpQPTTJ666bvlkLTrEc0ivhPaSXkL5Eqj9n6O2eVtUrHvSQ%3D&name=UWxcfyAJ4sV%2BFBIR7VTVB%2FzjCAVZF6OHd%2FdI6ni59Uof7IB6EMjBdJNIuDNZJ5vCjFAZ2tQo%2FzawMP9vDjteS9UL2aNshlSLnSfY%2Fjuu5EYKjKNz4%2FEB3dU8Wj576l6a
+
+G1,#genre#
+天映经典闽玛,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+天映经典闽玛,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
+天映频国,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+天映频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
+无线明珠频英,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+无线明珠频英,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
+无线娱乐频粤,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
+无线娱乐频粤,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
 
