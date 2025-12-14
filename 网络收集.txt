@@ -9,9 +9,8 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线新闻频流,http://tl.061833.xyz/tl/null-11
 无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 ELta旅游4Gtv,http://210.61.15.55:50007/4gtv-live120/index.m3u8?proxy=true
@@ -166,7 +165,6 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/\ST\tvbS新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\Mt\有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\ST\有线新闻
 中天新闻欣赏,http://rihou.cc:555/tv/HkI中天新闻
-中天新闻欣赏,http://rihou.cc:555/tv/SZl中天新闻
 
 D1,#genre#
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
