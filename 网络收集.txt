@@ -9,9 +9,7 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
+无线新闻频流,http://tl.061833.xyz/tl/null-11
 
 B1,#genre#
 ELta旅游4Gtv,http://210.61.15.55:50007/4gtv-live120/index.m3u8?proxy=true
@@ -97,7 +95,6 @@ MTVLive4Gtv,http://210.61.15.55:50007/4gtv-live025/index.m3u8?proxy=true
 闽镜新闻4Gtv,http://210.61.15.55:50007/4gtv-4gtv075/index.m3u8?proxy=true
 闽镜新闻4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv075/index.m3u8?proxy=true
 闽南戏剧4Gtv,http://210.61.15.55:50007/li-litv-longturn22/index.m3u8?proxy=true
-闽南戏剧4Gtv,http://210.61.15.55:50007/litv-longturn22/index.m3u8?proxy=true
 民视第一4Gtv,http://210.61.15.55:50007/4gtv-4gtv003/index.m3u8?proxy=true
 民视第一4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv003/index.m3u8?proxy=true
 民视旅游4Gtv,http://210.61.15.55:50007/li-litv-ftv07/index.m3u8?proxy=true
@@ -155,6 +152,7 @@ MTVLive4Gtv,http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
 采昌影剧4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv049/index.m3u8?proxy=true
 大爱贰高4Gtv,http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
 大爱壹高4Gtv,http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
+大新闻大爆卦,http://220.135.64.124:5050/ofiii201/index.m3u8?proxy=true
 东森财经4Gtv,http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
 东森财经4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv153/index.m3u8?proxy=true
 东森购贰4Gtv,http://220.135.64.124:5050/4gtv-4gtv103/index.m3u8?proxy=true
@@ -170,6 +168,7 @@ MTVLive4Gtv,http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
 非凡新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
 公视戏剧4Gtv,http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
 公视戏剧4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
+华视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
@@ -230,6 +229,7 @@ MTVLive4Gtv,http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
 民视第一4Gtv,http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
 民视第一4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv003/index.m3u8?proxy=true
 民视旅游4Gtv,http://220.135.64.124:5050/li-litv-ftv07/index.m3u8?proxy=true
+民视旅游4Gtv,http://220.135.64.124:5050/litv-ftv07/index.m3u8?proxy=true
 民视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
 民视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv155/index.m3u8?proxy=true
 民视闽南4Gtv,http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
@@ -264,6 +264,7 @@ tvbs综艺4Gtv,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 中视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
 中视闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
 中视闽南4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
+中视新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 中天新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
