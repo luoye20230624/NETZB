@@ -17,9 +17,11 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 B1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
 AstroMTV,http://zb.hpc.tw/smtv.php?id=AstroMTV
+ELta影剧频特,http://zb.hpc.tw/smtv.php?id=eltayingju_twn
 EYE-旅游频特,http://zb.hpc.tw/smtv.php?id=eyetvtravel_twn
 EYE-戏剧频特,http://zb.hpc.tw/smtv.php?id=eyetvxiju_twn
 HitsMovie,http://zb.hpc.tw/smtv.php?id=Hitsmovie
+MoviesNow,http://zb.hpc.tw/smtv.php?id=moviesnow_raj
 StarMovies,http://zb.hpc.tw/smtv.php?id=starmovies_raj
 StarmaaMovies,http://zb.hpc.tw/smtv.php?id=starmaamovies_raj
 TVB星河台XingHe,http://zb.hpc.tw/smtv.php?id=Xinhe
@@ -31,6 +33,7 @@ TVBAsia,http://zb.hpc.tw/smtv.php?id=Tvbasia
 大爱贰台频特,http://zb.hpc.tw/smtv.php?id=daai2_twn
 大爱壹台频特,http://zb.hpc.tw/smtv.php?id=daai_twn
 东森财经频特,http://zb.hpc.tw/smtv.php?id=ettvcaijing_twn
+东森超视频特,http://zb.hpc.tw/smtv.php?id=ettvsuper
 东森电影频特,http://zb.hpc.tw/smtv.php?id=ettvmovie
 东森戏剧频特,http://zb.hpc.tw/smtv.php?id=ettvdrama
 东森新闻频特,http://zb.hpc.tw/smtv.php?id=ettvnews
