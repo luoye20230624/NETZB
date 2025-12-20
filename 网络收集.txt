@@ -9,6 +9,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
@@ -349,15 +353,6 @@ tvbs综艺4Gtv,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
 E1,#genre#
-EYE-旅游斯特,https://smt.go-iptv.ggff.net/smart.php?id=eyetvtravel_twn&token=Goiptv
-StarMovies,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
-StarmaaMovies,https://smt.go-iptv.ggff.net/smart.php?id=starmaamovies_raj&token=Goiptv
-八大综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
-无线新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=inews_twn&token=Goiptv
-无线娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=Tvbentertainment&token=Goiptv
-亚洲旅游斯特,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
-
-F1,#genre#
 Now新闻欣赏,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻欣赏,http://rihou.cc:555/tv/\Mt\Now新闻
 Now星影粤赏,http://rihou.cc:555/tv/BxlNow星影
@@ -372,6 +367,12 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/\ST\tvbS新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\FY\有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\Mt\有线新闻
 中天新闻欣赏,http://rihou.cc:555/tv/HkI中天新闻
+
+F1,#genre#
+StarMovies,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
+StarmaaMovies,https://smt.go-iptv.ggff.net/smart.php?id=starmaamovies_raj&token=Goiptv
+八大综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
+无线新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=inews_twn&token=Goiptv
 
 G1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
