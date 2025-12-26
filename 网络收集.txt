@@ -9,8 +9,8 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
 
 B1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
@@ -353,21 +353,6 @@ tvbs综艺4Gtv,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
 E1,#genre#
-EYE-戏剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=56
-凤凰中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=27
-美亚电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=30
-民视影剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=53
-民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
-无线1_美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=25
-无线翡翠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=34
-无线翡剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=33
-无线明珠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=29
-无线千禧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=22
-无线娱乐FYtv,http://iptv.4666888.xyz/iptv2A.php?id=36
-有线新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=31
-中视经典FYtv,http://iptv.4666888.xyz/iptv2A.php?id=54
-
-F1,#genre#
 Now新闻欣赏,http://rihou.cc:555/tv/\Mt\Now新闻
 Now星影粤赏,http://rihou.cc:555/tv/BxlNow星影
 凤凰中文欣赏,http://rihou.cc:555/tv/\Pd\凤凰中文
@@ -380,33 +365,32 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/\ST\tvbS新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\FY\有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\Mt\有线新闻
 
-G1,#genre#
-TVB星河台XingHe,https://smt.go-iptv.ggff.net/smart.php?id=Xinhe&token=Goiptv
-TVBAsia,https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
-八大戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=badadrama&token=Goiptv
+F1,#genre#
 八大娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
 凤凰中文斯特,https://smt.go-iptv.ggff.net/smart.php?id=phoenixtv_hd&token=Goiptv
 凤凰资讯斯特,https://smt.go-iptv.ggff.net/smart.php?id=phoenixinfo_hd&token=Goiptv
 公视台语斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctv2_twn&token=Goiptv
-华视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctshd_twn&token=Goiptv
-龙华偶像斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaidol_twn&token=Goiptv
-龙华戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaxiju_twn&token=Goiptv
 美亚电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 民视第一斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuajingdian_twn&token=Goiptv
-民视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvnew_taiwan&token=Goiptv
-三立都会斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlidouhui&token=Goiptv
-三立闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlitaiwan&token=Goiptv
-tvNMovie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
-tvbs新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=tvbs_n&token=Goiptv
 无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
 无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
 无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=jade_twn&token=Goiptv
 无线华丽粤特,https://smt.go-iptv.ggff.net/smart.php?id=Wlt&token=Goiptv
 无线明珠斯特,https://smt.go-iptv.ggff.net/smart.php?id=pearl_twn&token=Goiptv
-中天新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
-中天亚洲斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctiasia_twn&token=Goiptv
-中天娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
 中天综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
+
+G1,#genre#
+凤凰中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=27
+tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
+纬来电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=40
+无线1_美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=25
+无线J1美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=26
+无线翡剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=33
+无线华丽FYtv,http://iptv.4666888.xyz/iptv2A.php?id=28
+无线明珠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=29
+无线千禧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=22
+无线娱乐FYtv,http://iptv.4666888.xyz/iptv2A.php?id=36
+有线新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=31
 
 H1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
