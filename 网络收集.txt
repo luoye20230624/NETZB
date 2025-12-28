@@ -9,17 +9,15 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 B1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
 AstroMTV,http://zb.hpc.tw/smtv.php?id=AstroMTV
+ELta影剧频特,http://zb.hpc.tw/smtv.php?id=eltayingju_twn
 EYE-旅游频特,http://zb.hpc.tw/smtv.php?id=eyetvtravel_twn
 EYE-戏剧频特,http://zb.hpc.tw/smtv.php?id=eyetvxiju_twn
 HitsMovie,http://zb.hpc.tw/smtv.php?id=Hitsmovie
+MoviesNow,http://zb.hpc.tw/smtv.php?id=moviesnow_raj
 StarMovies,http://zb.hpc.tw/smtv.php?id=starmovies_raj
 StarmaaMovies,http://zb.hpc.tw/smtv.php?id=starmaamovies_raj
 TVB星河台XingHe,http://zb.hpc.tw/smtv.php?id=Xinhe
@@ -444,8 +442,10 @@ EYE-戏剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=56
 民视影剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
 tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
+纬来电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=40
 无线1_美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=25
 无线J1美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=26
+无线翡翠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=34
 无线翡剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=33
 无线华丽FYtv,http://iptv.4666888.xyz/iptv2A.php?id=28
 无线明珠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=29
