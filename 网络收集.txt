@@ -538,10 +538,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 F1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
