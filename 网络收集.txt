@@ -538,6 +538,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 F1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
@@ -589,10 +593,8 @@ TVBAsia,http://zb.hpc.tw/smtv.php?id=Tvbasia
 tvNMovie,http://zb.hpc.tw/smtv.php?id=Tvnmovie
 tvbs新闻频特,http://zb.hpc.tw/smtv.php?id=tvbs_n
 纬来电影频特,http://zb.hpc.tw/smtv.php?id=videolandmovie
-纬来精彩频特,http://zb.hpc.tw/smtv.php?id=videolandspecial_twn
 纬来日本频特,http://zb.hpc.tw/smtv.php?id=videolandjapan
 纬来体育频特,http://zb.hpc.tw/smtv.php?id=videolandsport
-纬来育乐频特,http://zb.hpc.tw/smtv.php?id=videolandyule
 纬来综合频特,http://zb.hpc.tw/smtv.php?id=videolandzonghe
 无线翡翠频特,http://zb.hpc.tw/smtv.php?id=Jade_xue
 无线翡翠频特,http://zb.hpc.tw/smtv.php?id=Tvbjade
@@ -828,8 +830,6 @@ I1,#genre#
 EYE-戏剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=45
 美亚电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=30
-民视闽南FYtv,http://iptv.4666888.xyz/iptv2A.php?id=55
-民视影剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
 无线1_美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=25
 无线J1美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=26
@@ -859,8 +859,10 @@ TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
