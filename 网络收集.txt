@@ -526,7 +526,6 @@ TVBS,http://nmk.ioapk.com:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
 E1,#genre#
 AXN电影,http://free.cnlive.club/channel/n4e27c899.m3u8?q=111.170.171.148
 ELta影剧,http://free.cnlive.club/channel/n2109392b.m3u8?q=111.170.171.148
-EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8?q=111.170.171.148
 EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8?q=111.170.171.148
 八大第一,http://free.cnlive.club/channel/2733018a.m3u8?q=111.170.171.148
 八大戏剧,http://free.cnlive.club/channel/26d54426.m3u8?q=111.170.171.148
@@ -534,20 +533,15 @@ EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8?q=111.170.171.148
 八大综合,http://free.cnlive.club/channel/27420c52.m3u8?q=111.170.171.148
 大爱贰台,http://free.cnlive.club/channel/46f0bf6e.m3u8?q=111.170.171.148
 大爱壹台,http://free.cnlive.club/channel/46f9ba85.m3u8?q=111.170.171.148
-东森财经,http://free.cnlive.club/channel/209f9e70.m3u8?q=111.170.171.148
 东森超视,http://free.cnlive.club/channel/4210df69.m3u8?q=111.170.171.148
 东森电影,http://free.cnlive.club/channel/n5502f4.m3u8?q=111.170.171.148
 东森戏剧,http://free.cnlive.club/channel/n9e78d0.m3u8?q=111.170.171.148
 东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
 东森幼幼,http://free.cnlive.club/channel/naa6d18.m3u8?q=111.170.171.148
 东森综合,http://free.cnlive.club/channel/n31b0a4.m3u8?q=111.170.171.148
-非凡新闻,http://free.cnlive.club/channel/6302a884.m3u8?q=111.170.171.148
 凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8?q=111.170.171.148
-凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8?q=111.170.171.148
 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8?q=111.170.171.148
 公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8?q=111.170.171.148
-华视闽南,http://free.cnlive.club/channel/560bcbee.m3u8?q=111.170.171.148
-寰宇财经,http://free.cnlive.club/channel/n4332074a.m3u8?q=111.170.171.148
 寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
 靖天,http://free.cnlive.club/channel/63189371.m3u8?q=111.170.171.148
 靖天卡通,http://free.cnlive.club/channel/63181d62.m3u8?q=111.170.171.148
@@ -565,19 +559,15 @@ EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8?q=111.170.171.148
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8?q=111.170.171.148
-纬来日本,http://free.cnlive.club/channel/58197296.m3u8?q=111.170.171.148
 纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8?q=111.170.171.148
 纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
 纬来综合,http://free.cnlive.club/channel/581c693b.m3u8?q=111.170.171.148
-无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8?q=111.170.171.148
 无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8?q=111.170.171.148
 无线明珠,http://free.cnlive.club/channel/n75ab7db0.m3u8?q=111.170.171.148
-无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
 无线娱乐,http://free.cnlive.club/channel/nac85e88.m3u8?q=111.170.171.148
 亚洲旅游,http://free.cnlive.club/channel/852ca6f.m3u8?q=111.170.171.148
 有线新闻,http://free.cnlive.club/channel/7289243e.m3u8?q=111.170.171.148
 中视经典,http://free.cnlive.club/channel/4291e438.m3u8?q=111.170.171.148
-中视闽南,http://free.cnlive.club/channel/dc53f4d.m3u8?q=111.170.171.148
 中视新闻,http://free.cnlive.club/channel/428f1dfa.m3u8?q=111.170.171.148
 中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148
 中天亚洲,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
@@ -595,6 +585,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 G1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
@@ -888,7 +882,6 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/\ST\tvbS新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\Mt\有线新闻
 
 K1,#genre#
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
@@ -931,13 +924,4 @@ M1,#genre#
 国🔊4k王宇评,https://migu.188766.xyz/play?migutoken=53d9fa0426ef9c2e79f727baadece39f&id=LejqznRGGiY%2FNU7Yg0lfuDXMUqfDCvBNIqNfJihvP1liHhEKcnv5I40bt%2Bd1DVXZ8%2FDQxga%2FklKohlOTMTV9DwjjtC8U77GSqdbLe7%2BfWltete%2Fg%2FrKj7ysgQ9FtdDcJLr6zxPy0HdL3rjSSKS8H7sCOK%2FlTS9NR6Qtq6YFmzvJJlbnK2YGE35sQAMVbISp3qiFAIktkxDcczQLn6%2FKc2sHV5tgUjPKNLoUDw8UFxobG6XH8IfSdAb6BvbnzSN1qyL4kxr4m5GEP5MzL2JG4SATg%2FGf3delgzcqTZ9MsZca90ZvyPs6g62EzDd0PcziyQzBs%2B%2FPFZUVQBpMR7l%2BLTBiG8TeeuIrAsbEc%2BHwlNJaQnohzQJ8OfN7fhE%2BVWUHbbE7eR6tkRlqsjKK36coNcfZ%2BVbHu8JXLGqguJ5HyVyI%3D&name=zFypxWkdvGxYT3Hf4dFtXupLnZJwXGkcDzYW9HOFAaHkiCoj%2BoMIRzwqtIRsKtMBASsqq%2BA5SLaR2jpwY%2BkfE1qc6WK8JkfVliocU3dIn%2BlSPnTz%2FJp74vaWYNFD60wSP4UuYjxMHUA89mwpb8kPiA%3D%3D
 原🔊赛场原声,https://migu.188766.xyz/play?migutoken=3607ad6f3624dba01890520c323450fa&id=%2BxjDGzG71YG7c5sRaZz8R5jOOjSt9tGIxpWsLY6KVhp8fRTJ0xXCYi8g%2BHOpSappzKvlA5P8AMC4%2FQGHRD7kZ5y2t%2Bq%2BOdw21cxeZ8PkESHBv16LC1GTE3pR926QilT88JWG4%2Fl0ajmmMTwXJVMOjjx6IMPGuB%2B9c%2F%2FO9yT4wfppS%2FIz3be3LbektV4ceJnxQr%2B0WDNolPAguOKSM78X6A%3D%3D&name=jAO9Xs6WC4gnwuNVCXQ%2B9deFA29oSG%2FUcu0lYp4zNdOR9EH3iPuvn4LmygNnLLGMvqdlbd8My67QJnNP%2Bg4JbbrKJTg2T%2Brt42E2PLL1X8zFzujxJt0iaAGHaEEPA3fi
 原🔊原声英文,https://migu.188766.xyz/play?migutoken=b37fcc5d47caf1828914911a9034a96e&id=Avz207R%2B1QLyl0p2HprzLIv7DpWkOvGfx78pQiMXJeIQ%2F%2FUFTBKLmyfj5YZp21u33bzkZKFvEEvcxhj1Hcile7I30p%2FtkWcegjpBcI4ksmQwPwD5e3mjjbRcAbqTyIU7pQwwItg2Cni9zzQPUzMg5PgaenZ%2Fti%2FBVOp32SjJGFyN06IIPM2UQFQZT%2BzhRshsXUWWL2vKw0fNhdTBRHzquVH%2B4OmtztyeyPSGLAsaPKYJACvQ2R5tOSmrhP3NvoW%2BeIJkmU%2FHQWcWvKsv6MnR4vh9BSNzQR9%2BDqHCD8vH8VaVrr26z2j6XtyRY5mYLpQPTTJ666bvlkLTrEc0ivhPaSXkL5Eqj9n6O2eVtUrHvSQ%3D&name=UWxcfyAJ4sV%2BFBIR7VTVB%2FzjCAVZF6OHd%2FdI6ni59Uof7IB6EMjBdJNIuDNZJ5vCjFAZ2tQo%2FzawMP9vDjteS9UL2aNshlSLnSfY%2Fjuu5EYKjKNz4%2FEB3dU8Wj576l6a
-
-N1,#genre#
-美亚电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=30
-民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
-无线J1美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=26
-无线翡翠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=34
-无线翡剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=33
-无线明珠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=29
-无线娱乐FYtv,http://iptv.4666888.xyz/iptv2A.php?id=36
 
