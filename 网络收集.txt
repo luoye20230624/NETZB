@@ -521,6 +521,68 @@ TVBS,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
 E1,#genre#
+AXN电影,http://free.cnlive.club/channel/n4e27c899.m3u8?q=111.170.171.148
+ELta影剧,http://free.cnlive.club/channel/n2109392b.m3u8?q=111.170.171.148
+EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8?q=111.170.171.148
+EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8?q=111.170.171.148
+八大第一,http://free.cnlive.club/channel/2733018a.m3u8?q=111.170.171.148
+八大戏剧,http://free.cnlive.club/channel/26d54426.m3u8?q=111.170.171.148
+八大娱乐,http://free.cnlive.club/channel/26b73cff.m3u8?q=111.170.171.148
+八大综合,http://free.cnlive.club/channel/27420c52.m3u8?q=111.170.171.148
+大爱贰台,http://free.cnlive.club/channel/46f0bf6e.m3u8?q=111.170.171.148
+大爱壹台,http://free.cnlive.club/channel/46f9ba85.m3u8?q=111.170.171.148
+东森财经,http://free.cnlive.club/channel/209f9e70.m3u8?q=111.170.171.148
+东森超视,http://free.cnlive.club/channel/4210df69.m3u8?q=111.170.171.148
+东森电影,http://free.cnlive.club/channel/n5502f4.m3u8?q=111.170.171.148
+东森戏剧,http://free.cnlive.club/channel/n9e78d0.m3u8?q=111.170.171.148
+东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8?q=111.170.171.148
+东森幼幼,http://free.cnlive.club/channel/naa6d18.m3u8?q=111.170.171.148
+东森综合,http://free.cnlive.club/channel/n31b0a4.m3u8?q=111.170.171.148
+凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8?q=111.170.171.148
+凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8?q=111.170.171.148
+凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8?q=111.170.171.148
+公视闽南,http://free.cnlive.club/channel/3b838b0c.m3u8?q=111.170.171.148
+公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8?q=111.170.171.148
+寰宇财经,http://free.cnlive.club/channel/n4332074a.m3u8?q=111.170.171.148
+寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
+靖天,http://free.cnlive.club/channel/63189371.m3u8?q=111.170.171.148
+靖天卡通,http://free.cnlive.club/channel/63181d62.m3u8?q=111.170.171.148
+龙华电影,http://free.cnlive.club/channel/66c77727.m3u8?q=111.170.171.148
+龙华经典,http://free.cnlive.club/channel/66c892d4.m3u8?q=111.170.171.148
+龙华偶像,http://free.cnlive.club/channel/66c2f564.m3u8?q=111.170.171.148
+龙华戏剧,http://free.cnlive.club/channel/66c51883.m3u8?q=111.170.171.148
+龙华洋片,http://free.cnlive.club/channel/66c68ce7.m3u8?q=111.170.171.148
+龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8?q=111.170.171.148
+美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8?q=111.170.171.148
+民视闽南,http://free.cnlive.club/channel/n4d0434cf.m3u8?q=111.170.171.148
+民视台湾,http://free.cnlive.club/channel/n4bbbe8c9.m3u8?q=111.170.171.148
+民视新闻,http://free.cnlive.club/channel/n4b747ee6.m3u8?q=111.170.171.148
+三立都会,http://free.cnlive.club/channel/72452bb.m3u8?q=111.170.171.148
+三立综合,http://free.cnlive.club/channel/6e155cc.m3u8?q=111.170.171.148
+台视新闻,http://free.cnlive.club/channel/452d9d57.m3u8?q=111.170.171.148
+天映,http://free.cnlive.club/channel/5150b0a1.m3u8?q=111.170.171.148
+天映,http://free.cnlive.club/channel/n7e466c41.m3u8?q=111.170.171.148
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
+tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8?q=111.170.171.148
+纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
+纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8?q=111.170.171.148
+纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8?q=111.170.171.148
+纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
+纬来综合,http://free.cnlive.club/channel/581c693b.m3u8?q=111.170.171.148
+无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8?q=111.170.171.148
+无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8?q=111.170.171.148
+无线明珠,http://free.cnlive.club/channel/n75ab7db0.m3u8?q=111.170.171.148
+无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
+无线娱乐,http://free.cnlive.club/channel/nac85e88.m3u8?q=111.170.171.148
+亚洲旅游,http://free.cnlive.club/channel/852ca6f.m3u8?q=111.170.171.148
+有线新闻,http://free.cnlive.club/channel/7289243e.m3u8?q=111.170.171.148
+中视经典,http://free.cnlive.club/channel/4291e438.m3u8?q=111.170.171.148
+中视闽南,http://free.cnlive.club/channel/dc53f4d.m3u8?q=111.170.171.148
+中视新闻,http://free.cnlive.club/channel/428f1dfa.m3u8?q=111.170.171.148
+中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148
+中天亚洲,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
+
+F1,#genre#
 AXN电影频流,http://tl.061833.xyz/tl/axn
 美亚电影频流,http://tl.061833.xyz/tl/null-5
 rock综艺频流,http://tl.061833.xyz/tl/rock
@@ -531,9 +593,11 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
 
-F1,#genre#
+G1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
 AstroMTV,http://zb.hpc.tw/smtv.php?id=AstroMTV
 EYE-旅游频特,http://zb.hpc.tw/smtv.php?id=eyetvtravel_twn
@@ -602,7 +666,7 @@ tvbs新闻频特,http://zb.hpc.tw/smtv.php?id=tvbs_n
 中天娱乐频特,http://zb.hpc.tw/smtv.php?id=ctient
 中天综合频特,http://zb.hpc.tw/smtv.php?id=ctizhonghe
 
-G1,#genre#
+H1,#genre#
 AstroMTV,https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Goiptv
 StarMovies,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
 TVBAsia,https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
@@ -674,7 +738,7 @@ tvbs新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=tvbs_n&token=Goiptv
 中天娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
 中天综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
 
-H1,#genre#
+I1,#genre#
 ELta旅游4Gtv,http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
@@ -801,7 +865,7 @@ tvbs综艺4Gtv,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-I1,#genre#
+J1,#genre#
 Now新闻欣赏,http://rihou.cc:555/tv/\Mt\Now新闻
 天映闽赏,http://rihou.cc:555/tv/STll天映频道
 天映闽赏,http://rihou.cc:555/tv/\Stl\天映频道
@@ -812,13 +876,17 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/\ST\tvbS新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\FY\有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\Mt\有线新闻
 
-J1,#genre#
+K1,#genre#
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -829,15 +897,8 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 天映,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-
-K1,#genre#
-东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
-东森幼幼,http://free.cnlive.club/channel/naa6d18.m3u8?q=111.170.171.148
-凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8?q=111.170.171.148
-天映,http://free.cnlive.club/channel/5150b0a1.m3u8?q=111.170.171.148
-无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8?q=111.170.171.148
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148
 
 L1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
