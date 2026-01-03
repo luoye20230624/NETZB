@@ -10,7 +10,6 @@ TVBS精采台,http://210.61.15.55:50007/li-4gtv-4gtv067/index.m3u8?proxy=true
 TVBS台剧台,http://210.61.15.55:50007/4gtv-live088/index.m3u8?proxy=true
 TVBS,http://210.61.15.55:50007/4gtv-4gtv073/index.m3u8?proxy=true
 TVBS,http://210.61.15.55:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
-八大精彩4Gtv,http://210.61.15.55:50007/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv034/index.m3u8?proxy=true
 八大综艺4Gtv,http://210.61.15.55:50007/4gtv-4gtv039/index.m3u8?proxy=true
 八大综艺4Gtv,http://210.61.15.55:50007/li-4gtv-4gtv039/index.m3u8?proxy=true
@@ -410,7 +409,6 @@ TVBS台剧台,http://nmk.ioapk.com:5050/4gtv-live088/index.m3u8?proxy=true
 TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 TVBS综艺台,http://nmk.ioapk.com:5050/4gtv-live087/index.m3u8?proxy=true
 TVBS,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true
-TVBS,http://nmk.ioapk.com:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
 八大精彩,http://nmk.ioapk.com:5050/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩,http://nmk.ioapk.com:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
 八大综艺,http://nmk.ioapk.com:5050/4gtv-4gtv039/index.m3u8?proxy=true
@@ -438,7 +436,6 @@ TVBS,http://nmk.ioapk.com:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
 寰宇新闻,http://nmk.ioapk.com:5050/litv-longturn14/index.m3u8?proxy=true
 寰宇新闻,http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8?proxy=true
 寰宇新闻台湾台,http://nmk.ioapk.com:5050/4gtv-4gtv156/index.m3u8?proxy=true
-寰宇新闻台湾台,http://nmk.ioapk.com:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新闻台湾台,http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 经典电影台,http://nmk.ioapk.com:5050/4gtv-live021/index.m3u8?proxy=true
 镜电视新闻台,http://nmk.ioapk.com:5050/4gtv-4gtv075/index.m3u8?proxy=true
@@ -534,9 +531,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
 无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 F1,#genre#
@@ -774,7 +768,6 @@ ELta旅游4Gtv,http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
 民视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv155/index.m3u8?proxy=true
 民视闽南4Gtv,http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
 民视台湾4Gtv,http://220.135.64.124:5050/4gtv-4gtv001/index.m3u8?proxy=true
-民视台湾4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv001/index.m3u8?proxy=true
 民视新闻4Gtv,http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
 民视新闻4Gtv,http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
 民视影剧4Gtv,http://220.135.64.124:5050/li-litv-ftv09/index.m3u8?proxy=true
