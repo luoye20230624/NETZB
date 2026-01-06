@@ -648,6 +648,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 G1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
@@ -885,6 +889,8 @@ ELta旅游4Gtv,http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
 采昌影剧4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv049/index.m3u8?proxy=true
 大爱贰高4Gtv,http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
 大爱壹高4Gtv,http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
+大新闻大爆卦,http://220.135.64.124:5050/ofiii201/index.m3u8?proxy=true
+东森财经4Gtv,http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
 东森财经4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv153/index.m3u8?proxy=true
 东森购贰4Gtv,http://220.135.64.124:5050/4gtv-4gtv103/index.m3u8?proxy=true
 东森购贰4Gtv,http://220.135.64.124:5050/4gtv-live046/index.m3u8?proxy=true
@@ -1070,6 +1076,7 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/\ST\tvbS新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\Mt\有线新闻
 
 N1,#genre#
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
@@ -1084,7 +1091,6 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影2,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
 天映,http://php.jdshipin.com/smt.php?id=Celestial
@@ -1094,22 +1100,6 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 
 O1,#genre#
-东平新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
-巨野新闻6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
-平原新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
-齐河新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
-山东新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
-山东新闻7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-山东综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-兖州新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
-沂源新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
-禹城综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
-郓城新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
-长清新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
-淄博新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
-邹平新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
-
-P1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
 国🔊刘芳宇评,https://mgev.188766.xyz/play?migutoken=03a7553bbd517a9166a4573e378c95f1&id=wsavpGp5C%2Bcw4%2FMBCVANQRfxCvMyISt05IUzdRxA7%2BgBQfYPkoqKYDkoY%2B071kmdQebT6gFpijTVBR8XBWsQXxG3cRQnLySUOwad7f1vPEsVluSasTG87lUR0uufdbcwemNjtTNqnUzltxYUUM7lVjPV%2F%2BUsHjSTPtmOnwHq3oWphBl2TrmlJzflV5DqLdhh8h6jWlsr25NvzipVgE5fCTIFo%2BlUFqLQhbjpmDs3ZAbphPNB4HOauusyd1ZcA%2B7NehzWRBKNsE1P7h%2BwZ%2BZ0vZbFiadg%2B8ewUDUFXTiU6rbednJnPQlfIDhmq5SMkbte&name=oUmw%2B26XdV9NVx6eqObxBSuvWsR75QwuBCl4wYTIKCRtcIXUL2LpN1PIBykzmAzO15%2BUmLktH%2FoI0%2F04T8GuzscBh2alqRa1wV%2BQEVCqU9Y%3D
 国🔊鲁靖明评,https://mgev.188766.xyz/play?migutoken=144729cf9fe6da28869f032cb5bc6720&id=z%2FWLLP5v2m5qGWj4cuCeSiYz5tMVVXagWvJ7%2Bk3TCJ0sawAJF4dyywpapfDKQvgDaqz0XhhBgyB4WeucyQ6W1NP3JGW5vRucVd7s0LT017nMYGZZSOD8NZ3Fq5n8%2FWOtPK2jFxNvvEiGzlD35WhgHGeln0a7lSZieYbUsXv8l5aXFc%2Fkf4Pt52wAdDL84OG8qyzusmpNtKXnh0VGeyCf621g2W%2BrNzc9EKgGZL%2FIcq%2BTASpeYYqG3D8p64ymcw5Inxj1CUErgRq%2BNHzcF3DG85ndA3l1PnuC0etX82WMV%2BGv323cOdaU8EH%2FCC3WLzddkRsTlWmM%2FX7mZ9bLYEcRxP8tvo7aXYqeOU06g3hTxr0%3D&name=pIzcjS8oSGlfwC9XnBnTvhILJq0KXFgiiFXsXQ8kFn28JxZYwxKZDHKcgzRc9PJSUEQp3xVADreM94KW4OpBjGWPIoqGLtgjbaRJCW2SnLyEjFoMOzy8AgCWG%2FtfzI0t
@@ -1121,7 +1111,7 @@ P1,#genre#
 国🔊魏欣怡评,https://mgev.188766.xyz/play?migutoken=910c97e41dcc86182247b32e3c8f1aff&id=9ZwrSuDeAbLIAZvW33NN28ZPkqL4M3aeMfMTV%2BWQ1nD4zfQOCOJu4flzgm1cCgvhLrlRHfnjthiNdHBpeIRv9FGMiHFaDDVY15VMae%2BItHqliE0my1%2FggutPkF3tgFpu%2Fmp1DPWu4pU7xUhlyvNhFODmC7KNxCLY5o2oG1tluKqs8RPYe4vjGey7LTY9ca7FAImiW9ZEn3HeSom5iFRG0m1cBiiu4fKoe%2FJKn2epAu1rfJyLGfo7h6S%2B%2B7cXR%2B0RwTlCm3Wd4mc3LNJTyX2UV9OZo8cKwgulTDTTt4GIUL1XDn56SJ%2Bx1nMi622C6gVBy6zB94uNyMowHkUoy4r0cyMw8%2B19V6lgPflQqDp%2Bq1KKUvxGt2%2F0R7lS469ZRWxKny5RtbIXh%2F%2FwZVX1hcWoYA%3D%3D&name=p%2FKF2eoccgvVD9Z9koAEDCCdMmV2tfbrZM72WV44ieyNFytiZ3GKnmUfvBwI%2B06p1Dneztw2XiEb1ydQ6igYazpKtANJN8Zr2r%2Fjy%2FG8wQ8hI5NaFc6dP8MGjhTVrPxk
 原🔊原述,https://mgev.188766.xyz/play?migutoken=42e899c6a983c9754dc48d449ca7470b&id=kJEX8WMcx2LxoMuhs2skIY4t3cIRpeq%2FmQ8hDXfmidjrPTbK2ElHG7EbmRF6SaGi2wDfnukFCOyBKzxwTVBVckTeeO1SFejngo2I%2FJy8B2UlWdDxnHDzgCnxlzLlFqXzNaAgozk%2FE399y1OYlG7rwNb52jz5MybvZc4NNsMC8vwJh8vkoZxHigUehPYxP%2FAZdzo8bITHu3DbPaEv4WjGjB9xmcbTtel5nrqu3y7%2F8sc9BGxbi1%2FsFPt2APH8EJ%2F7Co2DerCoxktcr3hS%2F%2BxYk1Eyzaz9E%2FuXfjsjSm3nzemkGmtA16%2Bw2E7AcPFvi%2BXzxXwZmfglWRqdAGz9Wf6p1kGSmqycSMDD%2BAmICJrVVd5nCCn4%2FSxzpKvbDfVtCsMADYGb1UPRuGe51%2BAvBNsrZbG5ltYFAg0Lo9v%2F7kjq4Jf4FEe%2FXP1SihqbrVczjcDqjyF5wA%2FpBrpXWkMLdB814A%3D%3D&name=ATCrfpfNi7673q%2B0fQOCLcAD3X%2F5TiKRThgCttKr0PH%2FeAyUd%2FTJXYv8%2Bq3UOXGbPKT%2BK8j%2BwzBbKbhe4ssvKVdMkAmMo%2BirFxowN8ZoEfjo%2FwyhRnlzsPgTTUKsy6vGNcBVsvCuBU17NkJKq0ao2w%3D%3D
 
-Q1,#genre#
+P1,#genre#
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=2aaa8ae59f5c421b34ad0565d30d38a7&id=nRxcCJH4sjNVypz1kZw9Xge11OuTG84O1VZxZnJ%2BtGRwaXzi98C2TZaPYERDW2TkQsuYMag0OlElphNJqMHxpqVlUEStw7QPFIYv82iLZ4CNpq%2FjOs2gP4wxKA%2BjAOp%2FjuD1wW5Avnn9r9CIEh1zxWTyT06TwG9%2BQPnXsmoTWupWkCO5%2B6BbtVwYlYxU365YGGpQKTbf2iAyztDNgBwWuQ%3D%3D&name=q7A0sAD4g0lFXHLpRAO%2F7fU1RiB8u8sUeXtz6v0i1jwphwAYA2pt0Th2a9MjWF67SlWrB8DBnlanfKm8D%2BEwUeG6u1CJlyQgYlffm7EZxIeZFpoZ14F%2FwxBtoErbjb%2FO
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=5d0cbe9b048c8eff67a98088507f75b9&id=k1Hp1zhLwED2jaR3spicgWb%2FYwmFTRP07x%2Fjoq0kPTtclzEJkX5qKZLQAso%2B7cHeSTjTCUi5tlfpnp8%2B4VzjLqVzLOGf2OXABelWos8DQBRLBcJWsFaKMVOBNIbvD8NwsLR8u438zI0Bnb0p8fcPTDGpG7c2kv0qvB090gyQ1ZdL2jI%2BUnJMM9LTNZrTv30DgFeVf%2BcvphKS5891VZ5rY2rM3UBHT0Z8oH6qt7yM55%2Bp8ZPQjGm9wh7xLUirrOyBVcxgPrj82h4oRvmp2LQBeUFILyQoaipd4Cq4d%2FrJ%2FaAcT23ZA%2FJ0gR7YwdtMmiNaMQWr1%2BaydbmMmvOP6itKKcSSjT7jpZy1uWIYMfbduUnB%2BItqWxJQ84Pg7dZGCUvnMo0IQQGI6UJEJTY9xQ2qbA%3D%3D&name=sh0XvR%2FlaUBy8V%2FGV0rjdlBnRv1g7Pw%2BQyBhDtXDow3KIA6AR0HyKNFwT2Wsjja%2FkgBgpLMi2KtnUiTB0AlQbvJZISIz1NbQGjN7r0XmR%2FJv87oFcTTaIKkW41A%2FgUM7
 国🔊鲁靖明评,https://migu.188766.xyz/play?migutoken=6259ca911aed17ff86030a964ca48f2b&id=hgb9MaXflk6pDG6vEGS%2B%2BNRik7oLaIEoh5DLVS8Gq4OwQX7Ms86PfGrgxEcg36%2FuObFo4DI4BVztOAVYI9V3aw8p1GZcJSLSthsQhkclFg5mh5v2qPAzMi2mcAuLLi8hhw7pPzlbaYDRDZKjiYWrOF%2BzcCRlsCM7bBa0fJMeVqxa2sE2Ps80r7874jDSFamzbH%2Fjxn03WfOB5gYbsp16v7wqgCJ9pLfk1rdwqrRMtnU37CUylQL4%2Be%2FIMQoxpgsRsqXppTn6DcQaJSGEMqwjYOz83OA1zBmZpYi2wouT6R8dkBTJNVgQeeRRMTDx3xmpN1PHZdBDs6R7AiSJgLqUavvenYbwCfyIkPvrTHGNKlQah%2FzIC0qoSZLwHeIQWjRnZsDQgs%2BrHQielxY9wDyXEA%3D%3D&name=O7UqsGhrPAIUxodpYTXfudAGMKofQN1BwDCiIV5IioaB6WyzdRUpVkLAqzqASdSzgZZYjk3ZETOqfG7hGu6uMiqjyZRPEmVX3tTtzy4Y7d8bkCCV9%2BWiFKo8HxIKVsRj
