@@ -646,6 +646,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 G1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
@@ -1007,7 +1011,6 @@ EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8?q=111.170.171.148
 大爱贰台,http://free.cnlive.club/channel/46f0bf6e.m3u8?q=111.170.171.148
 大爱壹台,http://free.cnlive.club/channel/46f9ba85.m3u8?q=111.170.171.148
 东森超视,http://free.cnlive.club/channel/4210df69.m3u8?q=111.170.171.148
-东森电影,http://free.cnlive.club/channel/n5502f4.m3u8?q=111.170.171.148
 东森戏剧,http://free.cnlive.club/channel/n9e78d0.m3u8?q=111.170.171.148
 东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
 东森幼幼,http://free.cnlive.club/channel/naa6d18.m3u8?q=111.170.171.148
@@ -1015,7 +1018,6 @@ EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8?q=111.170.171.148
 凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8?q=111.170.171.148
 凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8?q=111.170.171.148
 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8?q=111.170.171.148
-公视闽南,http://free.cnlive.club/channel/3b838b0c.m3u8?q=111.170.171.148
 公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8?q=111.170.171.148
 华视闽南,http://free.cnlive.club/channel/560bcbee.m3u8?q=111.170.171.148
 寰宇财经,http://free.cnlive.club/channel/n4332074a.m3u8?q=111.170.171.148
@@ -1025,10 +1027,8 @@ EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8?q=111.170.171.148
 龙华电影,http://free.cnlive.club/channel/66c77727.m3u8?q=111.170.171.148
 龙华经典,http://free.cnlive.club/channel/66c892d4.m3u8?q=111.170.171.148
 龙华偶像,http://free.cnlive.club/channel/66c2f564.m3u8?q=111.170.171.148
-龙华戏剧,http://free.cnlive.club/channel/66c51883.m3u8?q=111.170.171.148
 龙华洋片,http://free.cnlive.club/channel/66c68ce7.m3u8?q=111.170.171.148
 民视闽南,http://free.cnlive.club/channel/n4d0434cf.m3u8?q=111.170.171.148
-民视台湾,http://free.cnlive.club/channel/n4bbbe8c9.m3u8?q=111.170.171.148
 年代新闻,http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
 三立都会,http://free.cnlive.club/channel/72452bb.m3u8?q=111.170.171.148
 三立戏剧,http://free.cnlive.club/channel/6748da0.m3u8?q=111.170.171.148
