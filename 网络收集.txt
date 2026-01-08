@@ -522,9 +522,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
 无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 F1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
@@ -669,74 +666,39 @@ TVBS,http://my.wifi942.com:66/smt/smt.php?id=tvbs&token=97fce052dcf14ecb484bad98
 
 H1,#genre#
 AstroMTV,https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Goiptv
-StarMovies,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
-TVBAsia,https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
 八大娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
 八大综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
-大爱贰台斯特,https://smt.go-iptv.ggff.net/smart.php?id=daai2_twn&token=Goiptv
-大爱壹台斯特,https://smt.go-iptv.ggff.net/smart.php?id=daai_twn&token=Goiptv
 东森财经斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvcaijing_twn&token=Goiptv
-东森超视斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvsuper&token=Goiptv
 东森电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
-东森戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvdrama&token=Goiptv
-东森新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvnews&token=Goiptv
-东森洋片斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
 东森幼幼斯特,https://smt.go-iptv.ggff.net/smart.php?id=yoyo_twn&token=Goiptv
 东森综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=ettvzhonghe&token=Goiptv
-非凡新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=feifannews_twn&token=Goiptv
-凤凰香港斯特,https://smt.go-iptv.ggff.net/smart.php?id=hkphoenix_twn&token=Goiptv
 凤凰中文斯特,https://smt.go-iptv.ggff.net/smart.php?id=phoenixtv_hd&token=Goiptv
-凤凰资讯斯特,https://smt.go-iptv.ggff.net/smart.php?id=phoenixinfo_hd&token=Goiptv
 公视台语斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctv2_twn&token=Goiptv
 华视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctshd_twn&token=Goiptv
-寰宇财经斯特,https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
 寰宇新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=huanyuxinwen_twn&token=Goiptv
-靖天卡通斯特,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
-靖天斯特,https://smt.go-iptv.ggff.net/smart.php?id=jingtianintl_twn&token=Goiptv
-龙华电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=xingwei_movie&token=Goiptv
-龙华偶像斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaidol_twn&token=Goiptv
 龙华戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaxiju_twn&token=Goiptv
-龙华洋片斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuawestern_twn&token=Goiptv
 龙祥电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 美亚电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
-民视第一斯特,https://smt.go-iptv.ggff.net/smart.php?id=lunghuajingdian_twn&token=Goiptv
 民视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvhd_taiwan&token=Goiptv
 民视台湾斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvtaiwan_twn&token=Goiptv
-民视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ftvnew_taiwan&token=Goiptv
 年代新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=niandainews_twn&token=Goiptv
 三立都会斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlidouhui&token=Goiptv
 三立闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlitaiwan&token=Goiptv
-三立戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlixiju_twn&token=Goiptv
 三立综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=sanlizhonghe&token=Goiptv
 台视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ttvnews_twn&token=Goiptv
 探索亚洲斯特,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
 天映国特,https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
 天映经典斯特,https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
-天映闽特,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
 天映粤特,https://smt.go-iptv.ggff.net/smart.php?id=ctv18_twn&token=Goiptv
-tvNMovie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
-tvbs新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=tvbs_n&token=Goiptv
 纬来电影斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
 纬来精彩斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandspecial_twn&token=Goiptv
-纬来日本斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandjapan&token=Goiptv
-纬来体育斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandsport&token=Goiptv
-纬来育乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandyule&token=Goiptv
-纬来综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=videolandzonghe&token=Goiptv
-无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
 无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
-无线翡翠斯特,https://smt.go-iptv.ggff.net/smart.php?id=jade_twn&token=Goiptv
 无线华丽粤特,https://smt.go-iptv.ggff.net/smart.php?id=Wlt&token=Goiptv
 无线明珠斯特,https://smt.go-iptv.ggff.net/smart.php?id=pearl_twn&token=Goiptv
-无线新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=inews_twn&token=Goiptv
 无线娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=Tvbentertainment&token=Goiptv
 亚洲旅游斯特,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
-有线新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=hoycaijing_twn&token=Goiptv
 中视经典斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshi_twn&token=Goiptv
-中视闽南斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshihd_twn&token=Goiptv
-中视新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=zhongshinews_twn&token=Goiptv
 中天新闻斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
-中天亚洲斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctiasia_twn&token=Goiptv
-中天娱乐斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
 中天综合斯特,https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
 
 I1,#genre#
@@ -879,56 +841,6 @@ tvbs综艺4Gtv,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
 K1,#genre#
-ELta影剧,http://free.cnlive.club/channel/n2109392b.m3u8?q=111.170.171.148
-EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8?q=111.170.171.148
-八大娱乐,http://free.cnlive.club/channel/26b73cff.m3u8?q=111.170.171.148
-八大综合,http://free.cnlive.club/channel/27420c52.m3u8?q=111.170.171.148
-大爱壹台,http://free.cnlive.club/channel/46f9ba85.m3u8?q=111.170.171.148
-东森超视,http://free.cnlive.club/channel/4210df69.m3u8?q=111.170.171.148
-东森戏剧,http://free.cnlive.club/channel/n9e78d0.m3u8?q=111.170.171.148
-东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
-东森幼幼,http://free.cnlive.club/channel/naa6d18.m3u8?q=111.170.171.148
-东森综合,http://free.cnlive.club/channel/n31b0a4.m3u8?q=111.170.171.148
-凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8?q=111.170.171.148
-凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8?q=111.170.171.148
-凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8?q=111.170.171.148
-公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8?q=111.170.171.148
-华视闽南,http://free.cnlive.club/channel/560bcbee.m3u8?q=111.170.171.148
-寰宇财经,http://free.cnlive.club/channel/n4332074a.m3u8?q=111.170.171.148
-寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
-靖天,http://free.cnlive.club/channel/63189371.m3u8?q=111.170.171.148
-龙华电影,http://free.cnlive.club/channel/66c77727.m3u8?q=111.170.171.148
-龙华经典,http://free.cnlive.club/channel/66c892d4.m3u8?q=111.170.171.148
-龙华洋片,http://free.cnlive.club/channel/66c68ce7.m3u8?q=111.170.171.148
-民视闽南,http://free.cnlive.club/channel/n4d0434cf.m3u8?q=111.170.171.148
-年代新闻,http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
-三立都会,http://free.cnlive.club/channel/72452bb.m3u8?q=111.170.171.148
-三立戏剧,http://free.cnlive.club/channel/6748da0.m3u8?q=111.170.171.148
-三立综合,http://free.cnlive.club/channel/6e155cc.m3u8?q=111.170.171.148
-台视新闻,http://free.cnlive.club/channel/452d9d57.m3u8?q=111.170.171.148
-天映,http://free.cnlive.club/channel/5150b0a1.m3u8?q=111.170.171.148
-天映,http://free.cnlive.club/channel/n7e466c41.m3u8?q=111.170.171.148
-天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
-tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8?q=111.170.171.148
-纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8?q=111.170.171.148
-纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8?q=111.170.171.148
-纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
-纬来综合,http://free.cnlive.club/channel/581c693b.m3u8?q=111.170.171.148
-无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8?q=111.170.171.148
-无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8?q=111.170.171.148
-无线明珠,http://free.cnlive.club/channel/n75ab7db0.m3u8?q=111.170.171.148
-无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
-无线娱乐,http://free.cnlive.club/channel/nac85e88.m3u8?q=111.170.171.148
-亚洲旅游,http://free.cnlive.club/channel/852ca6f.m3u8?q=111.170.171.148
-有线新闻,http://free.cnlive.club/channel/7289243e.m3u8?q=111.170.171.148
-中视闽南,http://free.cnlive.club/channel/dc53f4d.m3u8?q=111.170.171.148
-中视新闻,http://free.cnlive.club/channel/428f1dfa.m3u8?q=111.170.171.148
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148
-中天亚洲,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
-中天娱乐,http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
-中天综合,http://free.cnlive.club/channel/41db6ede.m3u8?q=111.170.171.148
-
-L1,#genre#
 Now新闻欣赏,http://rihou.cc:555/tv/\Mt\Now新闻
 天映闽赏,http://rihou.cc:555/tv/STll天映频道
 天映闽赏,http://rihou.cc:555/tv/\Stl\天映频道
@@ -938,11 +850,10 @@ tvbS新闻欣赏,http://rihou.cc:555/tv/\ST\tvbS新闻
 有线新闻欣赏,http://rihou.cc:555/tv/STl有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/\Mt\有线新闻
 
-M1,#genre#
+L1,#genre#
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -953,15 +864,19 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影2,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
-天映,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+
+M1,#genre#
+凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8?q=111.170.171.148
+天映,http://free.cnlive.club/channel/5150b0a1.m3u8?q=111.170.171.148
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
+无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8?q=111.170.171.148
+无线娱乐,http://free.cnlive.club/channel/nac85e88.m3u8?q=111.170.171.148
 
 N1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
