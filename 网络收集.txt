@@ -518,7 +518,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线新闻频流,http://tl.061833.xyz/tl/null-11
 无线亚剧频流,http://tl.061833.xyz/tl/null-13
 无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 F1,#genre#
 AXN电影频特,http://zb.hpc.tw/smtv.php?id=axn_twn
@@ -840,10 +839,9 @@ tvbs综艺4Gtv,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 K1,#genre#
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -853,7 +851,6 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-美亚电影2,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
 天映,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
@@ -861,16 +858,29 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 
 L1,#genre#
+东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
+非凡新闻,http://free.cnlive.club/channel/6302a884.m3u8?q=111.170.171.148
 凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8?q=111.170.171.148
 凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8?q=111.170.171.148
 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8?q=111.170.171.148
 寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
+龙华电影,http://free.cnlive.club/channel/66c77727.m3u8?q=111.170.171.148
+龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8?q=111.170.171.148
+美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8?q=111.170.171.148
+民视新闻,http://free.cnlive.club/channel/n4b747ee6.m3u8?q=111.170.171.148
+年代新闻,http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
 天映,http://free.cnlive.club/channel/5150b0a1.m3u8?q=111.170.171.148
+天映,http://free.cnlive.club/channel/n7e466c41.m3u8?q=111.170.171.148
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
 tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8?q=111.170.171.148
+纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8?q=111.170.171.148
 无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8?q=111.170.171.148
+无线明珠,http://free.cnlive.club/channel/n75ab7db0.m3u8?q=111.170.171.148
 无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
 无线娱乐,http://free.cnlive.club/channel/nac85e88.m3u8?q=111.170.171.148
+有线新闻,http://free.cnlive.club/channel/7289243e.m3u8?q=111.170.171.148
+中视新闻,http://free.cnlive.club/channel/428f1dfa.m3u8?q=111.170.171.148
 中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148
 
 M1,#genre#
