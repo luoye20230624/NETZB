@@ -248,10 +248,13 @@ AXN电影,http://free.cnlive.club/channel/n4e27c899.m3u8
 ELta影剧,http://free.cnlive.club/channel/n2109392b.m3u8
 EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8
 EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8
+八大第一,http://free.cnlive.club/channel/2733018a.m3u8
+八大戏剧,http://free.cnlive.club/channel/26d54426.m3u8
 八大娱乐,http://free.cnlive.club/channel/26b73cff.m3u8
 八大综合,http://free.cnlive.club/channel/27420c52.m3u8
 大爱贰台,http://free.cnlive.club/channel/46f0bf6e.m3u8
 大爱壹台,http://free.cnlive.club/channel/46f9ba85.m3u8
+东森财经,http://free.cnlive.club/channel/209f9e70.m3u8
 东森超视,http://free.cnlive.club/channel/4210df69.m3u8
 东森电影,http://free.cnlive.club/channel/n5502f4.m3u8
 东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8
@@ -315,10 +318,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 E1,#genre#
 AXNTaiwan,http://my.wifi942.com:66/smt/smt.php?id=axn_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
