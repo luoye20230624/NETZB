@@ -309,10 +309,6 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 E1,#genre#
 AXNTaiwan,http://my.wifi942.com:66/smt/smt.php?id=axn_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
@@ -549,12 +545,20 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影2,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
+天映,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
