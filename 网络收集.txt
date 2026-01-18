@@ -239,29 +239,26 @@ EYE-戏剧玛特,http://free.cnlive.club/channel/27dadb3.m3u8
 大爱贰台玛特,http://free.cnlive.club/channel/46f0bf6e.m3u8
 大爱壹台玛特,http://free.cnlive.club/channel/46f9ba85.m3u8
 东森财经玛特,http://free.cnlive.club/channel/209f9e70.m3u8
-东森超视,http://free.cnlive.club/channel/4210df69.m3u8
-东森电影玛特,http://free.cnlive.club/channel/n5502f4.m3u8
 东森戏剧玛特,http://free.cnlive.club/channel/n9e78d0.m3u8
-东森洋片玛特,http://free.cnlive.club/channel/n7160b4.m3u8
+东森新闻玛特,http://free.cnlive.club/channel/n88aa83.m3u8
 东森幼幼玛特,http://free.cnlive.club/channel/naa6d18.m3u8
-东森综合玛特,http://free.cnlive.club/channel/n31b0a4.m3u8
 非凡新闻玛特,http://free.cnlive.club/channel/6302a884.m3u8
 凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8
 凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8?q=111.170.171.148
-凤凰香港玛特,http://free.cnlive.club/channel/n49654430.m3u8
 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8?q=111.170.171.148
 公视闽南玛特,http://free.cnlive.club/channel/3b838b0c.m3u8
 公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8
 华视闽南玛特,http://free.cnlive.club/channel/560bcbee.m3u8
 寰宇财经,http://free.cnlive.club/channel/n4332074a.m3u8
+寰宇新闻玛特,http://free.cnlive.club/channel/n43c34be8.m3u8
 靖天卡通玛特,http://free.cnlive.club/channel/63181d62.m3u8
 靖天玛特,http://free.cnlive.club/channel/63189371.m3u8
 龙华电影,http://free.cnlive.club/channel/66c77727.m3u8
 龙华经典,http://free.cnlive.club/channel/66c892d4.m3u8
 龙华偶像玛特,http://free.cnlive.club/channel/66c2f564.m3u8
-龙华戏剧玛特,http://free.cnlive.club/channel/66c51883.m3u8
 龙华洋片,http://free.cnlive.club/channel/66c68ce7.m3u8
+美亚电影玛特,http://free.cnlive.club/channel/5824ef5e.m3u8
 民视闽南玛特,http://free.cnlive.club/channel/n4d0434cf.m3u8
 民视台湾,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
 民视新闻玛特,http://free.cnlive.club/channel/n4b747ee6.m3u8
@@ -272,11 +269,8 @@ EYE-戏剧玛特,http://free.cnlive.club/channel/27dadb3.m3u8
 三立综合玛特,http://free.cnlive.club/channel/6e155cc.m3u8
 台视新闻,http://free.cnlive.club/channel/452d9d57.m3u8
 天映,http://free.cnlive.club/channel/5150b0a1.m3u8
-天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
-纬来电影玛特,http://free.cnlive.club/channel/581b458b.m3u8
 纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8
 纬来日本玛特,http://free.cnlive.club/channel/58197296.m3u8
-纬来体育玛特,http://free.cnlive.club/channel/5816d06e.m3u8
 纬来育乐玛特,http://free.cnlive.club/channel/581c988d.m3u8
 纬来综合玛特,http://free.cnlive.club/channel/581c693b.m3u8
 无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8
@@ -291,7 +285,6 @@ EYE-戏剧玛特,http://free.cnlive.club/channel/27dadb3.m3u8
 中视新闻玛特,http://free.cnlive.club/channel/428f1dfa.m3u8
 中天新闻玛特,http://free.cnlive.club/channel/41d8a09d.m3u8
 中天娱乐玛特,http://free.cnlive.club/channel/41d6f491.m3u8
-中天综合玛特,http://free.cnlive.club/channel/41db6ede.m3u8
 
 D1,#genre#
 AXN电影频流,http://tl.061833.xyz/tl/axn
@@ -304,6 +297,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 E1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
@@ -430,19 +427,12 @@ tvbs综艺4Gtv,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 
 G1,#genre#
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
@@ -451,7 +441,6 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
-无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 
 H1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
