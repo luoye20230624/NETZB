@@ -239,7 +239,6 @@ EYE-戏剧玛特,http://free.cnlive.club/channel/27dadb3.m3u8
 大爱壹台玛特,http://free.cnlive.club/channel/46f9ba85.m3u8
 东森财经玛特,http://free.cnlive.club/channel/209f9e70.m3u8
 东森超视玛特,http://free.cnlive.club/channel/4210df69.m3u8
-东森电影玛特,http://free.cnlive.club/channel/n5502f4.m3u8
 东森戏剧玛特,http://free.cnlive.club/channel/n9e78d0.m3u8
 东森新闻玛特,http://free.cnlive.club/channel/n88aa83.m3u8
 东森综合玛特,http://free.cnlive.club/channel/n31b0a4.m3u8
@@ -294,6 +293,10 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 E1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
@@ -395,11 +398,9 @@ ELta旅游4Gtv,http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
 人间卫视4Gtv,http://220.135.64.124:5050/4gtv-live008/index.m3u8?proxy=true
 三立新闻4Gtv,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 三立新闻4Gtv,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
-三立综合4Gtv,http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 台视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
 tvbs新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
 tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
-tvbs综艺4Gtv,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 亚洲旅游4Gtv,http://220.135.64.124:5050/4gtv-4gtv076/index.m3u8?proxy=true
 亚洲旅游4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv076/index.m3u8?proxy=true
 亚洲旅游4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
