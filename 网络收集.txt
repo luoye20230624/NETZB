@@ -234,9 +234,7 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 D1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
@@ -359,17 +357,38 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
 F1,#genre#
+ELta影剧玛特,http://free.cnlive.club/channel/n2109392b.m3u8
+EYE-戏剧玛特,http://free.cnlive.club/channel/27dadb3.m3u8
 八大第一玛特,http://free.cnlive.club/channel/2733018a.m3u8
-东森超视玛特,http://free.cnlive.club/channel/4210df69.m3u8
+八大戏剧玛特,http://free.cnlive.club/channel/26d54426.m3u8
+八大娱乐玛特,http://free.cnlive.club/channel/26b73cff.m3u8
+东森戏剧玛特,http://free.cnlive.club/channel/n9e78d0.m3u8
+东森幼幼玛特,http://free.cnlive.club/channel/naa6d18.m3u8
 凤凰卫视玛特,http://free.cnlive.club/channel/n496e6eec.m3u8
-华视闽南玛特,http://free.cnlive.club/channel/560bcbee.m3u8
+凤凰资讯玛特,http://free.cnlive.club/channel/n4966a4fb.m3u8
+寰宇财经玛特,http://free.cnlive.club/channel/n4332074a.m3u8
+寰宇新闻玛特,http://free.cnlive.club/channel/n43c34be8.m3u8
+靖天卡通玛特,http://free.cnlive.club/channel/63181d62.m3u8
+龙华电影玛特,http://free.cnlive.club/channel/66c77727.m3u8
+龙华偶像玛特,http://free.cnlive.club/channel/66c2f564.m3u8
+龙华洋片玛特,http://free.cnlive.club/channel/66c68ce7.m3u8
+龙祥电影玛特,http://free.cnlive.club/channel/67548a4f.m3u8
+民视闽南玛特,http://free.cnlive.club/channel/n4d0434cf.m3u8
 民视新闻玛特,http://free.cnlive.club/channel/n4b747ee6.m3u8
-三立都会玛特,http://free.cnlive.club/channel/72452bb.m3u8
+年代新闻玛特,http://free.cnlive.club/channel/49184630.m3u8
+三立闽南玛特,http://free.cnlive.club/channel/642f20a.m3u8
+台视新闻玛特,http://free.cnlive.club/channel/452d9d57.m3u8
 天映玛特,http://free.cnlive.club/channel/5150b0a1.m3u8
-纬来综合玛特,http://free.cnlive.club/channel/581c693b.m3u8
+天映玛特,http://free.cnlive.club/channel/n7e466c41.m3u8
+纬来日本玛特,http://free.cnlive.club/channel/58197296.m3u8
+纬来育乐玛特,http://free.cnlive.club/channel/581c988d.m3u8
 无线翡翠玛特,http://free.cnlive.club/channel/n7549189d.m3u8
-无线华丽玛特,http://free.cnlive.club/channel/n177a7044.m3u8
+无线娱乐玛特,http://free.cnlive.club/channel/nac85e88.m3u8
+有线新闻玛特,http://free.cnlive.club/channel/7289243e.m3u8
+中视经典玛特,http://free.cnlive.club/channel/4291e438.m3u8
 中天新闻玛特,http://free.cnlive.club/channel/41d8a09d.m3u8
+中天娱乐玛特,http://free.cnlive.club/channel/41d6f491.m3u8
+中天综合玛特,http://free.cnlive.club/channel/41db6ede.m3u8
 
 G1,#genre#
 东平新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
