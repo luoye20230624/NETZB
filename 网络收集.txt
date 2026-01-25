@@ -245,10 +245,13 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 E1,#genre#
 AXN电影频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=axn_twn
-AstroMTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=AstroMTV
 ELta影剧频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltayingju_twn
 EYE-戏剧频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=eyetvxiju_twn
 HitsMovie,http://ma-yi.k.vu/mayi/697456c165396.php?id=Hitsmovie
@@ -299,7 +302,6 @@ TVBAsia,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbasia
 天映粤特,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctv18_twn
 tvNMovie,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvnmovie
 tvbs新闻频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=tvbs_n
-纬来体育频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandsport
 纬来育乐频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandyule
 纬来综合频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandzonghe
 无线翡翠频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=Jade_xue
