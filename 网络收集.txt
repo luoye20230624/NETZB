@@ -235,33 +235,6 @@ TVBS综艺台,http://nmk.ioapk.com:5050/4gtv-live087/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
 D1,#genre#
-AXN电影玛特,http://free.cnlive.club/channel/n4e27c899.m3u8
-八大戏剧玛特,http://free.cnlive.club/channel/26d54426.m3u8
-八大娱乐玛特,http://free.cnlive.club/channel/26b73cff.m3u8
-八大综合玛特,http://free.cnlive.club/channel/27420c52.m3u8
-东森幼幼玛特,http://free.cnlive.club/channel/naa6d18.m3u8
-东森综合玛特,http://free.cnlive.club/channel/n31b0a4.m3u8
-凤凰资讯玛特,http://free.cnlive.club/channel/n4966a4fb.m3u8
-寰宇新闻玛特,http://free.cnlive.club/channel/n43c34be8.m3u8
-靖天卡通玛特,http://free.cnlive.club/channel/63181d62.m3u8
-龙华电影玛特,http://free.cnlive.club/channel/66c77727.m3u8
-龙华偶像玛特,http://free.cnlive.club/channel/66c2f564.m3u8
-龙祥电影玛特,http://free.cnlive.club/channel/67548a4f.m3u8
-三立戏剧玛特,http://free.cnlive.club/channel/6748da0.m3u8
-天映玛特,http://free.cnlive.club/channel/n7e466c41.m3u8
-tvbs新闻玛特,http://free.cnlive.club/channel/n69ccce92.m3u8
-纬来精彩玛特,http://free.cnlive.club/channel/581c2f1a.m3u8
-纬来日本玛特,http://free.cnlive.club/channel/58197296.m3u8
-无线明珠玛特,http://free.cnlive.club/channel/n75ab7db0.m3u8
-无线娱乐玛特,http://free.cnlive.club/channel/nac85e88.m3u8
-亚洲旅游玛特,http://free.cnlive.club/channel/852ca6f.m3u8
-有线新闻玛特,http://free.cnlive.club/channel/7289243e.m3u8
-中视闽南玛特,http://free.cnlive.club/channel/dc53f4d.m3u8
-中视新闻玛特,http://free.cnlive.club/channel/428f1dfa.m3u8
-中天新闻玛特,http://free.cnlive.club/channel/41d8a09d.m3u8
-中天娱乐玛特,http://free.cnlive.club/channel/41d6f491.m3u8
-
-E1,#genre#
 AXN电影频流,http://tl.061833.xyz/tl/axn
 美亚电影频流,http://tl.061833.xyz/tl/null-5
 rock综艺频流,http://tl.061833.xyz/tl/rock
@@ -272,8 +245,12 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
-F1,#genre#
+E1,#genre#
 AXN电影频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=axn_twn
 AstroMTV,http://ma-yi.k.vu/mayi/697456c165396.php?id=AstroMTV
 ELta影剧频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=eltayingju_twn
@@ -320,8 +297,6 @@ TVBAsia,http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvbasia
 三立闽南频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=sanlitaiwan
 三立戏剧频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=sanlixiju_twn
 三立综合频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=sanlizhonghe
-台视新闻频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=ttvnews_twn
-探索亚洲频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=discoverytwn_twn
 天映国特,http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestial
 天映经典频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestial2
 天映闽特,http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestialindo
@@ -346,9 +321,8 @@ tvbs新闻频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=tvbs_n
 中天新闻频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctinews
 中天亚洲频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctiasia_twn
 中天娱乐频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctient
-中天综合频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=ctizhonghe
 
-G1,#genre#
+F1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -359,7 +333,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
-H1,#genre#
+G1,#genre#
 ELta旅游4Gtv,http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
@@ -467,6 +441,22 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 中天新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
+
+H1,#genre#
+东平新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+巨野新闻6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+平原新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+齐河新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+山东新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
+山东新闻7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+山东综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+兖州新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+沂源新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
+禹城综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+郓城新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+长清新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+淄博新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+邹平新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
 
 I1,#genre#
 国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
