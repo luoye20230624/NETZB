@@ -1,4 +1,19 @@
+港澳频道,#genre#
+翡翠台[🏠],http://120.238.94.10:9901/tsfile/live/1103_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+凤凰中文[🏠],http://120.238.94.10:9901/tsfile/live/1007_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+明珠台,http://120.238.94.10:9901/tsfile/live/1000_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+
 影视频道,#genre#
-杭州影视,http://101.66.199.12:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
-杭州影视,http://101.66.199.235:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
-杭州影视,http://101.66.199.57:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
+第一剧场,http://120.238.94.10:9901/tsfile/live/1086_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+谍战剧场,http://120.238.94.10:9901/tsfile/live/1042_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+动作电影,http://120.238.94.10:9901/tsfile/live/1094_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+都市剧场,http://120.238.94.10:9901/tsfile/live/1002_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+风云剧场,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+怀旧剧场,http://120.238.94.10:9901/tsfile/live/1091_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+怀旧剧场,http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+家庭电影,http://120.238.94.10:9901/tsfile/live/1093_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
