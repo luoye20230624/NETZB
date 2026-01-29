@@ -5,6 +5,5 @@
 杭州影视,http://101.66.199.235:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.199.57:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
 湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-湖南电影,http://124.228.160.14:9901/tsfile/live/1000_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 怀旧剧场,http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
