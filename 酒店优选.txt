@@ -1,0 +1,6 @@
+影视频道,#genre#
+第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+怀旧剧场,http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
