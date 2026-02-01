@@ -2,7 +2,9 @@ A1,#genre#
 CCTV03综艺,http://nn.7x9d.cn/mk.php?ip=119.55.86.162:8014&id=cctv3
 CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=222.128.15.132:8014&id=cctv3
 CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=61.51.81.78:8014&id=cctv3
+CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv3
 CCTV13-新闻,http://nn.7x9d.cn/mk.php?ip=222.128.15.132:8014&id=cctv13
+CCTV13-新闻,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv13
 广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
 广州新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
 
@@ -228,35 +230,14 @@ TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 
 D1,#genre#
 AXN电影玛特,http://free.cnlive.club/channel/n4e27c899.m3u8
-ELta影剧,http://free.cnlive.club/channel/n2109392b.m3u8
+EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8
 八大戏剧,http://free.cnlive.club/channel/26d54426.m3u8
-大爱壹台,http://free.cnlive.club/channel/46f9ba85.m3u8
-东森财经,http://free.cnlive.club/channel/209f9e70.m3u8
-东森电影,http://free.cnlive.club/channel/n5502f4.m3u8
-东森戏剧,http://free.cnlive.club/channel/n9e78d0.m3u8
 凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8
-凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
-寰宇财经,http://free.cnlive.club/channel/n4332074a.m3u8
-寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8
-靖天,http://free.cnlive.club/channel/63189371.m3u8
-龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
+公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8
 民视新闻,http://free.cnlive.club/channel/n4b747ee6.m3u8
-年代新闻,http://free.cnlive.club/channel/49184630.m3u8
-三立闽南,http://free.cnlive.club/channel/642f20a.m3u8
-台视新闻,http://free.cnlive.club/channel/452d9d57.m3u8
-天映,http://free.cnlive.club/channel/n7e466c41.m3u8
-天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
 tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8
-纬来电影,http://free.cnlive.club/channel/581b458b.m3u8
-纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8
-纬来日本,http://free.cnlive.club/channel/58197296.m3u8
-无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8
-无线明珠,http://free.cnlive.club/channel/n75ab7db0.m3u8
-无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8
-有线新闻,http://free.cnlive.club/channel/7289243e.m3u8
-中视经典,http://free.cnlive.club/channel/4291e438.m3u8
-中视闽南,http://free.cnlive.club/channel/dc53f4d.m3u8
-中天新闻台3,http://free.cnlive.club/channel/41d8a09d.m3u8
+纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8
+无线娱乐,http://free.cnlive.club/channel/nac85e88.m3u8
 中天综合,http://free.cnlive.club/channel/41db6ede.m3u8
 
 E1,#genre#
@@ -270,8 +251,8 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 无线明珠频流,http://tl.061833.xyz/tl/null-12
 无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18
 无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线亚剧频流,http://tl.061833.xyz/tl/null-13
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
 
 F1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
