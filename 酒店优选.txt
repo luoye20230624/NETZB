@@ -1,0 +1,6 @@
+港澳频道,#genre#
+安徽综艺,http://112.132.10.54:9901/tsfile/live/1009_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+
+影视频道,#genre#
+安徽影视,http://112.132.10.54:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+经典电影,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
