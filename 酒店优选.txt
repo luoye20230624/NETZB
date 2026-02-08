@@ -1,0 +1,9 @@
+港澳频道,#genre#
+安徽综艺,http://112.132.10.54:9901/tsfile/live/1009_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+凤凰中文[🏠],http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+凤凰资讯[🏠],http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+江苏综艺,http://218.92.37.174:9901/tsfile/live/0120_4.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+
+影视频道,#genre#
+安徽影视,http://112.132.10.54:9901/tsfile/live/1011_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+经典电影,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
