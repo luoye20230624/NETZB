@@ -224,15 +224,25 @@ TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 
 D1,#genre#
 AXN电影,http://free.cnlive.club/channel/n4e27c899.m3u8
-东森戏剧,http://free.cnlive.club/channel/n9e78d0.m3u8
+八大娱乐,http://free.cnlive.club/channel/26b73cff.m3u8
+东森超视,http://free.cnlive.club/channel/4210df69.m3u8
 非凡新闻,http://free.cnlive.club/channel/6302a884.m3u8
-凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8
-凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
+公视闽南,http://free.cnlive.club/channel/3b838b0c.m3u8
 公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8
-龙华洋片,http://free.cnlive.club/channel/66c68ce7.m3u8
-三立闽南,http://free.cnlive.club/channel/642f20a.m3u8
-天映,http://free.cnlive.club/channel/5150b0a1.m3u8
+靖天,http://free.cnlive.club/channel/63189371.m3u8
+龙华偶像,http://free.cnlive.club/channel/66c2f564.m3u8
+龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
+美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8
+民视台湾,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
+年代新闻,http://free.cnlive.club/channel/49184630.m3u8
+三立戏剧,http://free.cnlive.club/channel/6748da0.m3u8
+tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8
 纬来日本,http://free.cnlive.club/channel/58197296.m3u8
+纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8
+无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8
+亚洲旅游,http://free.cnlive.club/channel/852ca6f.m3u8
+中天新闻台3,http://free.cnlive.club/channel/41d8a09d.m3u8
+中天亚洲,http://free.cnlive.club/channel/41d5ac2a.m3u8
 
 E1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
