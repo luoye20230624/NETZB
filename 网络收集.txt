@@ -358,7 +358,6 @@ tvbs新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp
 纬来综合频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandzonghe
 无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Jade_xue
 无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Tvbjade
-无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=jade_twn
 无线华丽粤特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Wlt
 无线明珠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=pearl_twn
 无线新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=inews_twn
@@ -366,7 +365,6 @@ tvbs新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp
 亚洲旅游频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=asiatravel_twn
 有线新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=hoycaijing_twn
 中视经典频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=zhongshi_twn
-中视闽南频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=zhongshihd_twn
 中视新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=zhongshinews_twn
 中天新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ctinews
 中天亚洲频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ctiasia_twn
