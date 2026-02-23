@@ -1,4 +1,11 @@
 A1,#genre#
+CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=222.128.15.132:8014&id=cctv3
+CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=61.51.81.78:8014&id=cctv3
+CCTV13-新闻,http://nn.7x9d.cn/mk.php?ip=222.128.15.132:8014&id=cctv13
+广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
+广州新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
+
+B1,#genre#
 AMC电影台,http://211.23.125.95:50007/4gtv-4gtv017/index.m3u8?proxy=true
 ELTA生活旅游,http://211.23.125.95:50007/4gtv-live120/index.m3u8?proxy=true
 FUN4K探索娱乐,http://211.23.125.95:50007/4gtv-live011/index.m3u8?proxy=true
@@ -115,7 +122,7 @@ TVBS,http://211.23.125.95:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
 中天新闻台,http://211.23.125.95:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天亚洲台,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
 
-B1,#genre#
+C1,#genre#
 AMC电影台,http://nmk.ioapk.com:5050/4gtv-4gtv017/index.m3u8?proxy=true
 ELTA生活旅游,http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8?proxy=true
 FUN4K探索娱乐,http://nmk.ioapk.com:5050/4gtv-live011/index.m3u8?proxy=true
@@ -214,7 +221,7 @@ TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-C1,#genre#
+D1,#genre#
 AXN电影,http://free.cnlive.club/channel/n4e27c899.m3u8
 ELta影剧,http://free.cnlive.club/channel/n2109392b.m3u8
 EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8
@@ -285,7 +292,7 @@ tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8
 中天娱乐,http://free.cnlive.club/channel/41d6f491.m3u8
 中天综合,http://free.cnlive.club/channel/41db6ede.m3u8
 
-D1,#genre#
+E1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
@@ -294,7 +301,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
-E1,#genre#
+F1,#genre#
 ELta旅游4Gtv,http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
@@ -399,13 +406,11 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-F1,#genre#
-八大娱乐频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=badaentertain
+G1,#genre#
 八大综合频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=badazhonghe
 大爱贰台频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=daai2_twn
 大爱壹台频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=daai_twn
 东森财经频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvcaijing_twn
-东森超视频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvsuper
 东森电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvmovie
 东森戏剧频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvdrama
 东森洋片频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvwestern
@@ -419,7 +424,6 @@ F1,#genre#
 华视闽南频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ctshd_twn
 寰宇财经频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=huanyutaiwan_twn
 寰宇新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=huanyuxinwen_twn
-靖天卡通频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=jingtiancartoon_twn
 靖天频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=jingtianintl_twn
 龙华电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=xingwei_movie
 龙华偶像频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=lunghuaidol_twn
