@@ -2,7 +2,6 @@ A1,#genre#
 CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=222.128.15.132:8014&id=cctv3
 CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=61.51.81.78:8014&id=cctv3
 CCTV13-新闻,http://nn.7x9d.cn/mk.php?ip=222.128.15.132:8014&id=cctv13
-广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
 广州新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
 
 B1,#genre#
