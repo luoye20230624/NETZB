@@ -448,7 +448,6 @@ tvbs新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp
 纬来电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandmovie
 纬来精彩频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandspecial_twn
 纬来日本频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandjapan
-纬来育乐频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandyule
 纬来综合频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandzonghe
 无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Jade_xue
 无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=jade_twn
