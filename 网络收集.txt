@@ -451,7 +451,6 @@ tvbs新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp
 纬来育乐频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandyule
 纬来综合频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandzonghe
 无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Jade_xue
-无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Tvbjade
 无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=jade_twn
 无线华丽粤特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Wlt
 无线明珠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=pearl_twn
@@ -461,20 +460,4 @@ tvbs新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp
 有线新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=hoycaijing_twn
 中视经典频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=zhongshi_twn
 中视闽南频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=zhongshihd_twn
-
-H1,#genre#
-东平新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
-巨野新闻6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
-平原新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
-齐河新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
-山东新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
-山东新闻7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-山东综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-兖州新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
-沂源新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
-禹城综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
-郓城新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
-长清新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
-淄博新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
-邹平新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
 
