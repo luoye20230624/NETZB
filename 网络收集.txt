@@ -490,7 +490,6 @@ tvbs新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp
 纬来日本频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandjapan
 纬来综合频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandzonghe
 无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Jade_xue
-无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=jade_twn
 无线华丽粤特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Wlt
 无线明珠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=pearl_twn
 无线新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=inews_twn
