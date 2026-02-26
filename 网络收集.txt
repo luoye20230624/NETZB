@@ -1,5 +1,7 @@
 A1,#genre#
 CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=61.51.81.78:8014&id=cctv3
+CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=118.212.78.251:8014&id=cctv3
+CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=222.128.15.132:8014&id=cctv3
 CCTV13-新闻,http://nn.7x9d.cn/mk.php?ip=222.128.15.132:8014&id=cctv13
 广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
 广州新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
@@ -431,7 +433,6 @@ G1,#genre#
 龙华洋片频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=lunghuawestern_twn
 龙祥电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=lungxiangtime_twn
 美亚电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=meiyamovie_twn
-民视第一频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=lunghuajingdian_twn
 民视闽南频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ftvhd_taiwan
 民视台湾频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ftvtaiwan_twn
 民视新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ftvnew_taiwan
