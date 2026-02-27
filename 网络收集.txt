@@ -331,7 +331,6 @@ TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 三立闽南频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=sanlitaiwan
 三立戏剧频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=sanlixiju_twn
 三立综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=sanlizhonghe
-台视新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ttvnews_twn
 探索亚洲频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=discoverytwn_twn
 天映国特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Celestial
 天映经典频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Celestial2
@@ -340,7 +339,6 @@ TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 tvNMovie,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvnmovie
 tvbs新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=tvbs_n
 纬来电影频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandmovie
-纬来精彩频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandspecial_twn
 纬来日本频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandjapan
 纬来体育频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandsport
 纬来育乐频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandyule
@@ -495,7 +493,6 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
 
 I1,#genre#
-ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
 TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
 TVB明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
 TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
@@ -537,21 +534,12 @@ J1,#genre#
 龙华洋片频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=lunghuawestern_twn
 龙祥电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=lungxiangtime_twn
 美亚电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=meiyamovie_twn
-民视闽南频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ftvhd_taiwan
 民视台湾频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ftvtaiwan_twn
 民视新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ftvnew_taiwan
 年代新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=niandainews_twn
-三立戏剧频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=sanlixiju_twn
 三立综合频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=sanlizhonghe
 天映国特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Celestial
-天映经典频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Celestial2
-天映闽特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Celestialindo
-tvbs新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=tvbs_n
-纬来电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandmovie
 纬来精彩频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandspecial_twn
-纬来日本频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandjapan
-纬来综合频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=videolandzonghe
-无线翡翠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Jade_xue
 无线华丽粤特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Wlt
 无线明珠频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=pearl_twn
 无线新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=inews_twn
@@ -560,20 +548,4 @@ tvbs新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp
 有线新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=hoycaijing_twn
 中视经典频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=zhongshi_twn
 中视闽南频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=zhongshihd_twn
-
-K1,#genre#
-东平新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
-巨野新闻6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
-平原新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
-齐河新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
-山东新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
-山东新闻7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-山东综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-兖州新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
-沂源新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
-禹城综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
-郓城新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
-长清新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
-淄博新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
-邹平新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
 
