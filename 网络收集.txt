@@ -373,7 +373,6 @@ tvbs新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&i
 F1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
-重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
@@ -510,9 +509,13 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
 
 I1,#genre#
+ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
 TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
 TVB明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
 TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
 华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
 黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
 黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
@@ -520,6 +523,7 @@ TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 天映,http://pull-vivek.speedws.com/live/aaatypd.flv
 天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 无线跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv
+无线新闻台,http://pull-vivek.speedws.com/live/aaawxxw.flv
 亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
 
 J1,#genre#
