@@ -510,9 +510,12 @@ TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
 TVB明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
 TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
 华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
 黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
 黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
+美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
 天映,http://pull-vivek.speedws.com/live/aaatypd.flv
 天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 无线跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv
