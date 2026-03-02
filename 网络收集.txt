@@ -457,7 +457,6 @@ H1,#genre#
 东森电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvmovie
 东森戏剧频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvdrama
 东森洋片频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvwestern
-东森幼幼频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=yoyo_twn
 东森综合频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvzhonghe
 非凡新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=feifannews_twn
 凤凰香港频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=hkphoenix_twn
