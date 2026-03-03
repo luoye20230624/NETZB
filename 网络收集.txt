@@ -139,7 +139,6 @@ TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 公视戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
 华视,http://nmk.ioapk.com:5050/4gtv-4gtv041/index.m3u8?proxy=true
 华视,http://nmk.ioapk.com:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
-华视,http://nmk.ioapk.com:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 华视新闻台,http://nmk.ioapk.com:5050/4gtv-4gtv052/index.m3u8?proxy=true
 寰宇财经,http://nmk.ioapk.com:5050/li-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇财经,http://nmk.ioapk.com:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
@@ -222,7 +221,9 @@ MoviesNow,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=movie
 StarMovies,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=starmovies_raj
 StarmaaMovies,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=starmaamovies_raj
 TVB星河台XingHe,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Xinhe
+TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 八大第一频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badafirst
+八大戏剧频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badadrama
 八大娱乐频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badaentertain
 八大综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badazhonghe
 大爱贰台频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=daai2_twn
@@ -265,10 +266,8 @@ TVB星河台XingHe,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4
 天映闽特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Celestialindo
 天映粤特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctv18_twn
 tvNMovie,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvnmovie
-tvbs新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=tvbs_n
 纬来电影频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandmovie
 纬来精彩频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandspecial_twn
-纬来日本频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandjapan
 纬来体育频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandsport
 纬来育乐频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandyule
 纬来综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandzonghe
@@ -286,6 +285,7 @@ tvbs新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&i
 中视新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=zhongshinews_twn
 中天新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctinews
 中天亚洲频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctiasia_twn
+中天娱乐频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctient
 中天综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctizhonghe
 
 D1,#genre#
@@ -430,10 +430,12 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 G1,#genre#
 ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
 TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
+TVB明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
 TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
 黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
 黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
 美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
@@ -474,4 +476,20 @@ H1,#genre#
 亚洲旅游频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=asiatravel_twn
 有线新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=hoycaijing_twn
 中视经典频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=zhongshi_twn
+
+I1,#genre#
+东平新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+巨野新闻6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+平原新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+齐河新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+山东新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
+山东新闻7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+山东综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+兖州新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+沂源新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
+禹城综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+郓城新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+长清新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+淄博新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+邹平新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
 
