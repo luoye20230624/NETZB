@@ -117,8 +117,6 @@ TVBS,http://211.23.125.95:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
 
 B1,#genre#
 AMC电影台,http://nmk.ioapk.com:5050/4gtv-4gtv017/index.m3u8?proxy=true
-ELTA生活旅游,http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8?proxy=true
-FUN4K探索娱乐,http://nmk.ioapk.com:5050/4gtv-live011/index.m3u8?proxy=true
 TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 八大精彩,http://nmk.ioapk.com:5050/4gtv-4gtv034/index.m3u8?proxy=true
@@ -262,12 +260,16 @@ TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 三立戏剧频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=sanlixiju_twn
 三立综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=sanlizhonghe
 台视新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ttvnews_twn
+探索亚洲频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=discoverytwn_twn
 天映国特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Celestial
+天映经典频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Celestial2
 天映闽特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Celestialindo
 天映粤特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctv18_twn
 tvNMovie,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvnmovie
+tvbs新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=tvbs_n
 纬来电影频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandmovie
 纬来精彩频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandspecial_twn
+纬来日本频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandjapan
 纬来体育频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandsport
 纬来育乐频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandyule
 纬来综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandzonghe
@@ -439,7 +441,6 @@ TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
 黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
 美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
-天映,http://pull-vivek.speedws.com/live/aaatypd.flv
 天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 无线跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv
 无线新闻台,http://pull-vivek.speedws.com/live/aaawxxw.flv
