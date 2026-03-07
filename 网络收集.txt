@@ -220,7 +220,6 @@ TVB星河台XingHe,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4
 TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 八大第一频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badafirst
 八大戏剧频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badadrama
-八大娱乐频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badaentertain
 八大综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badazhonghe
 大爱贰台频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=daai2_twn
 大爱壹台频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=daai_twn
