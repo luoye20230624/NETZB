@@ -2,7 +2,6 @@ A1,#genre#
 CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=122.137.113.244:8014&id=cctv3
 东森新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1014
 东森幼幼,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1008
-东森综合,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1041
 非凡新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1013
 广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
 寰宇新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1222
@@ -263,7 +262,6 @@ TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 民视第一频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=lunghuajingdian_twn
 民视闽南频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ftvhd_taiwan
 民视台湾频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ftvtaiwan_twn
-民视新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ftvnew_taiwan
 年代新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=niandainews_twn
 三立都会频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=sanlidouhui
 三立闽南频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=sanlitaiwan
@@ -279,7 +277,6 @@ tvNMovie,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvnmov
 tvbs新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=tvbs_n
 纬来电影频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandmovie
 纬来精彩频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandspecial_twn
-纬来日本频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandjapan
 纬来体育频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandsport
 纬来育乐频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandyule
 纬来综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandzonghe
