@@ -1,23 +1,14 @@
 A1,#genre#
 CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=122.137.113.244:8014&id=cctv3
-东森戏剧,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1042
 东森新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1014
 东森幼幼,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1008
 东森综合,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1041
 非凡新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1013
 广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
-华视,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1049
 寰宇新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1222
-旅游生活,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1005
 民视新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1204
-年代新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1192
-人间卫视,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1198
 三立台湾,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1021
 三立新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1016
-纬来综合,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1044
-中视,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1048
-中视菁采台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1673
-中天新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1675
 
 B1,#genre#
 AMC电影台,http://211.23.125.95:50007/4gtv-4gtv017/index.m3u8?proxy=true
@@ -460,22 +451,6 @@ H1,#genre#
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 
 I1,#genre#
-东平新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
-巨野新闻6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
-平原新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
-齐河新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
-山东新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
-山东新闻7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-山东综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-兖州新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
-沂源新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
-禹城综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
-郓城新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
-长清新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
-淄博新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
-邹平新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
-
-J1,#genre#
 东森电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvmovie
 东森戏剧频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvdrama
 非凡新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=feifannews_twn
