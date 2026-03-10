@@ -116,34 +116,21 @@ TVBS,http://211.23.125.95:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
 中天亚洲台,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
 
 B1,#genre#
-AMC电影台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1032
 AXN,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1054
 TVBS欢乐,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1018
 TVBS新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1052
 TVBS,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1668
-八大戏剧,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1057
-八大综合,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1019
 东森戏剧,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1042
-东森综合,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1041
 非凡新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1013
 公视,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1201
 广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
 广州新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
-华视,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1049
 寰宇新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1222
-旅游生活,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1005
-民视,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1050
-年代新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1192
 三立都会,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1020
 三立台湾,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1021
-三立新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1016
-纬来戏剧,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1186
 纬来综合,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1044
-亚洲旅游,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1219
 中视菁采台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1673
 中天新闻,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1675
-中天娱乐,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1023
-中天综合,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1022
 
 C1,#genre#
 AstroMTV,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=AstroMTV
@@ -170,21 +157,15 @@ TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 非凡新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=feifannews_twn
 凤凰香港频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=hkphoenix_twn
 凤凰中文频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=phoenixtv_hd
-凤凰资讯频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=phoenixinfo_hd
 公视台语频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctv2_twn
 华视闽南频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctshd_twn
 寰宇财经频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=huanyutaiwan_twn
 寰宇新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=huanyuxinwen_twn
 靖天卡通频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=jingtiancartoon_twn
 靖天频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=jingtianintl_twn
-龙华电影频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=xingwei_movie
-龙华偶像频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=lunghuaidol_twn
 龙华戏剧频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=lunghuaxiju_twn
-龙华洋片频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=lunghuawestern_twn
-龙祥电影频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=lungxiangtime_twn
 美亚电影频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=meiyamovie_twn
 民视第一频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=lunghuajingdian_twn
-民视台湾频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ftvtaiwan_twn
 民视新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ftvnew_taiwan
 年代新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=niandainews_twn
 三立都会频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=sanlidouhui
@@ -196,7 +177,6 @@ TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 天映经典频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Celestial2
 天映闽特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Celestialindo
 天映粤特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctv18_twn
-tvNMovie,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvnmovie
 tvbs新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=tvbs_n
 纬来电影频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandmovie
 纬来精彩频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandspecial_twn
@@ -476,11 +456,9 @@ I1,#genre#
 
 J1,#genre#
 东森电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvmovie
-东森戏剧频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvdrama
 非凡新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=feifannews_twn
 凤凰资讯频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=phoenixinfo_hd
 寰宇新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=huanyuxinwen_twn
-美亚电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=meiyamovie_twn
 亚洲旅游频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=asiatravel_twn
 有线新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=hoycaijing_twn
 
