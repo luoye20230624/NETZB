@@ -121,7 +121,6 @@ ELta影剧频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&i
 EYE-旅游频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=eyetvtravel_twn
 EYE-戏剧频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=eyetvxiju_twn
 StarMovies,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=starmovies_raj
-TVB星河台XingHe,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Xinhe
 TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 八大戏剧频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badadrama
 八大娱乐频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badaentertain
@@ -135,9 +134,7 @@ TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 东森新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ettvnews
 东森洋片频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ettvwestern
 东森综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ettvzhonghe
-非凡新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=feifannews_twn
 凤凰香港频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=hkphoenix_twn
-凤凰中文频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=phoenixtv_hd
 公视台语频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctv2_twn
 寰宇财经频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=huanyutaiwan_twn
 寰宇新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=huanyuxinwen_twn
@@ -157,7 +154,6 @@ TVBAsia,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbasia
 tvbs新闻频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=tvbs_n
 纬来电影频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandmovie
 纬来日本频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandjapan
-纬来育乐频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandyule
 纬来综合频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=videolandzonghe
 无线翡翠频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Jade_xue
 无线翡翠频特,http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=Tvbjade
