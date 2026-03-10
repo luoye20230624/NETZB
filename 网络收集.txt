@@ -300,24 +300,6 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
 
 F1,#genre#
-ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
-TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
-TVB明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
-TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
-黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
-黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
-美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
-天映,http://pull-vivek.speedws.com/live/aaatypd.flv
-天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
-无线跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv
-无线新闻台,http://pull-vivek.speedws.com/live/aaawxxw.flv
-亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
-
-G1,#genre#
 TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 八大精彩,http://nmk.ioapk.com:5050/4gtv-4gtv034/index.m3u8?proxy=true
@@ -406,7 +388,7 @@ TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-H1,#genre#
+G1,#genre#
 八大第一,http://ip1.xiaomidadi.cn:8088/live/6b8CYVkZDFPCSqZI/hls.m3u8
 八大戏剧,http://ip1.xiaomidadi.cn:8088/live/jOj7LMOIfjOCcTBL/hls.m3u8
 八大综合,http://ip1.xiaomidadi.cn:8088/live/mQpfhtEPk6sSnO0S/hls.m3u8
@@ -418,14 +400,14 @@ H1,#genre#
 中天亚洲,http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 
-I1,#genre#
+H1,#genre#
 东森电影频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=ettvmovie
 非凡新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=feifannews_twn
 寰宇新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=huanyuxinwen_twn
 亚洲旅游频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=asiatravel_twn
 有线新闻频特,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=hoycaijing_twn
 
-J1,#genre#
+I1,#genre#
 广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
 广州新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
 
