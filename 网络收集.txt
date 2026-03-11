@@ -369,6 +369,5 @@ G1,#genre#
 民视第一,http://ip1.xiaomidadi.cn:8088/live/vnr8miLNxI7tlvjD/hls.m3u8
 民视台湾,http://ip1.xiaomidadi.cn:8088/live/JLXbovrAXvVvGxtw/hls.m3u8
 中视,http://ip1.xiaomidadi.cn:8088/live/7Ik9YzD3kqxocgfU/hls.m3u8
-中天亚洲,http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 
