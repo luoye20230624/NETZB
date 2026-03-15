@@ -1,11 +1,4 @@
 A1,#genre#
-CCTV3-综艺,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEuMjA1LjE1OC41OTo5OTk5L3RzZmlsZS9saXZlLzAwMDNfMS5tM3U4P2tleT10eGlwdHYmcGxheWxpdmU9MSZhdXRoaWQ9MA==
-CCTV13-新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEuMjA1LjE1OC41OTo5OTk5L3RzZmlsZS9saXZlLzAwMTNfMS5tM3U4P2tleT10eGlwdHYmcGxheWxpdmU9MCZhdXRoaWQ9MA==
-CCTV13-新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzE3NS4xMS43Mi4yMjU6OTk5OS90c2ZpbGUvbGl2ZS8wMDEzXzEubTN1OD9rZXk9dHhpcHR2JnBsYXlsaXZlPTEmYXV0aGlkPTA=
-CCTV15-音乐,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEuMjA1LjE1OC41OTo5OTk5L3RzZmlsZS9saXZlLzAwMTVfMS5tM3U4P2tleT10eGlwdHYmcGxheWxpdmU9MCZhdXRoaWQ9MA==
-广州新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
-
-B1,#genre#
 AMC电影台,http://211.23.125.95:50007/4gtv-4gtv017/index.m3u8?proxy=true
 ELTA生活旅游,http://211.23.125.95:50007/4gtv-live120/index.m3u8?proxy=true
 FUN4K探索娱乐,http://211.23.125.95:50007/4gtv-live011/index.m3u8?proxy=true
@@ -122,7 +115,7 @@ TVBS,http://211.23.125.95:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
 中天新闻台,http://211.23.125.95:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天亚洲台,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
 
-C1,#genre#
+B1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -133,7 +126,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
-D1,#genre#
+C1,#genre#
 NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
@@ -156,9 +149,10 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
 
-E1,#genre#
+D1,#genre#
 ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
 TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
+TVB明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
 TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
@@ -173,7 +167,7 @@ TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 无线新闻台,http://pull-vivek.speedws.com/live/aaawxxw.flv
 亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
 
-F1,#genre#
+E1,#genre#
 TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 八大精彩,http://nmk.ioapk.com:5050/4gtv-4gtv034/index.m3u8?proxy=true
@@ -261,7 +255,7 @@ TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-G1,#genre#
+F1,#genre#
 八大第一,http://ip1.xiaomidadi.cn:8088/live/6b8CYVkZDFPCSqZI/hls.m3u8
 八大戏剧,http://ip1.xiaomidadi.cn:8088/live/jOj7LMOIfjOCcTBL/hls.m3u8
 八大综合,http://ip1.xiaomidadi.cn:8088/live/mQpfhtEPk6sSnO0S/hls.m3u8
@@ -272,7 +266,7 @@ G1,#genre#
 中天亚洲,http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 
-H1,#genre#
+G1,#genre#
 八大精彩4Gtv,http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
 八大综艺4Gtv,http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
@@ -370,4 +364,8 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 中天新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
+
+H1,#genre#
+寰宇新闻台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3lr7DlrofmlrDpl7vlj7A=
+中天新闻台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
 
