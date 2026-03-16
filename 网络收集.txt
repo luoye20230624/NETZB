@@ -150,24 +150,6 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
 
 D1,#genre#
-ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
-TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
-TVB明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
-TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
-黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
-黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
-美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
-天映,http://pull-vivek.speedws.com/live/aaatypd.flv
-天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
-无线跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv
-无线新闻台,http://pull-vivek.speedws.com/live/aaawxxw.flv
-亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
-
-E1,#genre#
 TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 八大精彩,http://nmk.ioapk.com:5050/4gtv-4gtv034/index.m3u8?proxy=true
@@ -255,7 +237,7 @@ TVBS新闻台,http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://nmk.ioapk.com:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-F1,#genre#
+E1,#genre#
 八大精彩4Gtv,http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
 八大综艺4Gtv,http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
@@ -354,14 +336,26 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
+F1,#genre#
+东平新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+巨野新闻6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+平原新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+齐河新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+山东新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
+山东新闻7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+山东综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+兖州新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+沂源新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
+禹城综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+郓城新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+长清新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+淄博新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+邹平新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
+
 G1,#genre#
 公视,http://ip1.xiaomidadi.cn:8088/live/NiyUTyfIW1axBJp2/hls.m3u8
 民视台湾,http://ip1.xiaomidadi.cn:8088/live/JLXbovrAXvVvGxtw/hls.m3u8
 中视,http://ip1.xiaomidadi.cn:8088/live/7Ik9YzD3kqxocgfU/hls.m3u8
 中天亚洲,http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
-
-H1,#genre#
-寰宇新闻台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3lr7DlrofmlrDpl7vlj7A=
-中天新闻台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
 
