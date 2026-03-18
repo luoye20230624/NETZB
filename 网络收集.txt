@@ -150,13 +150,29 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
 
 D1,#genre#
+东平新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+巨野新闻6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+平原新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+齐河新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+山东新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
+山东新闻7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+山东综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+兖州新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+沂源新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
+禹城综艺8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+郓城新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+长清新闻576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+淄博新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+邹平新闻8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
+
+E1,#genre#
 公视,http://ip1.xiaomidadi.cn:8088/live/NiyUTyfIW1axBJp2/hls.m3u8
 民视台湾,http://ip1.xiaomidadi.cn:8088/live/JLXbovrAXvVvGxtw/hls.m3u8
 中视,http://ip1.xiaomidadi.cn:8088/live/7Ik9YzD3kqxocgfU/hls.m3u8
 中天亚洲,http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 
-E1,#genre#
+F1,#genre#
 广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
 广州新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
 
