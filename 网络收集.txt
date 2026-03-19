@@ -141,7 +141,6 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 天映,http://74.91.26.218:82/live/typd.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
@@ -164,5 +163,6 @@ E1,#genre#
 F1,#genre#
 寰宇新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3lr7DlrofmlrDpl7vlj7A=
 中视,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3op4Y=
+中视新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3op4bmlrDpl7s=
 中天新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
 
