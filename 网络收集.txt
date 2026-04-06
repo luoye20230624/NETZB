@@ -143,6 +143,7 @@ TVBAsia,http://smt.4666888.xyz/Tvbasia.m3u8
 东森洋片频特,http://smt.4666888.xyz/ettvwestern.m3u8
 东森幼幼频特,http://smt.4666888.xyz/yoyo_twn.m3u8
 东森综合频特,http://smt.4666888.xyz/ettvzhonghe.m3u8
+非凡新闻频特,http://smt.4666888.xyz/feifannews_twn.m3u8
 凤凰香港频特,http://smt.4666888.xyz/hkphoenix_twn.m3u8
 凤凰中文频特,http://smt.4666888.xyz/phoenixtv_hd.m3u8
 凤凰资讯频特,http://smt.4666888.xyz/phoenixinfo_hd.m3u8
