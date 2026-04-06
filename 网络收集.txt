@@ -132,7 +132,6 @@ TVB星河台XingHe,http://smt.4666888.xyz/Xinhe.m3u8
 TVBAsia,http://smt.4666888.xyz/Tvbasia.m3u8
 八大第一频特,http://smt.4666888.xyz/badafirst.m3u8
 八大戏剧频特,http://smt.4666888.xyz/badadrama.m3u8
-八大娱乐频特,http://smt.4666888.xyz/badaentertain.m3u8
 八大综合频特,http://smt.4666888.xyz/badazhonghe.m3u8
 大爱贰台频特,http://smt.4666888.xyz/daai2_twn.m3u8
 大爱壹台频特,http://smt.4666888.xyz/daai_twn.m3u8
