@@ -163,13 +163,13 @@ TVBAsia,http://smt.4666888.xyz/Tvbasia.m3u8
 三立闽南频特,http://smt.4666888.xyz/sanlitaiwan.m3u8
 三立戏剧频特,http://smt.4666888.xyz/sanlixiju_twn.m3u8
 三立综合频特,http://smt.4666888.xyz/sanlizhonghe.m3u8
+台视新闻频特,http://smt.4666888.xyz/ttvnews_twn.m3u8
 天映国特,http://smt.4666888.xyz/Celestial.m3u8
 天映经典频特,http://smt.4666888.xyz/Celestial2.m3u8
 天映闽特,http://smt.4666888.xyz/Celestialindo.m3u8
 天映粤特,http://smt.4666888.xyz/ctv18_twn.m3u8
 tvNMovie,http://smt.4666888.xyz/Tvnmovie.m3u8
 tvbs新闻频特,http://smt.4666888.xyz/tvbs_n.m3u8
-纬来电影频特,http://smt.4666888.xyz/videolandmovie.m3u8
 纬来日本频特,http://smt.4666888.xyz/videolandjapan.m3u8
 纬来体育频特,http://smt.4666888.xyz/videolandsport.m3u8
 纬来综合频特,http://smt.4666888.xyz/videolandzonghe.m3u8
