@@ -177,7 +177,6 @@ tvbs新闻频特,http://smt.4666888.xyz/tvbs_n.m3u8
 无线翡翠频特,http://smt.4666888.xyz/Jade_xue.m3u8
 无线翡翠频特,http://smt.4666888.xyz/Tvbjade.m3u8
 无线翡翠频特,http://smt.4666888.xyz/jade_twn.m3u8
-无线华丽粤特,http://smt.4666888.xyz/Wlt.m3u8
 无线明珠频特,http://smt.4666888.xyz/pearl_twn.m3u8
 无线新闻频特,http://smt.4666888.xyz/inews_twn.m3u8
 无线娱乐频特,http://smt.4666888.xyz/Tvbentertainment.m3u8
