@@ -170,6 +170,7 @@ TVBAsia,http://smt.4666888.xyz/Tvbasia.m3u8
 天映粤特,http://smt.4666888.xyz/ctv18_twn.m3u8
 tvNMovie,http://smt.4666888.xyz/Tvnmovie.m3u8
 tvbs新闻频特,http://smt.4666888.xyz/tvbs_n.m3u8
+纬来电影频特,http://smt.4666888.xyz/videolandmovie.m3u8
 纬来日本频特,http://smt.4666888.xyz/videolandjapan.m3u8
 纬来体育频特,http://smt.4666888.xyz/videolandsport.m3u8
 纬来综合频特,http://smt.4666888.xyz/videolandzonghe.m3u8
