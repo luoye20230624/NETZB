@@ -135,6 +135,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
 D1,#genre#
+Focus风采戏剧台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-fast1224&token=xiatianshigou
 KLT-靖天台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv063&token=xiatianshigou
 NiceTV靖天欢乐台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv054&token=xiatianshigou
 八大精彩台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv034&token=xiatianshigou
@@ -214,6 +215,4 @@ TVB功夫台HK,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvF
 TVB经典,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGVVpMwZ6hyPzB3VxOQQURmyS-lMNJUPk_jp3YW0uV_qvG2B3gl3Q3mLtwKTrl-Z3GtIIAk9uHtTWaDp_7Zl4XQXLYnigqJXA1E7o0wTcL88uso9AjrIt_Yo47o80Ipb3rAGUHRqDL79I8VSCTayOQhUrPfHoFIZAzaH9NebrducA28BBbiS4Gqt-mfwbfpImFOXchNOWgFwhJ0qWNasSAg.m3u8?u=1756878715
 TVB明珠台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGeE1gxpzjLoQWTWir772RiW9xP-7Vhz6iB1D9htxteCYrrT1zajd8n21mzIJri_TqeOEAMPrPGtUZA8iM9Ah11IK4uG0LIlw3KaFdk4fwauAyKHAjgL4Tyq7kG4ymrDqKy67Wfy53YIT4PWa-8mCkC3Ffa1jwixSqREtjad3qPhQLyoz7LTqA-Nn1wk3l8-kIQVmAF-lsHkY0Gti7mZdIQ.m3u8?u=1756878715
 TVBPlus,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmzdDaM5ESuA4OGFRoBeTq1D12jeIS1It1QSHbFcFsX9D13WmfdsrQS7s0FbmQfsGvORPqpAWZo2Ly8qiDxaDgEZrn-NsaBHcUYw7kDNK7vzpVT0I7Sym35k_cBQlQoA8tQceUnUjlc3skRKn280RHCJaugVHMZKPC6SKqD6G5KJfCHvJR8-m7Ptgfa6y9ozeohWjIW3nt37T_fESHlfYsQ.m3u8?u=1756878715
-凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715
-华视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WC4PV84FqPDdX5aGM2Uh2jv-FMZaOh-fvBiGeHcVSKvxKgnMAi_TSEdkq0GlDYvX0YOdT20uyonxrctqHD39OFdSxYFPV2CjSgX96JI0rcx2D9VifDNgJK5yzYJhsqhdEY2Jhj9BGCrG1njMeRY7BBQtGKuN6F7M7tBZ3fJKeod86PqkIEbu8h1232KWo-ZXaQ.m3u8?u=1756878715
 
