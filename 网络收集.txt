@@ -143,7 +143,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 
 D1,#genre#
 Focus风采戏剧台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-fast1224&token=xiatianshigou
-NiceTV靖天欢乐台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv054&token=xiatianshigou
+KLT-靖天台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv063&token=xiatianshigou
 八大精彩台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv034&token=xiatianshigou
 八大综艺台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv039&token=xiatianshigou
 采昌影剧台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv049&token=xiatianshigou
@@ -214,7 +214,4 @@ NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
-
-F1,#genre#
-TVB功夫台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUUozK_Ksd89ERNm_NAUBu16A4cLsQI1PSl_5O77xEGGMmoK1bKIfd0W4-XoUhk6g_-ClaZeD2_uCh9wtZv6_R4uWrm16gDPabQzEbvP6BDrW5fAMXEZSo7mskImOREoRzvDErR7f-q5ehFokKtLzXSuhiIzfSwyf7_iQTUCMbZFCRNozz0s2AKITmI_p6n22XFW5nB2Mkc4-1QtOYifle-b2c6jMYQtcuF76Wx0xGqsk.m3u8?u=1756878715
 
