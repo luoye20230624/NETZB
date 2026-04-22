@@ -1,13 +1,4 @@
 A1,#genre#
-CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=12a259df7c10f9ab7fde3c0c3aa1ba60&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=3c0a220a2e444b45de5dbc40f99aa11b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?streamid=5304acf01d4e44a0b4a5ad985a8a42d9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-B1,#genre#
 AMC电影台,http://211.23.125.95:50007/4gtv-4gtv017/index.m3u8?proxy=true
 ELTA生活旅游,http://211.23.125.95:50007/4gtv-live120/index.m3u8?proxy=true
 FUN4K探索娱乐,http://211.23.125.95:50007/4gtv-live011/index.m3u8?proxy=true
@@ -124,6 +115,12 @@ TVBS,http://211.23.125.95:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
 中天新闻台,http://211.23.125.95:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天亚洲台,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
 
+B1,#genre#
+CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=3c0a220a2e444b45de5dbc40f99aa11b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?streamid=5304acf01d4e44a0b4a5ad985a8a42d9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
 C1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
@@ -132,6 +129,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
 广西综艺旅游,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
+上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
 D1,#genre#
@@ -207,15 +205,4 @@ NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
-
-F1,#genre#
-TVBPlus,http://www.hongkongds.dscloud.me:1234/stream/mytvsuper/tvbplus/master.m3u8
-翡翠台,http://www.hongkongds.dscloud.me:1234/stream/mytvsuper/hd/master.m3u8
-翡翠台（4K）,http://www.hongkongds.dscloud.me:1234/stream/mytvsuper/4k/master.m3u8
-凤凰香港,http://www.hongkongds.dscloud.me:1234/stream/mytvsuper/null-2/master.m3u8
-凤凰中文,http://www.hongkongds.dscloud.me:1234/stream/mytvsuper/null/master.m3u8
-凤凰资讯,http://www.hongkongds.dscloud.me:1234/stream/mytvsuper/null-1/master.m3u8
-黄金翡翠台,http://www.hongkongds.dscloud.me:1234/stream/mytvsuper/null-6/master.m3u8
-无线新闻台,http://www.hongkongds.dscloud.me:1234/stream/mytvsuper/null-4/master.m3u8
-娱乐新闻台,http://www.hongkongds.dscloud.me:1234/stream/mytvsuper/null-3/master.m3u8
 
