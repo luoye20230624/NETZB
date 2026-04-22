@@ -1,7 +1,6 @@
 A1,#genre#
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=8be8d91572831eb6faabd0addc70f444&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=12a259df7c10f9ab7fde3c0c3aa1ba60&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -133,7 +132,6 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
 广西综艺旅游,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
-上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
 D1,#genre#
