@@ -3,8 +3,6 @@ CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=2732ee7572f54fe1c1e6a
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=1d12fd159be0157ca05e86bee9ce74e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=7184e7d2198478ebe4505b02e490522d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=b3bff97fe63b849ac854fbd02181ac36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -145,7 +143,6 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 D1,#genre#
 Focus风采戏剧台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-fast1224&token=xiatianshigou
 KLT-靖天台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv063&token=xiatianshigou
-NiceTV靖天欢乐台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv054&token=xiatianshigou
 八大精彩台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv034&token=xiatianshigou
 八大综艺台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv039&token=xiatianshigou
 采昌影剧台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv049&token=xiatianshigou
@@ -208,7 +205,6 @@ NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
 民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
