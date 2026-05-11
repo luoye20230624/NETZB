@@ -605,6 +605,20 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
 E1,#genre#
+CHC影迷电影,http://admin:admin@clnas0001.top:9981/stream/channelid/730467663?profile=pass
+大爱旅游,http://admin:admin@clnas0001.top:9981/stream/channelid/359176666?profile=pass
+大爱生活,http://admin:admin@clnas0001.top:9981/stream/channelid/1652812863?profile=pass
+大爱时尚,http://admin:admin@clnas0001.top:9981/stream/channelid/1725624486?profile=pass
+大爱四川,http://admin:admin@clnas0001.top:9981/stream/channelid/1261252106?profile=pass
+凤凰卫视香港台,http://admin:admin@clnas0001.top:9981/stream/channelid/708226058?profile=pass
+凤凰卫视中文台,http://admin:admin@clnas0001.top:9981/stream/channelid/2064247055?profile=pass
+凤凰卫视资讯台,http://admin:admin@clnas0001.top:9981/stream/channelid/2121009931?profile=pass
+环球旅游,http://admin:admin@clnas0001.top:9981/stream/channelid/1166147312?profile=pass
+热门综艺,http://admin:admin@clnas0001.top:9981/stream/channelid/2083812284?profile=pass
+熊猫新闻,http://admin:admin@clnas0001.top:9981/stream/channelid/2024524644?profile=pass
+亚洲新闻台,http://admin:admin@clnas0001.top:9981/stream/channelid/1611434059?profile=pass
+
+F1,#genre#
 CHC影迷电影,http://clnas0001.top:9981/stream/channelid/730467663?profile=pass
 大爱旅游,http://clnas0001.top:9981/stream/channelid/359176666?profile=pass
 大爱生活,http://clnas0001.top:9981/stream/channelid/1652812863?profile=pass
@@ -617,7 +631,7 @@ CHC影迷电影,http://clnas0001.top:9981/stream/channelid/730467663?profile=pas
 熊猫新闻,http://clnas0001.top:9981/stream/channelid/2024524644?profile=pass
 亚洲新闻台,http://clnas0001.top:9981/stream/channelid/1611434059?profile=pass
 
-F1,#genre#
+G1,#genre#
 Focus风采戏剧台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-fast1224&token=xiatianshigou
 KLT-靖天台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv063&token=xiatianshigou
 NiceTV靖天欢乐台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv054&token=xiatianshigou
@@ -671,7 +685,7 @@ NiceTV靖天欢乐台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv054&t
 中天亚洲台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv109&token=xiatianshigou
 猪哥亮歌厅秀,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv006&token=xiatianshigou
 
-G1,#genre#
+H1,#genre#
 NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
