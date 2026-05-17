@@ -9,7 +9,6 @@ CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=b56bf50c19821aafefca9
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=449ceee2276fb50f7fa3c15d86686ead&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=7184e7d2198478ebe4505b02e490522d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=8be8d91572831eb6faabd0addc70f444&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=adfd5ae77f362d2987040e974b56ee88&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=b3bff97fe63b849ac854fbd02181ac36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -628,7 +627,6 @@ TVBSNews新闻台,http://xsmt.ccwu.cc/xsmt/smt.php?id=738
 八大第一GTVFirst,http://xsmt.ccwu.cc/xsmt/smt.php?id=752
 八大戏剧GTVDrama,http://xsmt.ccwu.cc/xsmt/smt.php?id=753
 八大综合GTVMetro,http://xsmt.ccwu.cc/xsmt/smt.php?id=754
-大爱1台,http://xsmt.ccwu.cc/xsmt/smt.php?id=550
 大爱2台,http://xsmt.ccwu.cc/xsmt/smt.php?id=508
 东森财经新闻ETTVBusiness,http://xsmt.ccwu.cc/xsmt/smt.php?id=761
 东森电影ETTVMovie,http://xsmt.ccwu.cc/xsmt/smt.php?id=924
@@ -637,11 +635,7 @@ TVBSNews新闻台,http://xsmt.ccwu.cc/xsmt/smt.php?id=738
 东森洋片ETTVWestern,http://xsmt.ccwu.cc/xsmt/smt.php?id=763
 东森幼幼YoyoTV,http://xsmt.ccwu.cc/xsmt/smt.php?id=969
 东森综合ETTVMetro,http://xsmt.ccwu.cc/xsmt/smt.php?id=118
-翡翠台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1939
 非凡新闻台,http://xsmt.ccwu.cc/xsmt/smt.php?id=575
-凤凰卫视,http://xsmt.ccwu.cc/xsmt/smt.php?id=60
-凤凰香港,http://xsmt.ccwu.cc/xsmt/smt.php?id=1345
-凤凰资讯,http://xsmt.ccwu.cc/xsmt/smt.php?id=61
 公视2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2830
 公视CTV,http://xsmt.ccwu.cc/xsmt/smt.php?id=530
 华视CTS,http://xsmt.ccwu.cc/xsmt/smt.php?id=2032
@@ -724,14 +718,11 @@ G1,#genre#
 靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 靖天资讯台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
 靖天综合台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv046&token=https://t.me/GPT_858
-靖洋卡通,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv057&token=https://t.me/GPT_858
 靖洋戏剧台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv045&token=https://t.me/GPT_858
 民视第一台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv003&token=https://t.me/GPT_858
 民视旅游台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv07&token=https://t.me/GPT_858
 民视台湾台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv001&token=https://t.me/GPT_858
 民视新闻台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv13&token=https://t.me/GPT_858
-民视影剧台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv09&token=https://t.me/GPT_858
-民视综艺台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv004&token=https://t.me/GPT_858
 中视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
 中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
 中天新闻台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
