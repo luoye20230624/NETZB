@@ -1,6 +1,5 @@
 A1,#genre#
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=4495555c28e027d370ae1c1bba64a72e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=2732ee7572f54fe1c1e6af80a49a6786&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=dae69a23c264c77eefa2354094bbf46b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=1d12fd159be0157ca05e86bee9ce74e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -626,6 +625,7 @@ NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 
 F1,#genre#
 八大精彩台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv034&token=https://t.me/GPT_858
+八大综艺台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv039&token=https://t.me/GPT_858
 半岛新闻台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv10&token=https://t.me/GPT_858
 采昌影剧台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv049&token=https://t.me/GPT_858
 东森财经新闻台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv153&token=https://t.me/GPT_858
@@ -657,4 +657,13 @@ F1,#genre#
 中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
 中天新闻台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
 猪哥亮歌厅秀,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
+
+G1,#genre#
+凤凰中文,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229422/110077577.smil
+凤凰资讯,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229423/110077527.smil
+环球旅游,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229415/103499735.smil
+浙江公共新闻,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227816/10000100000000060000000000304167_0.smil
+浙江公共新闻,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229034/10000100000000060000000004799161_0.smil
+浙江旅游之声,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228327/10000100000000060000000003102677_0.smil
+浙江新闻广播,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228332/10000100000000060000000003102947_0.smil
 
