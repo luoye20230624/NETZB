@@ -6,6 +6,7 @@ CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=dae69a23c264c77eefa23
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=1d12fd159be0157ca05e86bee9ce74e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=b56bf50c19821aafefca9f20761908e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=d0473114041b533ea069452f29f33588&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=449ceee2276fb50f7fa3c15d86686ead&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=7184e7d2198478ebe4505b02e490522d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -15,6 +16,7 @@ CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=b3bff97fe63b849ac854fbd
 CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f50f29e98905aa48ac42cd5864c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -670,12 +672,4 @@ F1,#genre#
 中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
 中天新闻台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
 猪哥亮歌厅秀,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
-
-G1,#genre#
-凤凰中文,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229422/110077577.smil
-凤凰资讯,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229423/110077527.smil
-环球旅游,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229415/103499735.smil
-浙江公共新闻,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227816/10000100000000060000000000304167_0.smil
-浙江公共新闻,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229034/10000100000000060000000004799161_0.smil
-浙江旅游之声,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228327/10000100000000060000000003102677_0.smil
 
