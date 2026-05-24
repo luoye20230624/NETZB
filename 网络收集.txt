@@ -654,7 +654,6 @@ F1,#genre#
 靖天卡通台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv044&token=https://t.me/GPT_858
 靖天日本台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv047&token=https://t.me/GPT_858
 靖天台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv063&token=https://t.me/GPT_858
-靖天戏剧台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858
 靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 靖天育乐台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv062&token=https://t.me/GPT_858
 靖天资讯台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
