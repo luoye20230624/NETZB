@@ -1,4 +1,25 @@
 A1,#genre#
+CCTV01高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV1
+CCTV02高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV2
+CCTV03高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV3
+CCTV04高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV4
+CCTV05高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV5
+CCTV5+高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV5p
+CCTV06高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV6
+CCTV07高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV7
+CCTV08高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV8
+CCTV09高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV9
+CCTV10高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV10
+CCTV11高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV11
+CCTV12高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV12
+CCTV13高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV13
+CCTV14高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV14
+CCTV15高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV15
+CCTV16高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV16
+CCTV17高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV17
+北京卫视高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=北京卫视
+
+B1,#genre#
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=4495555c28e027d370ae1c1bba64a72e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=b56bf50c19821aafefca9f20761908e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -6,6 +27,8 @@ CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=2732ee7572f54fe1c1e6a
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=1d12fd159be0157ca05e86bee9ce74e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=d0473114041b533ea069452f29f33588&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=dae69a23c264c77eefa2354094bbf46b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=449ceee2276fb50f7fa3c15d86686ead&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=7184e7d2198478ebe4505b02e490522d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=8be8d91572831eb6faabd0addc70f444&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -13,10 +36,21 @@ CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=adfd5ae77f362d2987040e9
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=b3bff97fe63b849ac854fbd02181ac36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f50f29e98905aa48ac42cd5864c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=12a259df7c10f9ab7fde3c0c3aa1ba60&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=1d7a4e8614e13d43791f381297047a1a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=3c0a220a2e444b45de5dbc40f99aa11b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=d8a3bcf60a1ed185e1456a00c9277485&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?streamid=5304acf01d4e44a0b4a5ad985a8a42d9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?streamid=89d02e4874ce2908ec94af857b71cdf4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-B1,#genre#
+C1,#genre#
 AMC电影台,http://211.23.125.95:50007/4gtv-4gtv017/index.m3u8?proxy=true
 ELTA生活旅游,http://211.23.125.95:50007/4gtv-live120/index.m3u8?proxy=true
 FUN4K探索娱乐,http://211.23.125.95:50007/4gtv-live011/index.m3u8?proxy=true
@@ -133,7 +167,7 @@ TVBS,http://211.23.125.95:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
 中天新闻台,http://211.23.125.95:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天亚洲台,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
 
-C1,#genre#
+D1,#genre#
 AMC最爱电影,http://kaniptv.com/xz/xz.php?name=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1&index=0
 AXN动作,http://kaniptv.com/xz/xz.php?name=AXN%E5%8B%95%E4%BD%9C&index=0
 AXN,http://kaniptv.com/xz/xz.php?name=AXN%E9%A2%91%E9%81%93&index=0
@@ -598,7 +632,7 @@ Trvl旅游台,http://kaniptv.com/xz/xz.php?name=Trvl%E6%97%85%E6%B8%B8%E5%8F%B0&
 中天综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&index=3
 猪哥亮歌厅秀,http://kaniptv.com/xz/xz.php?name=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80&index=0
 
-D1,#genre#
+E1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -608,4 +642,17 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 广西综艺旅游,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
+
+F1,#genre#
+东森电影,http://47.242.63.189:2025/api1.php?id=20211
+东森戏剧,http://47.242.63.189:2025/api1.php?id=20207
+东森综合,http://47.242.63.189:2025/api1.php?id=20206
+美亚电影港,http://47.242.63.189:2025/api1.php?id=20120
+三立新闻,http://47.242.63.189:2025/api1.php?id=20389
+三立综合,http://47.242.63.189:2025/api1.php?id=20204
+纬来电影,http://47.242.63.189:2025/api1.php?id=20227
+纬来精采,http://47.242.63.189:2025/api1.php?id=20229
+纬来体育,http://47.242.63.189:2025/api1.php?id=20225
+纬来戏剧,http://47.242.63.189:2025/api1.php?id=20416
+无线18赛马,http://47.242.63.189:2025/api1.php?id=20125
 
