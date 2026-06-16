@@ -1,5 +1,4 @@
 A1,#genre#
-CCTV01高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV1
 CCTV02高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV2
 CCTV03高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV3
 CCTV04高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV4
@@ -17,7 +16,6 @@ CCTV14高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV14
 CCTV15高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV15
 CCTV16高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV16
 CCTV17高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV17
-北京卫视高码,http://v.mgytv.top/TVBoxOSC/wj.php?id=北京卫视
 
 B1,#genre#
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=1d12fd159be0157ca05e86bee9ce74e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -29,7 +27,6 @@ CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=4495555c28e027d370ae1c1bba64a72e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3综艺,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=449ceee2276fb50f7fa3c15d86686ead&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=7184e7d2198478ebe4505b02e490522d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=adfd5ae77f362d2987040e974b56ee88&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=b3bff97fe63b849ac854fbd02181ac36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
