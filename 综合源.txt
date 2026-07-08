@@ -1,1 +1,2 @@
-404:NotFound404:NotFound
+429:TooManyRequests
+FormoreonscrapingGitHubandhowitmayaffectyourrights,pleasereviewourTermsofService(https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).404:NotFound
