@@ -38,7 +38,6 @@ AMC电影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
 公视戏剧,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
 华视,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1782639885837
 华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
-寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
 经典电影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
 镜电视新闻台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
@@ -59,7 +58,6 @@ AMC电影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
 人间卫视,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
 三立综合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
 中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
-中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 猪哥亮歌厅秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
 
 C1,#genre#
