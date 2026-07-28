@@ -31,17 +31,6 @@ CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f
 金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?streamid=89d02e4874ce2908ec94af857b71cdf4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 B1,#genre#
-91BCM-003.李依依.外旅游意外了一个美,https://t33.cdn2020.com/video/m3u8/2022/11/14/487dfb9b/index.m3u8
-JD012.张芸熙.东新闻播报台.玩弄巨主播,https://t33.cdn2020.com/video/m3u8/2021/02/12/1ca1c2ec/index.m3u8
-成式同学会NTR-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/06/fe501850/index.m3u8
-给我看私处我就原谅你-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/03/31/9ea95262/index.m3u8
-喝酒后成为接吻恶魔-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/09/16/a7633960/index.m3u8
-老婆被粉丝成便器-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/07/25/c1361322/index.m3u8
-设定脚本一切都没有-七沢美亚,https://t33.cdn2020.com/video/m3u8/2024/10/09/698c671d/index.m3u8
-兔年要看兔郎-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/ef3a6cad/index.m3u8
-小恶魔的密著-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/8641f821/index.m3u8
-
-C1,#genre#
 AMC最爱电影,http://kaniptv.com/xz/xz.php?name=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1&index=0
 AXN动作,http://kaniptv.com/xz/xz.php?name=AXN%E5%8B%95%E4%BD%9C&index=0
 AXN,http://kaniptv.com/xz/xz.php?name=AXN%E9%A2%91%E9%81%93&index=0
@@ -505,7 +494,7 @@ Trvl旅游台,http://kaniptv.com/xz/xz.php?name=Trvl%E6%97%85%E6%B8%B8%E5%8F%B0&
 中天综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&index=3
 猪哥亮歌厅秀,http://kaniptv.com/xz/xz.php?name=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80&index=0
 
-D1,#genre#
+C1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -516,7 +505,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
-E1,#genre#
+D1,#genre#
 TVBPlus,http://www.kaniptv.cn/uadl.php?etoken=lpoujPoIEpiXb6mSeBTFIYsrYCy6qafmwrzMb%2BcZrYhowGx6ZFHv5TcHBGseefZ%2BIV1H8lOEWSH%2FfFYby3HBbxPszwCBFTpbl7DrABoVLUMvS9LfxGiJTsd2p5xe9ARZW3DNCeqODH25gt2oQPTMZPqeLiZvQUv08AOld2fcYgfZY9YZ4iLnN%2BOmJGnc5SZ%2FRCv8rHB2n01bN93wKOirx4lVKqa3gCxnUT3EMQX1QdnqH9JrsfAF2S%2FUFkjPvXje9x4W5YdBL9%2B0Kum8Rud5hbjX1i2p%2FPDuKDFJ7cfj0NLrdmDg7NizHzCtDXaFwKTy5qy6nbTZANTB0akP6h3YxQ%3D%3D
 TVBS新闻,http://www.kaniptv.cn/uadl.php?etoken=7TRr%2BWczbLgZ4XTHBEZ9Frr5SwP01H7mOfKbnj2TuNaxcdU2ByY2TdRYmUIrpd8cei7k%2F3fdP8mHXwS3IzhR7%2BX8KJgj7meafxXIc4NIGRMF9SdShruPrtdL7g2Z6QsTBCJF5mmnumaToRfTjHyJFQe%2FPohlqhaAe3KLDimWL3mgcyZ2O39ZO00xSTQ4wbh2cWaRT9jgCNIKPsmBdMWfPoxR842vkMZFeNAC1h%2FK4DQlJOonqcvSNj%2B3MwsolW64cvg9iSzjLBbUPL3ESpFlDGd8WmHyU8rYTcYdSPKoGs7Enjlafs7brfqLlatGRTOp2Y%2BGNEWJUnhcpHdXTAgtwA%3D%3D
 八大第一,http://www.kaniptv.cn/uadl.php?etoken=Qg9v3DOqd7246BMss4dNTMedkJBgD7mj5tHpKM8g3paazEMT0lcqRCjo6aoiEhGXpEiYhdnz4MuHLwYbWKoofu6gZCxq1XCySQNzrbiP02%2F3mQBBRd7KjWgA61TV5pz5KHxgpC%2BARemQskwcdNJWf9O%2BoMVmavJy0fYGybdMLvf1%2BoHpYlLHTa710k9tBbS4XQ6ql%2B6w3YXCKA6aJwNbM7ePCNJOVhVt4KNJN6xWX0%2FNZCPrtuKWU79Opz5OegQz3Rz0ch%2BL0lEEQRyoqo4YGQBbvFrb0doXroyb%2BNU4TbUQcV1k476eh%2FahiZUIXabXPauMteADxDWp0A1jn6YXNQ%3D%3D
@@ -532,7 +521,7 @@ TVBS新闻,http://www.kaniptv.cn/uadl.php?etoken=7TRr%2BWczbLgZ4XTHBEZ9Frr5SwP01
 无线新闻,http://www.kaniptv.cn/uadl.php?etoken=09mifIFf028KDTPOvrTq3OHYyN273rL%2BBsFsh1zSGlvtc2Ew9rqiRBm0QEq%2FHkjpLNWV7gAhlQQSHfCQtvEzEcap3BaqgcD62RcP3tGNHPcV%2FB8SXGRmdMBmgCAPYDcaNcxL12BP4Lqq%2BUXEmXF7embT5HZNlAMTFWaC4FxEWQbTNue22GaFdIkjQG1L7V6MUPxTjJR3HVm0b0FJfxtrdSSIbOV72d0cmdUyRURBkAXTpheMxOtK6g6iTwASE9ZqNfSW39LfIapHjTf02Pu3pu5fqUB7Z61zbzlrL3hh0JBYYjg%2FKRAfu2STkwPjqY44Sf2us77%2F%2BxHdVgr2Li01Nw%3D%3D
 中天新闻,http://www.kaniptv.cn/uadl.php?etoken=d2A8AIvYd8EFBaFDYIaOpFlbnAGwT%2FzT3lJSGYFwvgol4EZyKQTj6iqieNoVSedQB7du8u8FvH6GkW3K55fdgSyz%2Bm6qDQE7VEDQrUI4pHxuGUK%2B2Moqi7uqHl1Usa0nM%2FeuUhr38UbwWjHq0iTE49MHRieGi8xEW2UORihsI6Vhzh01XeSfzKQMo%2FPgdof6wiF%2FL17shfM%2F3Loq8vPfAZPPboYmlwx%2BqK65UJg%2Bl3NONW9We0VFp1%2FLeniAGYqbuG6XxaBKLWp8FinNye6bIA0YR7hpqa54fwY4DsLYfoR8uC79%2BIT66Kxd5UyX5kbZumnCbPufkfFtMUYt%2FPe7%2Bw%3D%3D
 
-F1,#genre#
+E1,#genre#
 大爱电视,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 公视戏剧,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
@@ -556,7 +545,7 @@ F1,#genre#
 中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
 猪哥亮歌厅秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
 
-G1,#genre#
+F1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
 龙华卡通,http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
 龙华偶像,http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
