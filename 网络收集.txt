@@ -31,6 +31,17 @@ CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f
 金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?streamid=89d02e4874ce2908ec94af857b71cdf4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 B1,#genre#
+91BCM-003.李依依.外旅游意外了一个美,https://t33.cdn2020.com/video/m3u8/2022/11/14/487dfb9b/index.m3u8
+JD012.张芸熙.东新闻播报台.玩弄巨主播,https://t33.cdn2020.com/video/m3u8/2021/02/12/1ca1c2ec/index.m3u8
+成式同学会NTR-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/06/fe501850/index.m3u8
+给我看私处我就原谅你-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/03/31/9ea95262/index.m3u8
+喝酒后成为接吻恶魔-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/09/16/a7633960/index.m3u8
+老婆被粉丝成便器-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/07/25/c1361322/index.m3u8
+设定脚本一切都没有-七沢美亚,https://t33.cdn2020.com/video/m3u8/2024/10/09/698c671d/index.m3u8
+兔年要看兔郎-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/ef3a6cad/index.m3u8
+小恶魔的密著-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/8641f821/index.m3u8
+
+C1,#genre#
 AMC最爱电影,http://kaniptv.com/xz/xz.php?name=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1&index=0
 AXN动作,http://kaniptv.com/xz/xz.php?name=AXN%E5%8B%95%E4%BD%9C&index=0
 AXN,http://kaniptv.com/xz/xz.php?name=AXN%E9%A2%91%E9%81%93&index=0
@@ -494,24 +505,18 @@ Trvl旅游台,http://kaniptv.com/xz/xz.php?name=Trvl%E6%97%85%E6%B8%B8%E5%8F%B0&
 中天综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&index=3
 猪哥亮歌厅秀,http://kaniptv.com/xz/xz.php?name=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80&index=0
 
-C1,#genre#
+D1,#genre#
 AXN,http://www.kaniptv.cn/uadl.php?etoken=R7bGkaUw1ahCvRhjNzFbdekoLeFtfKkcbDqoOPfnIgdCBM36QCq4Nb%2FR54XCb9ERfLKPq%2F0EG7C%2BCTtqgFQ4xMiWOO9roPKid2TnHnD5s4s7ZtAWC0Xl54NgXFCTQxcsDaZr061tyUYNv4HRcnUVV1tKEIj8D3hhQI51qrogMuF2dRSq2CvwndUBlAriT6wf89AgEQ0l72ph%2B90oJN6Rltm8HdUpsXppHR%2FwkqEGeof9jKWq9h%2FvbgZwq4Ps1ZAxv5eoPnAxMKadc%2BQ%2BqTpuZqs%2B9r26EbC%2FWwsFSLGO6esV2D%2BQSy5itcWgyXzCQFu9OebPMADJbrGsBA1ItaX4BN010NgvZCkY8QtTKg3HO2ENGU9cI7V%2BTllGHRcaaqLgqlKzh%2B4XpSmUlfoB3rs9vg%3D%3D
-ELTA生活旅游,http://www.kaniptv.cn/uadl.php?etoken=Prg0JSitxlwpcYai2lrDVQKph1w9z%2Bz11Ysog57uxTz53MEVrwPAoOB7JnPa8uk7l2GD9TzcOeaUjdHHq7Lqz0wlfQ4WKttlWkhKeNAy2i8CXNmxaYjreTCFjQRVEYzPpwVCXzzNpKn9Q0QYfljKA7T7%2FQds5caBrpfmwCvcskZVEfP5pfe3Suw6b0cuz8FzoZGIPpdQ9chxU8SwiliTcFhil6d1IgF3Nl9uBs1n92Bis%2FYbPFBLp7%2BAU%2Fajn3f4WUrKK6ojKXw0VVKICD48XZakJoHF3UpSlsCo2ofZ6R6tk%2BfBWBJ2yin5WRgHrAsLtHj8mYlwe%2BGKMH3K8eWyK3R78ULujGLS5EcrJcOe0BBT7DZynKZsZboBzTsig4Mo5HuUenzsXsEdgk%2BBkGdnKwSuTV311PTvFuqM24nSKKfitmsl9jlh2qN%2BHLZNEOKJ
 TVBS新闻,http://www.kaniptv.cn/uadl.php?etoken=7TRr%2BWczbLgZ4XTHBEZ9Frr5SwP01H7mOfKbnj2TuNaxcdU2ByY2TdRYmUIrpd8cei7k%2F3fdP8mHXwS3IzhR7%2BX8KJgj7meafxXIc4NIGRMF9SdShruPrtdL7g2Z6QsTBCJF5mmnumaToRfTjHyJFQe%2FPohlqhaAe3KLDimWL3mgcyZ2O39ZO00xSTQ4wbh2cWaRT9jgCNIKPsmBdMWfPoxR842vkMZFeNAC1h%2FK4DQlJOonqcvSNj%2B3MwsolW64cvg9iSzjLBbUPL3ESpFlDGd8WmHyU8rYTcYdSPKoGs7Enjlafs7brfqLlatGRTOp2Y%2BGNEWJUnhcpHdXTAgtwA%3D%3D
 TVBSNEWS,http://www.kaniptv.cn/uadl.php?etoken=E1XhwcKBU1QhtCAPeiMT9kwXzTkooq31AHK%2B8nPSq%2FqHcxO26CyvHzfo%2BrRkFihkTvhtGGTPRG1nmXVN8vf05ZVzO4Dg1TK8EfjVtoDSe5kzIcl%2Bg6d0WDD6VI%2BfyapgcnlRH9M7nBQERWZbyL4ozRONnu3VE50VaG2cN4Gwh%2BGGTMygIbz4YmGOZGDZMQ4DHGGl%2B0LHh3T2pE25CE%2B4rkVrmw2AXL%2BQujlUCkPiIOkogWKAmhCdScHZdKdUkYwvvbC8JkS1anAMMg06r%2BCqf6Gsw289%2BckmybTpEwz8J3GlIDDM46K%2FImi203A0PKD1u9yTcIdS2Y6NZJ4zZCC%2F0aISka%2FcuAihiXwvd6iwWHjG5P6BfaKDZWfuVXwUgyQTUHFRNqxmxa7YFwZSY8dsWA%3D%3D
 东森亚洲,http://www.kaniptv.cn/uadl.php?etoken=aSkT1eX%2FL8GF%2B8g7k%2FnzdTV2qFotAKDMib154a8kGSWLVaGdrGdYCDhN6GlRqL0ZHa%2Fp%2BzzDckDC%2FvrxonSVvaGUVlKOOaE5VIDENp3F386QNtdvrUEOBVceHcSO5f%2FsagwYWgTjxXtJ88hbH%2FObGJqRXrnwrlPtBwyt6DdityOMkE6oSJZ9guGXWuLo6AZvQltVSFqKpEo9qFFTu9SFs%2B5XPFUhW%2FeVD35zqVh5xEof5VF0e2aWSZ%2F87DW6gGsaBb1b1SJ1lhXNc1MwLs6MHnvodRU4mIVv3l8iBopJPuMtSlZH4%2FSsZjVkTktIP6q99M4i3o9EUxsvqATBHewo7nN6yi6PzB0z3N35SEMopY8m97lm5kBoJNqYev3rrXlspRJXV2sFDcJGXfuaDDasQw%3D%3D
 东森综合,http://www.kaniptv.cn/uadl.php?etoken=QKwSk4SQy%2FSggj536AShdftI8Qh8OfYnbfW%2BR%2Fw0eYUnNFToDwI3Xak76gkQT8wu8tWA8MFkJKJjD98lEGvRW7t%2FO77r%2FILNdRPgHCBAns8w8fxadx5CD7WDLxHaqzxcVK1otwH%2B1KLPQ7NKPc6hhZsNUXPl5P9TMLpWgu6pVNlSTUbWFfoILJUnn5DvVnCZZcklLpF%2BZyFIQzri2%2BdS8eIfQM4nKmwwsMOLDOFqsRUj%2FaJF9GqUQ6k6zFU6O9dThdaFhJ2heYSxrAHkBNaxibu4dE67b6DWAMkgS0HN%2F1Ad79j1oeK7Y8cp8KJeYz8%2F7fgXtMgTUmMGyhIBpQ0R%2BA%3D%3D
-寰宇新闻,http://www.kaniptv.cn/uadl.php?etoken=gcbFfHwmSez%2BMhEbxC66dQJIGVAZ9qVm5HFVYP%2BArMrij5u3d7xrjKwDQvv1p0wqWMHQaoMQbG7S%2FU%2B9bH3EjP8QPYxPcsGmbSODxnAoYFa9s1WU1x2OR1bkEN6n6hXpiLhTUqZ48RLBUEwOl5DE7DPGUwMNkGP6yEQPj7g6VQesL8IhXAuOYE1Luq%2Bbp0yC371jjP43xBs4jK9FnmLWoIuQ%2B4qLswC5Tz4fWBO3opRuxCcQTPrbX3YG%2F6z9IgbvMW5GPuBWO2MLDM6nmL0LHuOTS4GEdW%2BaxoGOVFkukEIV%2FHzUM56j82%2FyjQE6uCkutgfDrMjoQG7KFoOcgHw2WGww4eYiwBWOakameatwKitMQS44ytAH3jEQMegoDCDbZi27Bt7NyYwu2ZNgf9qd6g%3D%3D
-寰宇新闻台湾,http://www.kaniptv.cn/uadl.php?etoken=zZMfUdsy%2FU633r%2FiLSC81vz8cic9hhaMbGLdTMl5l8XUHCMPscORcXdd5AvQ2IFo%2FZea7L0Wm9Pk7w3cZsFmosxD22CGwvENMywXR6CST18rOZ7AhrX8gOgNW%2B6187wqGKhgD1XJZ5NV3r%2FfFfEJT67j8flitVFt6f2xNo3hkKxD73kHVHvV63DY5%2F7Bf0pBl04r%2BYqwXWzDUpv4wDJeL300vDmGVGWOvfyvg3HGtr1WMvxKBQvE4A754F5HBlNGosAJnV9z5rfjRYHd365X0toy6LHo%2BfibHiU5Obmt1MlCoSs4Xo7O3PDZIrQwQBzT0SQicOZksCn7cYaNv1S6aZqTju7Vi%2B4%2FGlRvA7JwBJwuI%2BW6eBIe%2BKgRNfDRTr474YWImzq1TwOlnrRHeeTmDNkav%2B%2FLhIgarAzhuX4q73VzawrEcSG%2Fsfok5nzHp97n
 龙华电视,http://www.kaniptv.cn/uadl.php?etoken=xUSlmVUf%2Fcw0DLektFulr7Q5dVMVAtL2AIWquhpqcf9bOZsGDTHiCiiGw5VMjzi8uGdgS7GzNbaQ5Q6W1eqVcTLA0PUMZZRojiK2lJ6iGC86Cd9eMozJBQB6Vv7lQPvDvpRwjx%2BK9FY6NNuSWQ79xt9gWkogLaHIHtYFNY24BvifXfOSt7baNJRsY3OvVH%2FpvZYehEO5eU5nHNQ2GI2SWeUZmX7pBr%2BI3jh%2BOCWX3Mlnt0XH79IqAboau6xhi%2Frm4n5%2FfF8wStahq5musUVxfoQdVhn1OgcH4Ir%2BJcGeyZb2R1iBV9Czy%2BRnhyDZKW6LO9AxXQgDwRWaIkJdY62iOlCFbop90lWmyRdwPqBo87dA%2Fg79NL7ANrRHPMfsHpPLK25KOTNKzgBZgaq%2FRgYx%2Fg%3D%3D
-龙华经典,http://www.kaniptv.cn/uadl.php?etoken=t%2FhpugHOlpqYPv374zVEyuIdcKs%2B7Zb%2FjX00Tv4RlrDamXFsngpeJrFlcXlkdZsgNuUTAxLn4pkumDAHML8iUSTI1%2FXfcZPqNMq1pgtjodZOcM9pCJYK1EddxOndMrnuPc6DpsX3ahKn2bU0z40bCB3UGSJ1oNkvEPK4sn3KWaOdmZr8QAiQo%2BA3Einnb91gzGItT%2FW3jlQjnqrpmhEe1paQn1aAKEfsr3ivqSxHQcuV8JQmsQTOmW6fFOfAEzJe9eYFGMWXlZX2Y6%2FqehS%2Fx3vjRE%2FmRmyL2V3PbTZe8O2n7xuuhR8QpJf9oHQDI9%2BAil%2BnlvEI9zRd2spXD%2BQb5seGLoaqGLit9O1uUpxfVS%2BN1gBOLbeVrUgCeWJ3dPKL4X8D8rn2jB35oFaoCUzRyQ%3D%3D
 龙华卡通,http://www.kaniptv.cn/uadl.php?etoken=Jq6dJfO347opHV0AAcGL3J9SxDL8XcVJ2Gzm2KlmMjJlxTb%2BdRbaz1GJYKsLBbq%2F6gxegmkA7SuIfOdzRC65wM4iMIGXhDUHDINjffv%2Fh97R%2F6k5KzMxRoc8LhTI%2FtxMejvBMNdqQf4veWY5rLXI%2BVH2TrStEjr%2Fo0sGEXF0hLgXjKw%2BjsUvqJMEEX1yVP4yPuhAn4uXBAMSxVfdJDZ6uj07xy6AvJjP8%2FYLXVEL%2B%2B7d%2Bkdx4xN5zxmX%2FlTiqCnRYoSCEiTJRcDXTL2d1AlZWOFrLBJL7%2Fl2ye7ypgqbarShXjlqO%2Fe216ayr%2FRSC6urCeLJ%2BDnHFPsPhpjkMsxAgPtnFKX86nu135KCCrny4WhnleJpEaeaQW0PVQIQ95NB6eNi91bqYKlm9IPNniP8EA%3D%3D
-龙华戏剧,http://www.kaniptv.cn/uadl.php?etoken=k7crBKPkot6rhHxC2v5zG6Nqxfez2jUa31E8wmLES4OqqVfz2NPNhAdn5u%2BmHhfI0gYbULtqqZF7XNp%2BYNLjS7AnHTqILX3AZbJh0Ty6Lj%2FPtBEexyuNJ3YS8NoBlAKtpjVABQymxmkHzo%2B3ArDM7bjh9H1A0QMP5ChLP7FN6xc33l5str6mkRljpezQeriT2KtDnqDdbs9ICbwMrnWsPiLwFQI056JSHh7HWLzkG3njF4D0Wl8P8zSNgxzsDdpkE4XHSMswQ8HI%2BmrnCVbegTuhwD%2F97980HDAviR4xAS0d3eos203KGIg%2BsQQWzk8YiwrhGQuoiNisXaIp6WHAFmhnoNEtGEGevr6HWVzT5zVGD9TVpb0%2FEVPsSTluRYSy%2BP%2FhcY%2FQJsCed3WfQXl%2BFw%3D%3D
 龙祥电影,http://www.kaniptv.cn/uadl.php?etoken=HJN7JeYm8SkA%2Fpie1YlMLW9TqEQJNJIqr3EDGRD3bfixCJxSiSRRd%2FSgB41OviE0fbbqNI9LPi%2BdbX5oeOz3HBy5L1P8E%2BqpZMneEDuVAF0xWgOG0IS13n5D6mQcc2SLmhAiOTGgT4fBf1%2Fo2OhCQg7ILkPG%2FpRrCuoyCC5jr0XwoL6fvJRX0J0KMwCmsY7fEtYJ1L7NO2OQ%2BDJndcXDuhPmftCNWfUUHuLCzykpHTD99Xw%2BeJS0BgiSXvEGeKnJ7N72hdO6cmOA2YyzCQGQdAf%2FmIPBhDkEbE0K840Zu0MX%2BK%2FjMlUFXqTvvgDocgETykjnd1rZoy34oWFqA8M3zm1Rx2U%2B4a9GokiXZbDFXP%2FWpS%2BmFVWdyW7OHteMMQ%2BC9DFNWvQ6HpYWuCZ4nI0fZw%3D%3D
-纬来精彩,http://www.kaniptv.cn/uadl.php?etoken=gnYF2EC3AswUq1pSGLWo4k%2BqzR5yXx2p3q6e2k69%2BGGW2%2FWPhAY2jTTL%2FIKABUaoQPqEypS9Ei6SKai7DPUQIPawEoxzjLh3Wd2Q2UFk%2FfyKuZuKpyDn9q3kcN0yC9Y608cmkfSsbNBsHG52tJYW7ZcWbA0xhj58iszxKonT30D5i2GH9VkpGNFLvPikEJRxBJrKXydF2HrjsO61%2FdFFpIv7lj5JXDwBat0t%2F5JER41gGepTMNbupEFV%2FxN0AWr%2FYo%2FQYTTh4t%2BnRRQW3bFv3Hloht%2FDnvT29LdqYmcUq4Rm9rF%2ByzGi%2F34k0POm0Ho5ETi6JnstyQdVYGfzvfxJwiCkEHs39%2Fgmoy1zxo1eHfNwDT97hVsvqy3%2Bqy3AF4HwRPeGbB60f3ld5JBXWnmkgg%3D%3D
 中天新闻,http://www.kaniptv.cn/uadl.php?etoken=d2A8AIvYd8EFBaFDYIaOpFlbnAGwT%2FzT3lJSGYFwvgol4EZyKQTj6iqieNoVSedQB7du8u8FvH6GkW3K55fdgSyz%2Bm6qDQE7VEDQrUI4pHxuGUK%2B2Moqi7uqHl1Usa0nM%2FeuUhr38UbwWjHq0iTE49MHRieGi8xEW2UORihsI6Vhzh01XeSfzKQMo%2FPgdof6wiF%2FL17shfM%2F3Loq8vPfAZPPboYmlwx%2BqK65UJg%2Bl3NONW9We0VFp1%2FLeniAGYqbuG6XxaBKLWp8FinNye6bIA0YR7hpqa54fwY4DsLYfoR8uC79%2BIT66Kxd5UyX5kbZumnCbPufkfFtMUYt%2FPe7%2Bw%3D%3D
 
-D1,#genre#
+E1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -522,7 +527,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
-E1,#genre#
+F1,#genre#
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
@@ -532,7 +537,7 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
-F1,#genre#
+G1,#genre#
 大爱电视,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 公视戏剧,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
@@ -551,15 +556,18 @@ F1,#genre#
 三立综合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
 中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
 
-G1,#genre#
+H1,#genre#
 凤凰中文,http://60.177.201.148:9999/%E5%8D%AB%E8%A7%86/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
 凤凰资讯,http://60.177.201.148:9999/%E5%8D%AB%E8%A7%86/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 环球旅游,http://60.177.201.148:9999/%E5%85%B6%E4%BB%96/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8
 临平新闻,http://60.177.201.148:9999/%E5%9C%B0%E6%96%B9/%E4%B8%B4%E5%B9%B3%E6%96%B0%E9%97%BB
+宁波1新闻,http://60.177.201.148:9999/%E5%9C%B0%E6%96%B9/%E5%AE%81%E6%B3%A21%E6%96%B0%E9%97%BB
+余杭新闻,http://60.177.201.148:9999/%E5%9C%B0%E6%96%B9/%E4%BD%99%E6%9D%AD%E6%96%B0%E9%97%BB
+浙江公共新闻,http://60.177.201.148:9999/%E5%9C%B0%E6%96%B9/%E6%B5%99%E6%B1%9F%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB
 浙江旅游之声,http://60.177.201.148:9999/%E5%B9%BF%E6%92%AD/%E6%B5%99%E6%B1%9F%E6%97%85%E6%B8%B8%E4%B9%8B%E5%A3%B0
 浙江新闻广播,http://60.177.201.148:9999/%E5%B9%BF%E6%92%AD/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD
 
-H1,#genre#
+I1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
 龙华卡通,http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
 龙华偶像,http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
