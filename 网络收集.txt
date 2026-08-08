@@ -524,7 +524,6 @@ TVBSNEWS,http://www.kaniptv.cn/uadl.php?etoken=E1XhwcKBU1QhtCAPeiMT9kwXzTkooq31A
 三立综合台,http://www.kaniptv.cn/uadl.php?etoken=biu64JHG64BMcwOFfP1c73qMzYlrPHz2lVo4%2B19yKfeEMBACDig2CFz2VR5DxwDN%2FGPsEBD7AAu6coy79CeW5eN93pkMIgk%2Bma%2BAkHVvx0bK%2Fz%2FG7%2FkiFgXbtJ0YBLMvj0gu8eNNLkTSXSHRJLh0CcJ0Xc6eXjrPHTsuZraO1EyRm7y%2Fo2btzxGUHQctOrpmzLcshk7Ga0WS2DFRACxoR7160a9kXDvsACNpAYxXOU744%2FAQRMAPmU2Xa0VAyxvmgcr1tL3SF4NnIyKY6iA4nCCl0CnHP%2Fd75vjA%2BZry4TTD7ManKDT8XpFLqMcX1%2BUIaAFa2U0ZuslKVpJoMFnLOl7xsmmgs919Wy9LBjLj%2FL8GlIqzr2eUl2sf1YmKvdPtPhnEh5RNLQeiU4tySFgYng%3D%3D
 
 F1,#genre#
-大爱电视,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
 经典电影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
@@ -533,7 +532,6 @@ F1,#genre#
 民视第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
 民视台湾台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
 民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-民视综艺台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
 
 G1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
