@@ -31,6 +31,17 @@ CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f
 金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?streamid=89d02e4874ce2908ec94af857b71cdf4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 B1,#genre#
+91BCM-003.李依依.外旅游意外了一个美,https://t33.cdn2020.com/video/m3u8/2022/11/14/487dfb9b/index.m3u8
+JD012.张芸熙.东新闻播报台.玩弄巨主播,https://t33.cdn2020.com/video/m3u8/2021/02/12/1ca1c2ec/index.m3u8
+成式同学会NTR-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/06/fe501850/index.m3u8
+给我看私处我就原谅你-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/03/31/9ea95262/index.m3u8
+喝酒后成为接吻恶魔-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/09/16/a7633960/index.m3u8
+老婆被粉丝成便器-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/07/25/c1361322/index.m3u8
+设定脚本一切都没有-七沢美亚,https://t33.cdn2020.com/video/m3u8/2024/10/09/698c671d/index.m3u8
+兔年要看兔郎-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/ef3a6cad/index.m3u8
+小恶魔的密著-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/8641f821/index.m3u8
+
+C1,#genre#
 AMC最爱电影,http://kaniptv.com/xz/xz.php?name=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1&index=0
 AXN动作,http://kaniptv.com/xz/xz.php?name=AXN%E5%8B%95%E4%BD%9C&index=0
 AXN,http://kaniptv.com/xz/xz.php?name=AXN%E9%A2%91%E9%81%93&index=0
@@ -494,22 +505,8 @@ Trvl旅游台,http://kaniptv.com/xz/xz.php?name=Trvl%E6%97%85%E6%B8%B8%E5%8F%B0&
 中天综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&index=3
 猪哥亮歌厅秀,http://kaniptv.com/xz/xz.php?name=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80&index=0
 
-C1,#genre#
-LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-
 D1,#genre#
-TVBS新闻,http://www.kaniptv.cn/uadl.php?etoken=7TRr%2BWczbLgZ4XTHBEZ9Frr5SwP01H7mOfKbnj2TuNaxcdU2ByY2TdRYmUIrpd8cei7k%2F3fdP8mHXwS3IzhR7%2BX8KJgj7meafxXIc4NIGRMF9SdShruPrtdL7g2Z6QsTBCJF5mmnumaToRfTjHyJFQe%2FPohlqhaAe3KLDimWL3mgcyZ2O39ZO00xSTQ4wbh2cWaRT9jgCNIKPsmBdMWfPoxR842vkMZFeNAC1h%2FK4DQlJOonqcvSNj%2B3MwsolW64cvg9iSzjLBbUPL3ESpFlDGd8WmHyU8rYTcYdSPKoGs7Enjlafs7brfqLlatGRTOp2Y%2BGNEWJUnhcpHdXTAgtwA%3D%3D
-TVBSNEWS,http://www.kaniptv.cn/uadl.php?etoken=E1XhwcKBU1QhtCAPeiMT9kwXzTkooq31AHK%2B8nPSq%2FqHcxO26CyvHzfo%2BrRkFihkTvhtGGTPRG1nmXVN8vf05ZVzO4Dg1TK8EfjVtoDSe5kzIcl%2Bg6d0WDD6VI%2BfyapgcnlRH9M7nBQERWZbyL4ozRONnu3VE50VaG2cN4Gwh%2BGGTMygIbz4YmGOZGDZMQ4DHGGl%2B0LHh3T2pE25CE%2B4rkVrmw2AXL%2BQujlUCkPiIOkogWKAmhCdScHZdKdUkYwvvbC8JkS1anAMMg06r%2BCqf6Gsw289%2BckmybTpEwz8J3GlIDDM46K%2FImi203A0PKD1u9yTcIdS2Y6NZJ4zZCC%2F0aISka%2FcuAihiXwvd6iwWHjG5P6BfaKDZWfuVXwUgyQTUHFRNqxmxa7YFwZSY8dsWA%3D%3D
-龙祥电影,http://www.kaniptv.cn/uadl.php?etoken=HJN7JeYm8SkA%2Fpie1YlMLW9TqEQJNJIqr3EDGRD3bfixCJxSiSRRd%2FSgB41OviE0fbbqNI9LPi%2BdbX5oeOz3HBy5L1P8E%2BqpZMneEDuVAF0xWgOG0IS13n5D6mQcc2SLmhAiOTGgT4fBf1%2Fo2OhCQg7ILkPG%2FpRrCuoyCC5jr0XwoL6fvJRX0J0KMwCmsY7fEtYJ1L7NO2OQ%2BDJndcXDuhPmftCNWfUUHuLCzykpHTD99Xw%2BeJS0BgiSXvEGeKnJ7N72hdO6cmOA2YyzCQGQdAf%2FmIPBhDkEbE0K840Zu0MX%2BK%2FjMlUFXqTvvgDocgETykjnd1rZoy34oWFqA8M3zm1Rx2U%2B4a9GokiXZbDFXP%2FWpS%2BmFVWdyW7OHteMMQ%2BC9DFNWvQ6HpYWuCZ4nI0fZw%3D%3D
-
-E1,#genre#
+CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
@@ -519,7 +516,22 @@ E1,#genre#
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
+E1,#genre#
+LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+
 F1,#genre#
+TVBS新闻,http://www.kaniptv.cn/uadl.php?etoken=7TRr%2BWczbLgZ4XTHBEZ9Frr5SwP01H7mOfKbnj2TuNaxcdU2ByY2TdRYmUIrpd8cei7k%2F3fdP8mHXwS3IzhR7%2BX8KJgj7meafxXIc4NIGRMF9SdShruPrtdL7g2Z6QsTBCJF5mmnumaToRfTjHyJFQe%2FPohlqhaAe3KLDimWL3mgcyZ2O39ZO00xSTQ4wbh2cWaRT9jgCNIKPsmBdMWfPoxR842vkMZFeNAC1h%2FK4DQlJOonqcvSNj%2B3MwsolW64cvg9iSzjLBbUPL3ESpFlDGd8WmHyU8rYTcYdSPKoGs7Enjlafs7brfqLlatGRTOp2Y%2BGNEWJUnhcpHdXTAgtwA%3D%3D
+TVBSNEWS,http://www.kaniptv.cn/uadl.php?etoken=E1XhwcKBU1QhtCAPeiMT9kwXzTkooq31AHK%2B8nPSq%2FqHcxO26CyvHzfo%2BrRkFihkTvhtGGTPRG1nmXVN8vf05ZVzO4Dg1TK8EfjVtoDSe5kzIcl%2Bg6d0WDD6VI%2BfyapgcnlRH9M7nBQERWZbyL4ozRONnu3VE50VaG2cN4Gwh%2BGGTMygIbz4YmGOZGDZMQ4DHGGl%2B0LHh3T2pE25CE%2B4rkVrmw2AXL%2BQujlUCkPiIOkogWKAmhCdScHZdKdUkYwvvbC8JkS1anAMMg06r%2BCqf6Gsw289%2BckmybTpEwz8J3GlIDDM46K%2FImi203A0PKD1u9yTcIdS2Y6NZJ4zZCC%2F0aISka%2FcuAihiXwvd6iwWHjG5P6BfaKDZWfuVXwUgyQTUHFRNqxmxa7YFwZSY8dsWA%3D%3D
+龙祥电影,http://www.kaniptv.cn/uadl.php?etoken=HJN7JeYm8SkA%2Fpie1YlMLW9TqEQJNJIqr3EDGRD3bfixCJxSiSRRd%2FSgB41OviE0fbbqNI9LPi%2BdbX5oeOz3HBy5L1P8E%2BqpZMneEDuVAF0xWgOG0IS13n5D6mQcc2SLmhAiOTGgT4fBf1%2Fo2OhCQg7ILkPG%2FpRrCuoyCC5jr0XwoL6fvJRX0J0KMwCmsY7fEtYJ1L7NO2OQ%2BDJndcXDuhPmftCNWfUUHuLCzykpHTD99Xw%2BeJS0BgiSXvEGeKnJ7N72hdO6cmOA2YyzCQGQdAf%2FmIPBhDkEbE0K840Zu0MX%2BK%2FjMlUFXqTvvgDocgETykjnd1rZoy34oWFqA8M3zm1Rx2U%2B4a9GokiXZbDFXP%2FWpS%2BmFVWdyW7OHteMMQ%2BC9DFNWvQ6HpYWuCZ4nI0fZw%3D%3D
+
+G1,#genre#
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
 经典电影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
@@ -529,7 +541,7 @@ F1,#genre#
 民视台湾台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
 民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 
-G1,#genre#
+H1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
 龙华卡通,http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
 龙华偶像,http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
