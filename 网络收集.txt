@@ -516,16 +516,6 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
 E1,#genre#
-东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
-寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-经典电影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
-镜电视新闻台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
-靖天资讯台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
-民视第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
-民视台湾台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
-民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-
-F1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
 龙华卡通,http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
 龙华偶像,http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
