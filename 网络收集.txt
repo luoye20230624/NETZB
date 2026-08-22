@@ -578,3 +578,6 @@ F1,#genre#
 中天新闻台,http://211.23.125.95:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天亚洲台,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
 
+G1,#genre#
+音乐仓库抖播,https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2042948034573661462_h264.flv?cdntagname=h264&combuf=cYgSUV6DndKTh1ornEyEGEna7ScvF8T%2B2R3pw94miadO8SrL2nH%2BgWDnRcSAx9iXUY3Oui8AMCW7rrwhCGHgFb%2Fo%2BE7YMqGoswOzUkwxBJfUuFHScbKywYoOmDv5UiTSzxaQPOIf2NGDTP55TKutd2MJdP9CrEH%2BAff81bHOoUARru%2BcIYAFSKMgk8pAQzInLIqlyA%2B5QP50HUKrGuK6xdpZ2vtR4CECmaV40rRcPm3oQY7UEA%3D%3D&expt=&extbuf=sPPj%2BC71Qmi5Jl3dIp9DlNw33EqPo5cfdkU2sCCJ4awQYEs29qDXYttT3n%2BeYFuXQMx7apnKtCUQPau5QZAx8kzn%2FCQn3zLM1DCyjm1tNiFlnG31RavPjzlIgWxzssXAxhxShKuUeIFwdXA%2Fb0CN3pa3pRLJnAVb1wylrSrT3VhuVNwxYonIU%2BU8S2Uj5cyhaxunDm46sjtV32zrkG0ZW%2F18QA%3D%3D&gid=&openid=A1B09635E399DEABB852E75AD321CDE3&q=3&sc=500&sv=1&txSecret=3e0bd231824a133775f08700fb8e393d&txTime=6A8AE2C3&vcodec=1&wu=1&wxext=0_3000_0&wxns=1&wxtoken=c3de0b5e851a8d48af8b3b063e2e1488
+
