@@ -31,6 +31,50 @@ CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f
 金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?streamid=89d02e4874ce2908ec94af857b71cdf4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 B1,#genre#
+AMC电影台阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1032
+AXN阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1054
+TVBS阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1251
+TVBS欢乐阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1018
+TVBS新闻阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1051
+八大第一阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1043
+八大戏剧阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1057
+八大综合阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1019
+大爱电视阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1216
+东森财经阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1017
+东森戏剧阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1042
+东森新闻阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1014
+东森幼幼阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1008
+东森综合阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1041
+非凡新闻阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1013
+公视阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1201
+公视儿少台阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=custom29
+华视阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1049
+寰宇新闻阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1222
+镜电视新闻台阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1031
+旅游生活阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1005
+民视阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1050
+民视新闻阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1204
+年代新闻阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1192
+人间卫视阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1198
+三立都会阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1020
+三立台湾阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1021
+三立新闻阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1016
+探索世界阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1257
+纬来电影阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1183
+纬来日本阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1026
+纬来体育阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1011
+纬来戏剧阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1186
+纬来育乐阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1045
+纬来综合阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1044
+亚洲旅游阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1219
+壹新闻阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1242
+中视阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1048
+中视菁采台阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1235
+中天新闻阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1015
+中天娱乐阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1023
+中天综合阿爬,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1022
+
+C1,#genre#
 AMC最爱电影,http://kaniptv.com/xz/xz.php?name=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1&index=0
 AXN动作,http://kaniptv.com/xz/xz.php?name=AXN%E5%8B%95%E4%BD%9C&index=0
 AXN,http://kaniptv.com/xz/xz.php?name=AXN%E9%A2%91%E9%81%93&index=0
@@ -494,7 +538,7 @@ Trvl旅游台,http://kaniptv.com/xz/xz.php?name=Trvl%E6%97%85%E6%B8%B8%E5%8F%B0&
 中天综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&index=3
 猪哥亮歌厅秀,http://kaniptv.com/xz/xz.php?name=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80&index=0
 
-C1,#genre#
+D1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -505,7 +549,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
-D1,#genre#
+E1,#genre#
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
@@ -515,16 +559,14 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
-E1,#genre#
-TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+F1,#genre#
 黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
 黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
 黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
 美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
 美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
 
-F1,#genre#
+G1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
 龙华卡通,http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
 龙华偶像,http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
