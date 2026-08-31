@@ -730,6 +730,15 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
 H1,#genre#
+TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
+翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
+黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
+黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
+美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
+美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
+
+I1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
 龙华卡通,http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
 龙华偶像,http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
