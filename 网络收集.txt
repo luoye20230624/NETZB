@@ -33,14 +33,9 @@ CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f
 B1,#genre#
 AI新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=23730e403a46b090d03c86d83d8d1ec0;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 AXN电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5fd3d62b32096638e180fc091451a66d;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-AXN英,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=042dba4d2faaa29cd2fa4c0125416d25;http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8e4592eeaa5212ed3558bd1b24b6d951;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-MyTV黄金翡翠台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=abc050755794b4ef300af19d88be2c0a;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-Now华剧台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=ab89a61ded743371184f508a167692fe;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-Now星影台国,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7a7990063114003ced239629688e9d15;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 StarMovies,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=51e0dd9e95c49c84bc07b0676083439e;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 TVB生活台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=98794fafab0c7b0e92896a344adcc2ed;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 TVB星河粤,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e4e7401dba979b89d746e5317393c046;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-TVB亚洲武侠国,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=15f9404076895c9e3b6bfd3cbe86dea8;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 TVBS欢乐台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=a2309b6cbfc99db79ceefc6cdc56b325;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469690bbd713c31465d;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 TVBS,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0bd56183204431b5e504b83caf1b663e;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
@@ -60,7 +55,6 @@ fun探索娱乐台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5902c92e3a3
 寰宇新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=74dff16b9a15e132f3f6f1e492798fdc;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 寰宇新闻台湾台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=80f22eaf4939855166f51cb1d03ac8cb;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 靖天映画,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f6a2d52bc9426dd978faf71a4faf0f2c;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-镜新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=621196a4058865fa2e59403c8caece23;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 龙华经典,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=feb7ba9ae4e3835f88efd731c0da1481;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 龙华日韩,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=6df0f1613e0095a7100beedb7eca7fdf;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 美亚电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8467323d62ebf5ab353627d4e186969f;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
@@ -69,7 +63,6 @@ fun探索娱乐台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5902c92e3a3
 民视台湾台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=33ff2e131e511e896174ecbd0f45bed9;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 民视综艺,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=04079f48cbe86ce355ebdd255a715460;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 年代新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2c3aefae870d058ac9f18e9ad8496321;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-三立iNEWS,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e33696616f15fbec121f05d66fcb4eae;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 三立台湾台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5bc6e57495b4d08a3ec4fdf5d875d30f;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 数位影迷电影台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=6679c5476f8e812f90ccc4f2e89e411b;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 台湾戏剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dfdbce83799ec65c19241e3a4cbc58dd;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
@@ -639,6 +632,15 @@ Trvl旅游台,http://kaniptv.com/xz/xz.php?name=Trvl%E6%97%85%E6%B8%B8%E5%8F%B0&
 猪哥亮歌厅秀,http://kaniptv.com/xz/xz.php?name=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80&index=0
 
 F1,#genre#
+Amazing惊艳成人电影台,http://lhzb.lmllml.top:8000/play/Njk1NTo3.flv?token=QRm82XRORhpk644nbXuANA&exp=4102444800&sign=689c108528d67dd5f4144377fd6b503a
+JStar极限电影台,http://lhzb.lmllml.top:8000/play/Njk3ODo3.flv?token=eCcNXohUGW6neGalBw2Xyw&exp=4102444800&sign=b917b8f8288af5ac9c3547b575acb521
+彩虹电影台,http://lhzb.lmllml.top:8000/play/Njk3MDo3.flv?token=pxT4fc6Dvceaycz_4Z2Egw&exp=4102444800&sign=8c1ac32123ee1fd85dca9cbebf291669
+彩虹电影台,http://lhzb.lmllml.top:8000/play/Njk3MTo3.flv?token=E3_6gbVCWTJULKyxKd74OQ&exp=4102444800&sign=4285285d3193cec114e27bddeb28087a
+极限电影台,http://lhzb.lmllml.top:8000/play/Njk3OTo3.flv?token=i3MZjnI8Ky_s7pnuiv5uog&exp=4102444800&sign=2cf95c160fbc1d22b0b206531edc9746
+惊艳成人电影台,http://lhzb.lmllml.top:8000/play/Njk1Njo3.flv?token=Bmhw97ZDvo5k05YBIUlP-Q&exp=4102444800&sign=a2e2d998212a39cfa5f4c6f7d648e43b
+香蕉台,http://lhzb.lmllml.top:8000/play/Njk1ODo3.flv?token=KRwl3SN2y7dW9if4-0lDBw&exp=4102444800&sign=259c0b527f6795bcc4f860f7748d5233
+
+G1,#genre#
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -649,7 +651,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
-G1,#genre#
+H1,#genre#
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
@@ -659,7 +661,7 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
-H1,#genre#
+I1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
 龙华卡通,http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
 龙华偶像,http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
