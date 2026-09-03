@@ -35,7 +35,6 @@ AI新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=23730e403a46b090d03c8
 StarMovies,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=51e0dd9e95c49c84bc07b0676083439e;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 TVB生活台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=98794fafab0c7b0e92896a344adcc2ed;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 TVB星河粤,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e4e7401dba979b89d746e5317393c046;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-TVBS欢乐台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=a2309b6cbfc99db79ceefc6cdc56b325;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469690bbd713c31465d;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 TVBS,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0bd56183204431b5e504b83caf1b663e;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 大爱,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9973dc4175eb22fe28b974b4d74f02a5;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
@@ -46,7 +45,6 @@ TVBS,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0bd56183204431b5e504b83ca
 翡翠台马来,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9150accbde417e7620852691b50f2f40;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 凤凰香港,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=aff37a7016d2f0ae2cab0c213a506bc0;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 凤凰资讯,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c23cb91e28540bf120c96780829055cc;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-华视新闻资讯,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f33de20f378bbcb4bbd1cc681a50458b;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 寰宇新闻台湾台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=80f22eaf4939855166f51cb1d03ac8cb;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 靖天映画,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f6a2d52bc9426dd978faf71a4faf0f2c;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 龙华经典,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=feb7ba9ae4e3835f88efd731c0da1481;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
@@ -536,6 +534,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
+广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
 广西综艺旅游,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
 上海新闻,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
