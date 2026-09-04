@@ -45,7 +45,6 @@ StarMovies,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=51e0dd9e95c49c84bc0
 台湾戏剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dfdbce83799ec65c19241e3a4cbc58dd;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 探索科学,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f4975d0ed246b5afff5d742da9bd9c11;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 中天新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4a789f0e146848bda0dee842cba28533;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-中天娱乐,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9906b83f3d72734ea8db527527ea841a;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 
 C1,#genre#
 AMC最爱电影,http://kaniptv.com/xz/xz.php?name=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1&index=0
