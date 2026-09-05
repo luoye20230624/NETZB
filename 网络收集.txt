@@ -43,7 +43,6 @@ StarMovies,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=51e0dd9e95c49c84bc0
 美亚电影台国,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=667c693e234bc614bcb57ed6c940caca;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 台湾戏剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dfdbce83799ec65c19241e3a4cbc58dd;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 探索科学,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f4975d0ed246b5afff5d742da9bd9c11;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
-中天新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4a789f0e146848bda0dee842cba28533;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;machineid=b9829a8c21c8d80f;userip=171.39.22.179;useragent=Dalvik/2.1.0 (Linux; U; Android 15; V2443A Build/AP3A.240905.015.A2_V000L1);source=dl_app
 
 C1,#genre#
 AMC最爱电影,http://kaniptv.com/xz/xz.php?name=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1&index=0
@@ -540,15 +539,6 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
 G1,#genre#
-TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
-黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
-黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
-美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
-美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
-
-H1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
 龙华卡通,http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
 龙华偶像,http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
