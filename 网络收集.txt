@@ -522,17 +522,6 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
 F1,#genre#
-爱星影视的直播间,http://footyun.top:35455/douyu/9476806
-热门影视/综艺的疯狂吐槽,http://footyun.top:35455/douyu/9663084
-顺风为主其他情喜影剧集锦为辅随机连播,http://footyun.top:35455/douyu/6369954
-闲暇观看综艺,http://footyun.top:35455/yy/1354932379
-易中天品三国,http://footyun.top:35455/yy/1354931498
-易中天品三国完整版,http://footyun.top:35455/yy/1461244449
-游戏剧情系列/恐怖/主机/通关,http://footyun.top:35455/douyu/10401475
-整活视频，开心就好,http://footyun.top:35455/douyu/10319056
-直男粤语爆笑综艺reaction,http://footyun.top:35455/douyu/8764282
-
-G1,#genre#
 龙华卡通,http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
 龙华卡通,http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
 龙华偶像,http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
@@ -585,4 +574,14 @@ G1,#genre#
 中天新闻台,http://211.23.125.95:50007/li-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻台,http://211.23.125.95:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天亚洲台,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
+
+G1,#genre#
+热门影视/综艺的疯狂吐槽,http://footyun.top:35455/douyu/9663084
+顺风为主其他情喜影剧集锦为辅随机连播,http://footyun.top:35455/douyu/6369954
+闲暇观看综艺,http://footyun.top:35455/yy/1354932379
+易中天品三国,http://footyun.top:35455/yy/1354931498
+易中天品三国完整版,http://footyun.top:35455/yy/1461244449
+游戏剧情系列/恐怖/主机/通关,http://footyun.top:35455/douyu/10401475
+整活视频，开心就好,http://footyun.top:35455/douyu/10319056
+直男粤语爆笑综艺reaction,http://footyun.top:35455/douyu/8764282
 
