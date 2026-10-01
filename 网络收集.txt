@@ -514,7 +514,6 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
 E1,#genre#
-爱星影视的直播间,http://footyun.top:35455/douyu/9476806
 芳芳说故事每日更新,http://footyun.top:35455/douyu/9401905
 热门影视/综艺的疯狂吐槽,http://footyun.top:35455/douyu/9663084
 顺风为主其他情喜影剧集锦为辅随机连播,http://footyun.top:35455/douyu/6369954
