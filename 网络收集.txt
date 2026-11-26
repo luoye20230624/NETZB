@@ -39,6 +39,17 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 
 C1,#genre#
+CHC影迷电影,http://bobohome.ignorelist.com:20247/migu?id=952383261
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+公共新闻,http://bobohome.ignorelist.com:20247/migu?id=626064693
+海南广播电视总台新闻,http://bobohome.ignorelist.com:20247/migu?id=962067517
+环球旅游,http://bobohome.ignorelist.com:20247/migu?id=958475356
+吉林综艺文化,http://bobohome.ignorelist.com:20247/migu?id=968553163
+江苏综艺,http://bobohome.ignorelist.com:20247/migu?id=626065193
+陕西新闻资讯,http://bobohome.ignorelist.com:20247/migu?id=956909289
+
+D1,#genre#
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
@@ -48,7 +59,7 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
-D1,#genre#
+E1,#genre#
 爱星影视的直播间,http://footyun.top:35455/douyu/9476806
 芳芳说故事每日更新,http://footyun.top:35455/douyu/9401905
 热门影视/综艺的疯狂吐槽,http://footyun.top:35455/douyu/9663084
