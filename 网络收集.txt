@@ -41,6 +41,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 C1,#genre#
 CHC影迷电影,http://bobohome.ignorelist.com:20247/migu?id=952383261
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 公共新闻,http://bobohome.ignorelist.com:20247/migu?id=626064693
 海南广播电视总台新闻,http://bobohome.ignorelist.com:20247/migu?id=962067517
